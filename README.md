@@ -19,13 +19,9 @@ The Developer's Salaries dataset is very rich, and many questions could be posed
 These findings align with trends in the Norwegian labor market, where salaries are influenced by:
 
 1. Technical skills and their market demand.
-
 2. Geographical location, with major cities like Oslo offering higher wages.
-
 3. Work experience, where salaries grow with professional advancement.
-
 4. Education, which plays a role but is not the sole factor in determining salary.
-
 5. Employment type, as freelancers tend to earn more than traditional employees.
 
 These trends reflect Norway’s economic policies, which emphasize supporting freelance work, fostering technological growth, and maintaining a strong work-life balance.
