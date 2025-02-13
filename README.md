@@ -1,4 +1,4 @@
-## Projects: Developer's Salaries
+## Project: Developer's Salaries
 In this project, we analyze workforce data from Norway to explore the relationships between various factors such as Gender, Education, Experience, Workplace, Employment Status, Field, Salary, and Bonuses. The goal is to understand how these variables influence salaries and identify key trends in the Norwegian labor market.
 
 ## Questions
