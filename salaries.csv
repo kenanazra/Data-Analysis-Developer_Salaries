@@ -1,0 +1,2683 @@
+kjønn,utdanning,erfaring,arbeidssted,arbeidssituasjon,fag,lønn,bonus?
+mann,4,7,Agder,"in-house, privat sektor",AI / maskinlæring,865000,Nei
+mann,5,2,Nordland,"in-house, offentlig/kommunal sektor",AI / maskinlæring,756000,Nei
+mann,4,30,Oslo,konsulent,AI / maskinlæring,1500000,Nei
+mann,5,25,Oslo,konsulent,AI / maskinlæring,1200000,Nei
+mann,9,18,Oslo,"in-house, privat sektor",AI / maskinlæring,1200000,Nei
+mann,2,14,Oslo,"in-house, privat sektor",AI / maskinlæring,839000,Nei
+kvinne,5,9,Oslo,konsulent,AI / maskinlæring,1200000,Ja
+mann,6,9,Oslo,"in-house, privat sektor",AI / maskinlæring,980000,Ja
+annet / ønsker ikke oppgi,5,5,Oslo,"in-house, privat sektor",AI / maskinlæring,750000,Nei
+mann,5,5,Oslo,konsulent,AI / maskinlæring,910000,Nei
+mann,5,4,Oslo,konsulent,AI / maskinlæring,820000,Nei
+mann,5,4,Oslo,konsulent,AI / maskinlæring,850000,Ja
+mann,5,3,Oslo,konsulent,AI / maskinlæring,730000,Ja
+mann,5,3,Oslo,"in-house, privat sektor",AI / maskinlæring,850000,Nei
+mann,5,2,Oslo,"in-house, privat sektor",AI / maskinlæring,710000,Nei
+mann,5,2,Oslo,"in-house, privat sektor",AI / maskinlæring,894000,Nei
+kvinne,5,0,Oslo,"in-house, offentlig/kommunal sektor",AI / maskinlæring,732000,Nei
+mann,0,4,Rogaland,konsulent,AI / maskinlæring,910000,Ja
+mann,5,3,Rogaland,"in-house, privat sektor",AI / maskinlæring,900000,Ja
+mann,5,1,Troms og Finnmark,"in-house, offentlig/kommunal sektor",AI / maskinlæring,640000,Nei
+mann,5,23,Trøndelag,"in-house, privat sektor",AI / maskinlæring,1152000,Nei
+mann,6,7,Trøndelag,"in-house, privat sektor",AI / maskinlæring,810000,Nei
+mann,5,5,Trøndelag,konsulent,AI / maskinlæring,797000,Nei
+mann,5,2,Trøndelag,konsulent,AI / maskinlæring,650000,Ja
+mann,5,0,Trøndelag,konsulent,AI / maskinlæring,595000,Nei
+mann,5,0,Trøndelag,konsulent,AI / maskinlæring,650000,Nei
+mann,0,2,Vestland,"in-house, privat sektor",AI / maskinlæring,525000,Nei
+mann,17,28,Viken,"in-house, privat sektor",AI / maskinlæring,1950000,Ja
+mann,18,1,Viken,"in-house, privat sektor",AI / maskinlæring,660000,Ja
+mann,5,8,Agder,"in-house, offentlig/kommunal sektor",annet,850000,Nei
+mann,2,0,Agder,konsulent,annet,460000,Nei
+mann,1,0,Innlandet,"in-house, privat sektor",annet,550000,Nei
+mann,0,10,Nordland,konsulent,annet,550000,Nei
+mann,5,27,Oslo,konsulent,annet,780000,Nei
+mann,6,25,Oslo,konsulent,annet,1800000,Ja
+mann,3,24,Oslo,"in-house, privat sektor",annet,920000,Nei
+mann,6,23,Oslo,"in-house, privat sektor",annet,1326000,Nei
+mann,3,22,Oslo,"in-house, privat sektor",annet,1370000,Ja
+mann,1,20,Oslo,konsulent,annet,1500000,Ja
+kvinne,5,19,Oslo,"in-house, privat sektor",annet,1170000,Ja
+mann,8,17,Oslo,konsulent,annet,1300000,Nei
+kvinne,5,16,Oslo,konsulent,annet,1100000,Nei
+mann,6,16,Oslo,konsulent,annet,1210000,Ja
+mann,5,14,Oslo,"in-house, privat sektor",annet,700000,Nei
+mann,3,9,Oslo,"in-house, privat sektor",annet,1025000,Nei
+kvinne,5,7,Oslo,konsulent,annet,850000,Ja
+mann,5,7,Oslo,konsulent,annet,780000,Nei
+mann,18,7,Oslo,konsulent,annet,1000000,Nei
+mann,3,6,Oslo,konsulent,annet,900000,Nei
+mann,3,5,Oslo,konsulent,annet,750000,Ja
+mann,5,3,Oslo,konsulent,annet,870000,Nei
+mann,3,2,Oslo,konsulent,annet,560000,Ja
+mann,3,2,Oslo,konsulent,annet,590000,Nei
+mann,5,2,Oslo,konsulent,annet,685000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",annet,700000,Nei
+mann,7,2,Oslo,konsulent,annet,715000,Ja
+mann,5,1,Oslo,konsulent,annet,750000,Ja
+mann,5,28,Rogaland,"in-house, offentlig/kommunal sektor",annet,800000,Nei
+mann,4,23,Rogaland,"in-house, privat sektor",annet,2400000,Ja
+mann,1,1,Rogaland,konsulent,annet,650000,Ja
+mann,3,0,Rogaland,konsulent,annet,570000,Ja
+mann,5,8,Trøndelag,"in-house, privat sektor",annet,910000,Ja
+mann,3,2,Trøndelag,"in-house, offentlig/kommunal sektor",annet,630000,Nei
+mann,3,1,Trøndelag,"in-house, offentlig/kommunal sektor",annet,525000,Nei
+mann,5,1,Trøndelag,konsulent,annet,570000,Ja
+mann,5,10,utlandet,"in-house, privat sektor",annet,1200000,Ja
+mann,4,23,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",annet,740000,Nei
+mann,0,15,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",annet,930000,Nei
+mann,3,5,Vestfold og Telemark,"in-house, privat sektor",annet,580000,Nei
+mann,3,5,Vestfold og Telemark,"in-house, privat sektor",annet,750000,Ja
+mann,14,20,Vestland,konsulent,annet,515000,Nei
+mann,3,13,Vestland,"in-house, privat sektor",annet,925000,Nei
+mann,3,7,Vestland,frilans / selvstendig næringsdrivende,annet,2400000,Nei
+mann,20,30,Viken,"in-house, offentlig/kommunal sektor",annet,1014000,Nei
+mann,6,24,Viken,"in-house, privat sektor",annet,1150000,Ja
+mann,5,8,Viken,konsulent,annet,1500000,Ja
+mann,3,5,Viken,konsulent,annet,950000,Nei
+mann,2,0,Viken,"in-house, privat sektor",annet,485000,Nei
+mann,7,12,Oslo,konsulent,annet,960000,Ja
+mann,5,8,Oslo,frilans / selvstendig næringsdrivende,annet,1650000,Nei
+mann,5,7,Oslo,"in-house, privat sektor",annet,840000,Ja
+kvinne,5,1,Troms og Finnmark,konsulent,annet,1500000,Nei
+mann,3,12,Vestland,"in-house, privat sektor",annet,310000,Nei
+mann,2,8,Viken,"in-house, privat sektor",annet,683000,Nei
+kvinne,3,7,Innlandet,"in-house, offentlig/kommunal sektor",app,780000,Nei
+mann,3,0,Innlandet,"in-house, privat sektor",app,600000,Nei
+mann,1,30,Oslo,frilans / selvstendig næringsdrivende,app,1500000,Ja
+mann,4,28,Oslo,"in-house, privat sektor",app,1100000,Nei
+mann,3,25,Oslo,"in-house, privat sektor",app,735000,Nei
+mann,1,14,Oslo,"in-house, privat sektor",app,900000,Nei
+mann,3,13,Oslo,konsulent,app,1100000,Ja
+mann,7,12,Oslo,frilans / selvstendig næringsdrivende,app,940000,Ja
+mann,3,12,Oslo,"in-house, privat sektor",app,1135000,Nei
+mann,3,10,Oslo,"in-house, offentlig/kommunal sektor",app,910000,Nei
+mann,6,10,Oslo,"in-house, privat sektor",app,950000,Nei
+mann,3,10,Oslo,"in-house, offentlig/kommunal sektor",app,969000,Nei
+mann,5,10,Oslo,konsulent,app,1000000,Ja
+kvinne,5,9,Oslo,"in-house, privat sektor",app,970000,Nei
+kvinne,3,9,Oslo,"in-house, privat sektor",app,1115000,Nei
+mann,3,9,Oslo,"in-house, privat sektor",app,1090000,Ja
+mann,3,9,Oslo,"in-house, privat sektor",app,1100000,Nei
+mann,3,8,Oslo,"in-house, privat sektor",app,840099,Nei
+mann,3,8,Oslo,"in-house, privat sektor",app,900000,Ja
+mann,16,8,Oslo,"in-house, privat sektor",app,950000,Ja
+mann,3,8,Oslo,"in-house, offentlig/kommunal sektor",app,1050000,Nei
+kvinne,3,7,Oslo,"in-house, privat sektor",app,1100000,Nei
+mann,5,6,Oslo,"in-house, privat sektor",app,750000,Ja
+mann,8,6,Oslo,"in-house, privat sektor",app,950000,Ja
+mann,6,6,Oslo,"in-house, privat sektor",app,1015000,Nei
+kvinne,5,5,Oslo,"in-house, privat sektor",app,930318,Ja
+mann,3,5,Oslo,"in-house, offentlig/kommunal sektor",app,690000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",app,800000,Nei
+kvinne,6,4,Oslo,"in-house, privat sektor",app,758000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",app,800000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",app,835000,Ja
+mann,4,4,Oslo,"in-house, privat sektor",app,875000,Nei
+mann,3,4,Oslo,konsulent,app,1750000,Nei
+kvinne,3,3,Oslo,"in-house, privat sektor",app,735000,Nei
+kvinne,3,3,Oslo,"in-house, privat sektor",app,770000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",app,690000,Nei
+mann,3,3,Oslo,konsulent,app,700000,Nei
+mann,3,3,Oslo,"in-house, offentlig/kommunal sektor",app,700000,Nei
+mann,5,3,Oslo,konsulent,app,850000,Nei
+kvinne,3,2,Oslo,"in-house, offentlig/kommunal sektor",app,590000,Nei
+kvinne,4,2,Oslo,"in-house, offentlig/kommunal sektor",app,625000,Nei
+mann,0,2,Oslo,konsulent,app,510000,Nei
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",app,680000,Nei
+kvinne,3,1,Oslo,"in-house, privat sektor",app,600000,Nei
+mann,5,1,Oslo,konsulent,app,630000,Nei
+mann,5,1,Oslo,konsulent,app,780000,Nei
+kvinne,5,0,Oslo,konsulent,app,630000,Nei
+mann,5,0,Oslo,konsulent,app,550000,Nei
+mann,3,0,Oslo,"in-house, offentlig/kommunal sektor",app,630000,Nei
+mann,9,0,Oslo,"in-house, privat sektor",app,650000,Nei
+mann,1,20,Rogaland,konsulent,app,1050000,Ja
+mann,3,7,Rogaland,konsulent,app,780000,Ja
+mann,3,3,Rogaland,"in-house, privat sektor",app,750000,Nei
+mann,3,3,Troms og Finnmark,"in-house, privat sektor",app,735000,Nei
+mann,18,18,Trøndelag,"in-house, privat sektor",app,1150000,Ja
+mann,3,14,Trøndelag,"in-house, privat sektor",app,770000,Nei
+mann,3,13,Trøndelag,"in-house, privat sektor",app,903000,Nei
+mann,8,8,Trøndelag,"in-house, privat sektor",app,800000,Nei
+kvinne,5,5,Trøndelag,"in-house, offentlig/kommunal sektor",app,765000,Nei
+mann,2,4,Trøndelag,konsulent,app,680000,Nei
+kvinne,3,3,Trøndelag,"in-house, privat sektor",app,726000,Nei
+mann,5,1,utlandet,"in-house, offentlig/kommunal sektor",app,774201,Ja
+kvinne,2,5,Vestfold og Telemark,konsulent,app,680000,Ja
+mann,3,22,Vestland,"in-house, privat sektor",app,887000,Nei
+mann,3,20,Vestland,"in-house, privat sektor",app,720000,Ja
+mann,5,9,Vestland,konsulent,app,890000,Nei
+mann,5,6,Vestland,konsulent,app,860000,Nei
+mann,5,0,Vestland,konsulent,app,550000,Ja
+mann,5,0,Vestland,konsulent,app,625000,Ja
+mann,3,14,Viken,konsulent,app,880000,Nei
+mann,3,11,Viken,konsulent,app,1100000,Nei
+annet / ønsker ikke oppgi,3,3,Viken,"in-house, privat sektor",app,556000,Nei
+mann,5,20,Agder,"in-house, privat sektor",arkitektur,1200000,Nei
+annet / ønsker ikke oppgi,7,30,Innlandet,"in-house, offentlig/kommunal sektor",arkitektur,950000,Nei
+mann,3,28,Innlandet,"in-house, privat sektor",arkitektur,1100000,Nei
+mann,14,25,Innlandet,konsulent,arkitektur,1000000,Nei
+mann,4,21,Innlandet,"in-house, offentlig/kommunal sektor",arkitektur,1000000,Nei
+mann,3,16,Innlandet,"in-house, offentlig/kommunal sektor",arkitektur,950000,Nei
+mann,3,34,Møre og Romsdal,"in-house, privat sektor",arkitektur,1200000,Nei
+mann,3,25,Møre og Romsdal,konsulent,arkitektur,775000,Ja
+mann,3,16,Møre og Romsdal,konsulent,arkitektur,900000,Nei
+mann,3,14,Møre og Romsdal,"in-house, privat sektor",arkitektur,1100000,Nei
+mann,5,14,Nordland,"in-house, privat sektor",arkitektur,1100000,Ja
+mann,5,44,Oslo,"in-house, privat sektor",arkitektur,980000,Nei
+mann,5,32,Oslo,konsulent,arkitektur,1300000,Nei
+mann,5,31,Oslo,konsulent,arkitektur,1250000,Nei
+mann,3,30,Oslo,konsulent,arkitektur,1100000,Nei
+mann,5,30,Oslo,"in-house, privat sektor",arkitektur,1265000,Nei
+mann,3,29,Oslo,"in-house, privat sektor",arkitektur,1000000,Nei
+mann,6,27,Oslo,konsulent,arkitektur,1000000,Ja
+mann,3,26,Oslo,"in-house, privat sektor",arkitektur,1100000,Nei
+mann,3,26,Oslo,konsulent,arkitektur,1400000,Nei
+mann,4,25,Oslo,"in-house, privat sektor",arkitektur,1005000,Nei
+mann,10,25,Oslo,konsulent,arkitektur,1360000,Ja
+mann,5,25,Oslo,konsulent,arkitektur,1400000,Ja
+mann,5,24,Oslo,"in-house, offentlig/kommunal sektor",arkitektur,1138300,Nei
+mann,15,22,Oslo,"in-house, offentlig/kommunal sektor",arkitektur,1230000,Nei
+mann,5,21,Oslo,"in-house, offentlig/kommunal sektor",arkitektur,1290000,Ja
+kvinne,5,20,Oslo,"in-house, offentlig/kommunal sektor",arkitektur,1030000,Ja
+mann,3,20,Oslo,"in-house, privat sektor",arkitektur,900000,Nei
+mann,4,20,Oslo,konsulent,arkitektur,1000000,Ja
+mann,2,20,Oslo,"in-house, privat sektor",arkitektur,1050000,Nei
+mann,0,20,Oslo,konsulent,arkitektur,1150000,Ja
+mann,5,20,Oslo,"in-house, privat sektor",arkitektur,1200000,Nei
+mann,3,20,Oslo,konsulent,arkitektur,1450000,Ja
+mann,3,20,Oslo,konsulent,arkitektur,1627000,Nei
+mann,17,19,Oslo,"in-house, privat sektor",arkitektur,1350000,Nei
+mann,5,18,Oslo,konsulent,arkitektur,1250000,Ja
+mann,5,18,Oslo,"in-house, privat sektor",arkitektur,1300000,Ja
+mann,9,18,Oslo,konsulent,arkitektur,1300000,Ja
+mann,5,17,Oslo,"in-house, offentlig/kommunal sektor",arkitektur,1000000,Nei
+mann,3,17,Oslo,konsulent,arkitektur,1000000,Nei
+kvinne,15,16,Oslo,"in-house, privat sektor",arkitektur,1240000,Ja
+kvinne,0,15,Oslo,"in-house, offentlig/kommunal sektor",arkitektur,750000,Nei
+mann,3,15,Oslo,konsulent,arkitektur,1100000,Ja
+mann,0,15,Oslo,konsulent,arkitektur,1250000,Ja
+mann,0,14,Oslo,konsulent,arkitektur,1300000,Nei
+mann,3,13,Oslo,konsulent,arkitektur,1250000,Ja
+mann,3,13,Oslo,"in-house, privat sektor",arkitektur,1300000,Nei
+mann,5,12,Oslo,"in-house, offentlig/kommunal sektor",arkitektur,1050000,Nei
+mann,5,12,Oslo,konsulent,arkitektur,1271000,Nei
+mann,0,12,Oslo,konsulent,arkitektur,1900000,Ja
+kvinne,0,10,Oslo,konsulent,arkitektur,940000,Ja
+kvinne,10,10,Oslo,konsulent,arkitektur,1200000,Ja
+mann,6,10,Oslo,konsulent,arkitektur,1467000,Nei
+mann,0,10,Oslo,"in-house, privat sektor",arkitektur,1750000,Ja
+mann,3,9,Oslo,konsulent,arkitektur,1350000,Ja
+mann,3,8,Oslo,"in-house, offentlig/kommunal sektor",arkitektur,955000,Nei
+annet / ønsker ikke oppgi,3,7,Oslo,"in-house, privat sektor",arkitektur,1350000,Nei
+kvinne,5,6,Oslo,konsulent,arkitektur,1050000,Ja
+mann,5,6,Oslo,"in-house, privat sektor",arkitektur,1500000,Nei
+kvinne,3,5,Oslo,konsulent,arkitektur,1100000,Ja
+mann,5,5,Oslo,konsulent,arkitektur,880000,Ja
+mann,5,5,Oslo,konsulent,arkitektur,920501,Nei
+mann,5,5,Oslo,"in-house, privat sektor",arkitektur,970000,Ja
+mann,5,4,Oslo,konsulent,arkitektur,1000000,Ja
+mann,5,3,Oslo,"in-house, privat sektor",arkitektur,780000,Ja
+mann,5,2,Oslo,konsulent,arkitektur,650000,Nei
+mann,3,1,Oslo,konsulent,arkitektur,530000,Nei
+mann,5,1,Oslo,"in-house, privat sektor",arkitektur,750000,Nei
+mann,15,30,Rogaland,konsulent,arkitektur,1600000,Ja
+mann,5,26,Rogaland,konsulent,arkitektur,990000,Nei
+kvinne,4,24,Rogaland,"in-house, privat sektor",arkitektur,1090000,Nei
+mann,3,17,Rogaland,konsulent,arkitektur,1016000,Nei
+mann,5,16,Rogaland,"in-house, offentlig/kommunal sektor",arkitektur,1000000,Nei
+mann,0,14,Rogaland,konsulent,arkitektur,980000,Nei
+mann,2,12,Rogaland,konsulent,arkitektur,1025000,Ja
+mann,8,10,Rogaland,"in-house, privat sektor",arkitektur,2000000,Nei
+mann,3,7,Rogaland,"in-house, privat sektor",arkitektur,700000,Nei
+mann,4,5,Rogaland,konsulent,arkitektur,950000,Ja
+mann,0,28,Trøndelag,"in-house, privat sektor",arkitektur,1700000,Ja
+mann,16,25,Trøndelag,"in-house, offentlig/kommunal sektor",arkitektur,1182000,Nei
+mann,0,25,Trøndelag,"in-house, privat sektor",arkitektur,1200000,Nei
+mann,5,17,Trøndelag,konsulent,arkitektur,1350000,Nei
+mann,5,15,Trøndelag,"in-house, privat sektor",arkitektur,1000010,Nei
+mann,3,12,Trøndelag,"in-house, privat sektor",arkitektur,950000,Nei
+kvinne,6,0,Trøndelag,konsulent,arkitektur,680000,Nei
+mann,0,30,Vestfold og Telemark,"in-house, privat sektor",arkitektur,1350000,Nei
+mann,0,18,Vestfold og Telemark,konsulent,arkitektur,1300000,Nei
+mann,3,15,Vestfold og Telemark,"in-house, privat sektor",arkitektur,1100000,Nei
+mann,3,12,Vestfold og Telemark,"in-house, privat sektor",arkitektur,862000,Ja
+mann,5,8,Vestfold og Telemark,konsulent,arkitektur,875000,Ja
+mann,3,6,Vestfold og Telemark,"in-house, privat sektor",arkitektur,1000000,Nei
+mann,3,3,Vestfold og Telemark,"in-house, privat sektor",arkitektur,845000,Nei
+mann,4,21,Vestland,"in-house, privat sektor",arkitektur,1000000,Nei
+mann,2,20,Vestland,"in-house, privat sektor",arkitektur,845000,Nei
+mann,3,20,Vestland,"in-house, privat sektor",arkitektur,968000,Nei
+mann,4,20,Vestland,"in-house, offentlig/kommunal sektor",arkitektur,1210000,Nei
+mann,5,20,Vestland,konsulent,arkitektur,1250000,Ja
+mann,5,18,Vestland,"in-house, privat sektor",arkitektur,1100000,Ja
+mann,17,16,Vestland,"in-house, privat sektor",arkitektur,1250000,Nei
+mann,5,14,Vestland,"in-house, privat sektor",arkitektur,1040000,Nei
+mann,5,13,Vestland,"in-house, privat sektor",arkitektur,1071293,Nei
+mann,2,5,Vestland,"in-house, privat sektor",arkitektur,1300000,Nei
+mann,3,25,Viken,frilans / selvstendig næringsdrivende,arkitektur,2450000,Nei
+mann,2,23,Viken,"in-house, offentlig/kommunal sektor",arkitektur,950000,Nei
+mann,5,23,Viken,"in-house, privat sektor",arkitektur,1250000,Ja
+mann,5,17,Viken,frilans / selvstendig næringsdrivende,arkitektur,2500000,Nei
+mann,6,15,Viken,konsulent,arkitektur,1100000,Ja
+mann,3,10,Viken,konsulent,arkitektur,1100000,Ja
+mann,2,7,Viken,"in-house, privat sektor",arkitektur,950000,Nei
+mann,5,7,Viken,"in-house, privat sektor",arkitektur,1000000,Nei
+kvinne,4,4,Viken,konsulent,arkitektur,730000,Ja
+mann,3,3,Viken,konsulent,arkitektur,540000,Ja
+mann,3,3,Viken,"in-house, privat sektor",arkitektur,750000,Nei
+mann,4,5,Innlandet,"in-house, privat sektor",automatisering,800000,Ja
+mann,0,3,Innlandet,"in-house, offentlig/kommunal sektor",automatisering,664000,Nei
+mann,5,16,Møre og Romsdal,"in-house, privat sektor",automatisering,850000,Nei
+mann,14,28,Oslo,"in-house, privat sektor",automatisering,1010000,Ja
+mann,4,24,Oslo,konsulent,automatisering,800000,Ja
+kvinne,17,20,Oslo,konsulent,automatisering,1800000,Ja
+mann,0,16,Oslo,"in-house, privat sektor",automatisering,1100000,Ja
+mann,3,12,Oslo,konsulent,automatisering,1200000,Ja
+mann,3,11,Oslo,"in-house, privat sektor",automatisering,820000,Nei
+kvinne,4,10,Oslo,"in-house, offentlig/kommunal sektor",automatisering,874000,Nei
+mann,6,9,Oslo,konsulent,automatisering,1800000,Ja
+kvinne,3,8,Oslo,"in-house, privat sektor",automatisering,900000,Nei
+mann,4,8,Oslo,"in-house, privat sektor",automatisering,950000,Nei
+mann,5,8,Oslo,konsulent,automatisering,1060000,Nei
+kvinne,5,5,Oslo,"in-house, privat sektor",automatisering,810000,Nei
+mann,3,4,Oslo,konsulent,automatisering,850000,Nei
+mann,5,4,Oslo,konsulent,automatisering,850000,Ja
+kvinne,1,2,Oslo,"in-house, privat sektor",automatisering,650000,Ja
+mann,3,2,Oslo,konsulent,automatisering,700000,Ja
+mann,5,2,Oslo,konsulent,automatisering,750000,Ja
+mann,3,30,Rogaland,konsulent,automatisering,1350000,Ja
+mann,2,22,Rogaland,"in-house, privat sektor",automatisering,1000000,Nei
+mann,3,15,Rogaland,"in-house, privat sektor",automatisering,820000,Ja
+mann,1,10,Rogaland,"in-house, privat sektor",automatisering,573000,Ja
+kvinne,1,0,Rogaland,"in-house, privat sektor",automatisering,620000,Ja
+mann,13,19,Trøndelag,konsulent,automatisering,1030000,Ja
+mann,6,3,Trøndelag,"in-house, offentlig/kommunal sektor",automatisering,614000,Nei
+mann,5,18,utlandet,"in-house, privat sektor",automatisering,1600000,Ja
+mann,3,4,Vestland,"in-house, privat sektor",automatisering,740000,Ja
+mann,3,0,Vestland,"in-house, privat sektor",automatisering,350000,Nei
+mann,3,4,Viken,"in-house, privat sektor",automatisering,800000,Ja
+kvinne,3,3,Viken,"in-house, privat sektor",automatisering,568000,Nei
+mann,6,29,Agder,konsulent,backend,1040000,Nei
+mann,6,26,Agder,"in-house, privat sektor",backend,1136000,Nei
+mann,4,21,Agder,"in-house, offentlig/kommunal sektor",backend,950000,Nei
+mann,5,21,Agder,"in-house, privat sektor",backend,1200000,Nei
+mann,2,19,Agder,konsulent,backend,700000,Nei
+mann,5,19,Agder,"in-house, privat sektor",backend,1140000,Nei
+mann,4,13,Agder,"in-house, privat sektor",backend,760000,Nei
+mann,0,12,Agder,"in-house, privat sektor",backend,680000,Nei
+mann,0,10,Agder,"in-house, offentlig/kommunal sektor",backend,890000,Nei
+mann,5,10,Agder,"in-house, privat sektor",backend,1006000,Ja
+mann,3,9,Agder,"in-house, offentlig/kommunal sektor",backend,870000,Nei
+mann,3,7,Agder,"in-house, offentlig/kommunal sektor",backend,670000,Ja
+mann,5,7,Agder,"in-house, privat sektor",backend,1000000,Nei
+mann,3,4,Agder,konsulent,backend,630000,Nei
+mann,3,4,Agder,konsulent,backend,730000,Nei
+kvinne,3,3,Agder,konsulent,backend,790000,Ja
+mann,5,3,Agder,"in-house, offentlig/kommunal sektor",backend,725900,Nei
+mann,0,3,Agder,"in-house, privat sektor",backend,750000,Nei
+mann,3,3,Agder,konsulent,backend,766000,Nei
+mann,3,2,Agder,"in-house, privat sektor",backend,585000,Nei
+mann,3,2,Agder,"in-house, privat sektor",backend,600000,Nei
+mann,3,1,Agder,konsulent,backend,605000,Ja
+mann,6,1,Agder,"in-house, privat sektor",backend,625000,Nei
+mann,6,1,Agder,"in-house, privat sektor",backend,670000,Nei
+mann,3,1,Agder,"in-house, privat sektor",backend,680000,Nei
+mann,3,28,Innlandet,"in-house, privat sektor",backend,960000,Nei
+mann,6,25,Innlandet,"in-house, privat sektor",backend,925000,Nei
+mann,5,23,Innlandet,"in-house, privat sektor",backend,843000,Ja
+mann,6,17,Innlandet,"in-house, privat sektor",backend,865000,Nei
+mann,3,15,Innlandet,konsulent,backend,1600000,Ja
+mann,3,12,Innlandet,konsulent,backend,850000,Ja
+mann,3,12,Innlandet,konsulent,backend,920000,Ja
+mann,3,7,Innlandet,"in-house, privat sektor",backend,1100000,Nei
+mann,3,6,Innlandet,"in-house, privat sektor",backend,730000,Nei
+mann,4,5,Innlandet,konsulent,backend,900000,Ja
+mann,3,4,Innlandet,konsulent,backend,700000,Ja
+mann,3,2,Innlandet,"in-house, privat sektor",backend,590000,Nei
+kvinne,3,1,Innlandet,"in-house, offentlig/kommunal sektor",backend,630000,Nei
+mann,3,27,Møre og Romsdal,"in-house, privat sektor",backend,840000,Nei
+mann,0,12,Møre og Romsdal,"in-house, privat sektor",backend,786290,Ja
+mann,5,12,Møre og Romsdal,konsulent,backend,930000,Ja
+mann,9,19,Nordland,"in-house, offentlig/kommunal sektor",backend,850000,Nei
+mann,3,15,Nordland,"in-house, privat sektor",backend,900000,Ja
+mann,0,4,Nordland,"in-house, privat sektor",backend,860000,Nei
+mann,3,3,Nordland,"in-house, offentlig/kommunal sektor",backend,667500,Nei
+mann,3,1,Nordland,"in-house, privat sektor",backend,540000,Nei
+mann,3,1,Nordland,"in-house, offentlig/kommunal sektor",backend,650000,Nei
+mann,17,39,Oslo,"in-house, privat sektor",backend,1100000,Nei
+mann,2,30,Oslo,"in-house, privat sektor",backend,1100000,Nei
+mann,3,30,Oslo,"in-house, privat sektor",backend,1300000,Nei
+mann,3,29,Oslo,konsulent,backend,900000,Ja
+mann,5,28,Oslo,"in-house, privat sektor",backend,917000,Nei
+mann,4,28,Oslo,"in-house, privat sektor",backend,1200000,Nei
+mann,15,27,Oslo,konsulent,backend,1200000,Ja
+mann,5,27,Oslo,frilans / selvstendig næringsdrivende,backend,1300000,Nei
+mann,2,26,Oslo,"in-house, offentlig/kommunal sektor",backend,980000,Nei
+mann,5,26,Oslo,konsulent,backend,1630000,Nei
+mann,3,25,Oslo,"in-house, privat sektor",backend,830000,Nei
+mann,3,25,Oslo,konsulent,backend,1250000,Nei
+mann,5,25,Oslo,konsulent,backend,1700000,Ja
+mann,3,24,Oslo,"in-house, privat sektor",backend,1050000,Nei
+mann,5,24,Oslo,"in-house, offentlig/kommunal sektor",backend,1050000,Nei
+mann,4,24,Oslo,konsulent,backend,1700000,Nei
+mann,2,23,Oslo,"in-house, privat sektor",backend,860000,Nei
+mann,3,23,Oslo,"in-house, privat sektor",backend,970000,Nei
+mann,3,23,Oslo,"in-house, privat sektor",backend,1300000,Ja
+mann,3,23,Oslo,frilans / selvstendig næringsdrivende,backend,2000000,Nei
+mann,5,22,Oslo,konsulent,backend,1150000,Nei
+mann,3,21,Oslo,"in-house, offentlig/kommunal sektor",backend,1060000,Nei
+mann,2,20,Oslo,"in-house, privat sektor",backend,820000,Nei
+mann,4,20,Oslo,konsulent,backend,1000000,Ja
+mann,5,20,Oslo,"in-house, privat sektor",backend,1600000,Ja
+mann,7,19,Oslo,"in-house, offentlig/kommunal sektor",backend,905000,Nei
+mann,5,19,Oslo,"in-house, offentlig/kommunal sektor",backend,1020000,Nei
+mann,5,19,Oslo,konsulent,backend,1200000,Ja
+mann,10,19,Oslo,konsulent,backend,1600000,Ja
+mann,5,18,Oslo,"in-house, privat sektor",backend,1200000,Nei
+mann,3,18,Oslo,konsulent,backend,1200000,Ja
+mann,16,18,Oslo,"in-house, privat sektor",backend,1200000,Nei
+mann,5,18,Oslo,"in-house, privat sektor",backend,1230000,Nei
+mann,3,18,Oslo,"in-house, privat sektor",backend,1300000,Nei
+kvinne,5,17,Oslo,konsulent,backend,990000,Ja
+mann,3,17,Oslo,konsulent,backend,1190000,Nei
+mann,0,17,Oslo,konsulent,backend,1200000,Ja
+mann,6,17,Oslo,"in-house, privat sektor",backend,1260000,Nei
+mann,4,17,Oslo,konsulent,backend,1300000,Ja
+mann,5,17,Oslo,konsulent,backend,1350000,Nei
+mann,3,17,Oslo,"in-house, privat sektor",backend,1400000,Nei
+mann,5,17,Oslo,konsulent,backend,1400000,Nei
+kvinne,3,16,Oslo,"in-house, privat sektor",backend,1000000,Nei
+mann,0,16,Oslo,"in-house, privat sektor",backend,1000000,Nei
+mann,18,16,Oslo,konsulent,backend,1450000,Nei
+mann,12,15,Oslo,"in-house, offentlig/kommunal sektor",backend,1000108,Nei
+mann,18,15,Oslo,frilans / selvstendig næringsdrivende,backend,1400000,Nei
+kvinne,4,14,Oslo,konsulent,backend,960000,Nei
+kvinne,3,14,Oslo,"in-house, privat sektor",backend,1080000,Nei
+mann,4,14,Oslo,"in-house, privat sektor",backend,890000,Nei
+mann,5,14,Oslo,"in-house, offentlig/kommunal sektor",backend,911939,Nei
+mann,0,14,Oslo,"in-house, offentlig/kommunal sektor",backend,920000,Nei
+mann,0,14,Oslo,"in-house, privat sektor",backend,950000,Nei
+mann,3,14,Oslo,"in-house, privat sektor",backend,1035000,Nei
+mann,3,14,Oslo,konsulent,backend,1100000,Ja
+mann,5,14,Oslo,konsulent,backend,1290000,Ja
+mann,3,14,Oslo,konsulent,backend,1550000,Nei
+mann,3,14,Oslo,frilans / selvstendig næringsdrivende,backend,2500000,Nei
+mann,4,13,Oslo,"in-house, offentlig/kommunal sektor",backend,820000,Nei
+mann,3,13,Oslo,"in-house, privat sektor",backend,1155000,Nei
+mann,5,13,Oslo,konsulent,backend,1500000,Ja
+mann,5,13,Oslo,konsulent,backend,1600000,Nei
+mann,5,12,Oslo,"in-house, offentlig/kommunal sektor",backend,960000,Nei
+mann,5,12,Oslo,"in-house, privat sektor",backend,1030000,Ja
+mann,3,12,Oslo,"in-house, privat sektor",backend,1030000,Nei
+mann,5,12,Oslo,konsulent,backend,1050000,Nei
+mann,3,12,Oslo,konsulent,backend,1200000,Nei
+mann,3,12,Oslo,konsulent,backend,1200000,Nei
+mann,5,12,Oslo,"in-house, privat sektor",backend,1245000,Nei
+mann,3,12,Oslo,konsulent,backend,1400000,Ja
+mann,3,12,Oslo,konsulent,backend,1600000,Nei
+mann,6,11,Oslo,"in-house, offentlig/kommunal sektor",backend,900000,Nei
+mann,3,11,Oslo,"in-house, privat sektor",backend,1000000,Ja
+mann,3,11,Oslo,"in-house, privat sektor",backend,1050000,Ja
+mann,3,11,Oslo,konsulent,backend,1100000,Ja
+mann,18,11,Oslo,"in-house, privat sektor",backend,1100000,Ja
+mann,3,11,Oslo,konsulent,backend,1500000,Ja
+kvinne,5,10,Oslo,konsulent,backend,1000000,Ja
+mann,5,10,Oslo,"in-house, privat sektor",backend,800000,Ja
+mann,3,10,Oslo,"in-house, privat sektor",backend,950000,Nei
+mann,3,10,Oslo,"in-house, privat sektor",backend,955000,Nei
+mann,5,10,Oslo,konsulent,backend,1000000,Ja
+mann,5,10,Oslo,konsulent,backend,1052000,Nei
+mann,5,10,Oslo,konsulent,backend,1100000,Nei
+mann,3,10,Oslo,"in-house, privat sektor",backend,1200000,Nei
+mann,5,10,Oslo,konsulent,backend,1200000,Ja
+mann,3,10,Oslo,konsulent,backend,1400000,Ja
+mann,5,10,Oslo,konsulent,backend,1400000,Ja
+mann,5,9,Oslo,konsulent,backend,882000,Nei
+mann,3,9,Oslo,"in-house, privat sektor",backend,885000,Nei
+mann,5,9,Oslo,konsulent,backend,960000,Nei
+mann,3,9,Oslo,konsulent,backend,1025000,Nei
+mann,3,9,Oslo,"in-house, privat sektor",backend,1050000,Ja
+mann,5,9,Oslo,konsulent,backend,1100000,Ja
+mann,5,9,Oslo,"in-house, privat sektor",backend,1123000,Nei
+mann,4,9,Oslo,"in-house, privat sektor",backend,1144000,Ja
+kvinne,18,8,Oslo,konsulent,backend,960000,Ja
+kvinne,4,8,Oslo,konsulent,backend,1200000,Ja
+mann,0,8,Oslo,"in-house, privat sektor",backend,750000,Nei
+mann,5,8,Oslo,"in-house, privat sektor",backend,840000,Nei
+mann,15,8,Oslo,"in-house, privat sektor",backend,850000,Ja
+mann,3,8,Oslo,"in-house, privat sektor",backend,910000,Nei
+mann,0,8,Oslo,"in-house, privat sektor",backend,930000,Ja
+mann,4,8,Oslo,konsulent,backend,980000,Nei
+mann,4,8,Oslo,"in-house, privat sektor",backend,1000000,Nei
+mann,5,8,Oslo,"in-house, privat sektor",backend,1000000,Ja
+mann,5,8,Oslo,konsulent,backend,1000000,Ja
+mann,5,8,Oslo,konsulent,backend,1030000,Ja
+mann,3,8,Oslo,"in-house, privat sektor",backend,1100000,Nei
+mann,5,8,Oslo,konsulent,backend,1100000,Ja
+mann,5,8,Oslo,konsulent,backend,1100000,Nei
+mann,5,8,Oslo,konsulent,backend,1200000,Nei
+mann,3,8,Oslo,konsulent,backend,1200000,Nei
+mann,5,8,Oslo,konsulent,backend,1200000,Nei
+kvinne,5,7,Oslo,"in-house, privat sektor",backend,790000,Nei
+kvinne,6,7,Oslo,konsulent,backend,930000,Ja
+kvinne,5,7,Oslo,konsulent,backend,1010000,Nei
+mann,3,7,Oslo,"in-house, offentlig/kommunal sektor",backend,770000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",backend,795000,Nei
+mann,4,7,Oslo,"in-house, privat sektor",backend,830000,Nei
+mann,5,7,Oslo,"in-house, privat sektor",backend,850000,Ja
+mann,3,7,Oslo,"in-house, privat sektor",backend,900000,Ja
+mann,5,7,Oslo,"in-house, privat sektor",backend,900000,Nei
+mann,3,7,Oslo,konsulent,backend,940000,Nei
+mann,5,7,Oslo,konsulent,backend,1037000,Nei
+mann,5,7,Oslo,"in-house, privat sektor",backend,1050000,Ja
+mann,5,7,Oslo,konsulent,backend,1200000,Nei
+kvinne,3,6,Oslo,"in-house, privat sektor",backend,970000,Nei
+mann,3,6,Oslo,"in-house, privat sektor",backend,703500,Nei
+mann,3,6,Oslo,"in-house, privat sektor",backend,750000,Ja
+mann,3,6,Oslo,"in-house, privat sektor",backend,787000,Nei
+mann,5,6,Oslo,"in-house, offentlig/kommunal sektor",backend,800000,Ja
+mann,3,6,Oslo,"in-house, privat sektor",backend,875000,Nei
+mann,3,6,Oslo,"in-house, privat sektor",backend,880000,Nei
+mann,0,6,Oslo,"in-house, offentlig/kommunal sektor",backend,900000,Nei
+mann,5,6,Oslo,konsulent,backend,980000,Nei
+mann,3,6,Oslo,konsulent,backend,1000000,Ja
+mann,5,6,Oslo,konsulent,backend,1000000,Nei
+mann,5,6,Oslo,konsulent,backend,1020000,Nei
+mann,3,6,Oslo,konsulent,backend,1100000,Nei
+mann,4,6,Oslo,"in-house, privat sektor",backend,1200000,Ja
+mann,3,6,Oslo,konsulent,backend,1400000,Ja
+mann,3,6,Oslo,frilans / selvstendig næringsdrivende,backend,1700000,Ja
+annet / ønsker ikke oppgi,3,5,Oslo,"in-house, privat sektor",backend,1000000,Nei
+kvinne,5,5,Oslo,"in-house, privat sektor",backend,1200000,Ja
+mann,3,5,Oslo,"in-house, offentlig/kommunal sektor",backend,670000,Nei
+mann,5,5,Oslo,konsulent,backend,700000,Ja
+mann,3,5,Oslo,"in-house, offentlig/kommunal sektor",backend,708000,Nei
+mann,5,5,Oslo,konsulent,backend,796000,Nei
+mann,4,5,Oslo,konsulent,backend,825000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",backend,840000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",backend,840000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",backend,850000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",backend,850000,Nei
+mann,5,5,Oslo,konsulent,backend,890000,Ja
+mann,3,5,Oslo,konsulent,backend,900000,Ja
+mann,3,5,Oslo,"in-house, privat sektor",backend,900000,Ja
+mann,5,5,Oslo,frilans / selvstendig næringsdrivende,backend,910000,Nei
+mann,3,5,Oslo,konsulent,backend,915000,Ja
+mann,5,5,Oslo,konsulent,backend,925000,Nei
+mann,18,5,Oslo,konsulent,backend,925000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",backend,927000,Nei
+mann,5,5,Oslo,konsulent,backend,930000,Nei
+mann,5,5,Oslo,konsulent,backend,950000,Ja
+mann,5,5,Oslo,"in-house, offentlig/kommunal sektor",backend,950000,Nei
+mann,4,5,Oslo,"in-house, privat sektor",backend,1100000,Ja
+mann,5,5,Oslo,konsulent,backend,1200000,Ja
+mann,3,5,Oslo,frilans / selvstendig næringsdrivende,backend,1600000,Ja
+kvinne,5,4,Oslo,konsulent,backend,767000,Nei
+kvinne,5,4,Oslo,konsulent,backend,850000,Ja
+kvinne,5,4,Oslo,konsulent,backend,860000,Ja
+kvinne,5,4,Oslo,konsulent,backend,900000,Nei
+kvinne,3,4,Oslo,konsulent,backend,945000,Ja
+mann,3,4,Oslo,"in-house, privat sektor",backend,730000,Nei
+mann,3,4,Oslo,"in-house, offentlig/kommunal sektor",backend,732300,Nei
+mann,5,4,Oslo,konsulent,backend,790000,Ja
+mann,3,4,Oslo,"in-house, privat sektor",backend,800000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",backend,800000,Ja
+mann,0,4,Oslo,konsulent,backend,834000,Ja
+mann,3,4,Oslo,konsulent,backend,850000,Ja
+mann,5,4,Oslo,"in-house, privat sektor",backend,850000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",backend,870000,Ja
+mann,3,4,Oslo,konsulent,backend,890000,Ja
+mann,3,4,Oslo,"in-house, offentlig/kommunal sektor",backend,897000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",backend,920000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",backend,921106,Ja
+mann,3,4,Oslo,"in-house, privat sektor",backend,950000,Ja
+mann,6,4,Oslo,"in-house, privat sektor",backend,980000,Ja
+mann,2,4,Oslo,konsulent,backend,1000000,Ja
+mann,5,4,Oslo,konsulent,backend,1080000,Ja
+mann,5,4,Oslo,"in-house, offentlig/kommunal sektor",backend,1200000,Nei
+kvinne,3,3,Oslo,konsulent,backend,635000,Nei
+kvinne,3,3,Oslo,"in-house, offentlig/kommunal sektor",backend,675000,Nei
+kvinne,5,3,Oslo,"in-house, offentlig/kommunal sektor",backend,726000,Nei
+kvinne,5,3,Oslo,"in-house, offentlig/kommunal sektor",backend,740000,Nei
+kvinne,3,3,Oslo,"in-house, offentlig/kommunal sektor",backend,745000,Nei
+kvinne,3,3,Oslo,"in-house, privat sektor",backend,800000,Nei
+mann,3,3,Oslo,konsulent,backend,600000,Nei
+mann,4,3,Oslo,"in-house, offentlig/kommunal sektor",backend,624000,Nei
+mann,5,3,Oslo,konsulent,backend,660000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",backend,664000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",backend,680000,Nei
+mann,5,3,Oslo,"in-house, privat sektor",backend,700000,Nei
+mann,3,3,Oslo,"in-house, offentlig/kommunal sektor",backend,700000,Nei
+mann,4,3,Oslo,"in-house, offentlig/kommunal sektor",backend,700000,Nei
+mann,3,3,Oslo,konsulent,backend,720000,Nei
+mann,0,3,Oslo,"in-house, privat sektor",backend,720000,Ja
+mann,3,3,Oslo,"in-house, offentlig/kommunal sektor",backend,720000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",backend,740000,Nei
+mann,5,3,Oslo,konsulent,backend,754000,Nei
+mann,2,3,Oslo,konsulent,backend,766000,Nei
+mann,5,3,Oslo,"in-house, privat sektor",backend,780000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",backend,800000,Nei
+mann,5,3,Oslo,konsulent,backend,800000,Ja
+mann,3,3,Oslo,konsulent,backend,817000,Nei
+mann,3,3,Oslo,konsulent,backend,820000,Nei
+mann,5,3,Oslo,konsulent,backend,850000,Nei
+mann,5,3,Oslo,konsulent,backend,870000,Nei
+mann,5,3,Oslo,konsulent,backend,880000,Ja
+mann,5,3,Oslo,"in-house, privat sektor",backend,880000,Nei
+mann,5,3,Oslo,konsulent,backend,925000,Nei
+mann,5,3,Oslo,konsulent,backend,1000000,Nei
+kvinne,3,2,Oslo,"in-house, privat sektor",backend,670000,Nei
+kvinne,3,2,Oslo,konsulent,backend,695000,Nei
+kvinne,1,2,Oslo,"in-house, privat sektor",backend,700000,Nei
+kvinne,5,2,Oslo,"in-house, offentlig/kommunal sektor",backend,730000,Nei
+kvinne,5,2,Oslo,"in-house, privat sektor",backend,735000,Nei
+kvinne,5,2,Oslo,"in-house, privat sektor",backend,775000,Nei
+kvinne,5,2,Oslo,"in-house, privat sektor",backend,850000,Ja
+mann,4,2,Oslo,"in-house, privat sektor",backend,550000,Nei
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",backend,590000,Nei
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",backend,600000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",backend,600000,Nei
+mann,5,2,Oslo,konsulent,backend,620000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",backend,630000,Ja
+mann,3,2,Oslo,konsulent,backend,630000,Ja
+mann,3,2,Oslo,"in-house, privat sektor",backend,660000,Nei
+mann,6,2,Oslo,konsulent,backend,670000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",backend,700000,Nei
+mann,6,2,Oslo,konsulent,backend,700000,Ja
+mann,5,2,Oslo,konsulent,backend,705000,Nei
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",backend,708000,Nei
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",backend,710000,Nei
+mann,3,2,Oslo,konsulent,backend,724000,Ja
+mann,3,2,Oslo,konsulent,backend,725000,Nei
+mann,5,2,Oslo,konsulent,backend,735000,Ja
+mann,5,2,Oslo,konsulent,backend,750000,Nei
+mann,5,2,Oslo,konsulent,backend,755000,Nei
+mann,4,2,Oslo,"in-house, privat sektor",backend,765000,Nei
+mann,5,2,Oslo,konsulent,backend,765000,Nei
+mann,5,2,Oslo,konsulent,backend,770000,Nei
+mann,3,2,Oslo,konsulent,backend,775000,Ja
+mann,5,2,Oslo,konsulent,backend,780000,Nei
+mann,5,2,Oslo,konsulent,backend,800000,Nei
+mann,5,2,Oslo,"in-house, privat sektor",backend,800000,Nei
+mann,5,2,Oslo,"in-house, offentlig/kommunal sektor",backend,820000,Nei
+mann,7,2,Oslo,"in-house, privat sektor",backend,850000,Nei
+mann,5,2,Oslo,"in-house, privat sektor",backend,858000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",backend,880000,Ja
+mann,5,2,Oslo,konsulent,backend,980000,Nei
+kvinne,2,1,Oslo,"in-house, privat sektor",backend,437000,Nei
+kvinne,3,1,Oslo,konsulent,backend,550000,Ja
+kvinne,3,1,Oslo,"in-house, offentlig/kommunal sektor",backend,630000,Nei
+kvinne,5,1,Oslo,konsulent,backend,650000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",backend,429000,Nei
+mann,3,1,Oslo,konsulent,backend,550000,Nei
+mann,6,1,Oslo,konsulent,backend,560000,Ja
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",backend,575000,Nei
+mann,3,1,Oslo,konsulent,backend,585000,Nei
+mann,5,1,Oslo,konsulent,backend,592000,Ja
+mann,3,1,Oslo,"in-house, privat sektor",backend,600000,Nei
+mann,3,1,Oslo,konsulent,backend,600000,Nei
+mann,3,1,Oslo,konsulent,backend,610000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",backend,610000,Ja
+mann,3,1,Oslo,konsulent,backend,620000,Ja
+mann,5,1,Oslo,konsulent,backend,630000,Nei
+mann,3,1,Oslo,konsulent,backend,635000,Nei
+mann,5,1,Oslo,konsulent,backend,650000,Nei
+mann,5,1,Oslo,konsulent,backend,670000,Ja
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",backend,700000,Nei
+mann,5,1,Oslo,"in-house, offentlig/kommunal sektor",backend,710000,Nei
+mann,3,0,Oslo,konsulent,backend,550000,Ja
+mann,3,0,Oslo,konsulent,backend,550000,Ja
+mann,3,0,Oslo,"in-house, offentlig/kommunal sektor",backend,580000,Nei
+mann,3,0,Oslo,"in-house, offentlig/kommunal sektor",backend,600000,Nei
+mann,5,0,Oslo,konsulent,backend,600000,Ja
+mann,5,0,Oslo,konsulent,backend,620000,Nei
+mann,3,0,Oslo,"in-house, offentlig/kommunal sektor",backend,630000,Nei
+mann,5,0,Oslo,konsulent,backend,630000,Nei
+mann,5,0,Oslo,konsulent,backend,630000,Nei
+mann,3,0,Oslo,konsulent,backend,650000,Ja
+mann,5,0,Oslo,konsulent,backend,650000,Nei
+mann,5,0,Oslo,konsulent,backend,660000,Ja
+mann,5,0,Oslo,konsulent,backend,670000,Nei
+mann,5,0,Oslo,"in-house, privat sektor",backend,730125,Nei
+mann,4,36,Rogaland,"in-house, privat sektor",backend,1092000,Nei
+mann,17,32,Rogaland,"in-house, privat sektor",backend,1100000,Ja
+mann,4,24,Rogaland,"in-house, privat sektor",backend,1010000,Nei
+mann,3,23,Rogaland,konsulent,backend,680000,Nei
+mann,5,23,Rogaland,"in-house, offentlig/kommunal sektor",backend,1200000,Nei
+kvinne,4,20,Rogaland,"in-house, privat sektor",backend,1150000,Nei
+mann,5,18,Rogaland,konsulent,backend,853000,Nei
+mann,5,13,Rogaland,konsulent,backend,1150000,Ja
+mann,5,12,Rogaland,"in-house, privat sektor",backend,1060000,Nei
+mann,5,12,Rogaland,"in-house, privat sektor",backend,1087350,Ja
+mann,5,12,Rogaland,konsulent,backend,1450000,Nei
+kvinne,5,11,Rogaland,konsulent,backend,1200000,Nei
+mann,18,11,Rogaland,"in-house, privat sektor",backend,1100000,Ja
+mann,5,8,Rogaland,"in-house, offentlig/kommunal sektor",backend,990000,Nei
+mann,4,8,Rogaland,konsulent,backend,1050000,Ja
+mann,3,6,Rogaland,"in-house, privat sektor",backend,900000,Nei
+mann,5,6,Rogaland,"in-house, privat sektor",backend,1000000,Nei
+mann,4,5,Rogaland,konsulent,backend,800000,Ja
+mann,5,5,Rogaland,konsulent,backend,815000,Ja
+mann,0,4,Rogaland,"in-house, privat sektor",backend,650000,Nei
+mann,5,4,Rogaland,konsulent,backend,885000,Nei
+mann,3,3,Rogaland,konsulent,backend,844000,Ja
+mann,3,2,Rogaland,"in-house, offentlig/kommunal sektor",backend,570000,Nei
+mann,3,2,Rogaland,konsulent,backend,650000,Nei
+mann,5,1,Rogaland,konsulent,backend,550000,Nei
+mann,3,18,Troms og Finnmark,"in-house, offentlig/kommunal sektor",backend,730000,Nei
+mann,3,7,Troms og Finnmark,"in-house, privat sektor",backend,860000,Ja
+mann,3,7,Troms og Finnmark,"in-house, privat sektor",backend,870000,Ja
+mann,6,3,Troms og Finnmark,"in-house, privat sektor",backend,660000,Nei
+mann,3,2,Troms og Finnmark,"in-house, offentlig/kommunal sektor",backend,720000,Nei
+mann,0,0,Troms og Finnmark,"in-house, offentlig/kommunal sektor",backend,584500,Nei
+mann,3,20,Trøndelag,konsulent,backend,936000,Nei
+mann,15,18,Trøndelag,"in-house, privat sektor",backend,880000,Nei
+mann,17,15,Trøndelag,"in-house, offentlig/kommunal sektor",backend,920000,Nei
+mann,4,15,Trøndelag,"in-house, privat sektor",backend,1100000,Ja
+mann,3,14,Trøndelag,"in-house, privat sektor",backend,875000,Nei
+mann,5,13,Trøndelag,"in-house, offentlig/kommunal sektor",backend,881000,Nei
+mann,5,12,Trøndelag,konsulent,backend,1100000,Ja
+mann,5,12,Trøndelag,konsulent,backend,1400000,Nei
+mann,3,11,Trøndelag,konsulent,backend,950000,Ja
+mann,3,10,Trøndelag,"in-house, privat sektor",backend,630000,Ja
+mann,5,9,Trøndelag,konsulent,backend,900000,Nei
+mann,5,8,Trøndelag,konsulent,backend,1000000,Ja
+mann,5,8,Trøndelag,konsulent,backend,1100000,Nei
+mann,5,7,Trøndelag,"in-house, privat sektor",backend,870000,Nei
+mann,6,7,Trøndelag,konsulent,backend,1100000,Ja
+mann,3,7,Trøndelag,konsulent,backend,1200000,Ja
+mann,0,5,Trøndelag,"in-house, privat sektor",backend,580000,Nei
+mann,3,4,Trøndelag,konsulent,backend,727000,Ja
+mann,5,4,Trøndelag,konsulent,backend,790000,Nei
+mann,5,4,Trøndelag,"in-house, privat sektor",backend,800000,Nei
+mann,5,4,Trøndelag,konsulent,backend,830000,Ja
+mann,5,4,Trøndelag,konsulent,backend,850000,Nei
+mann,5,4,Trøndelag,"in-house, privat sektor",backend,850000,Ja
+mann,5,3,Trøndelag,konsulent,backend,700000,Nei
+mann,3,3,Trøndelag,konsulent,backend,701829,Ja
+mann,3,3,Trøndelag,konsulent,backend,730000,Ja
+mann,3,3,Trøndelag,"in-house, privat sektor",backend,750000,Nei
+mann,3,2,Trøndelag,konsulent,backend,615000,Nei
+mann,5,1,Trøndelag,konsulent,backend,665000,Ja
+mann,4,0,utlandet,"in-house, offentlig/kommunal sektor",backend,700000,Nei
+mann,3,28,Vestfold og Telemark,"in-house, privat sektor",backend,1100000,Nei
+mann,0,25,Vestfold og Telemark,"in-house, privat sektor",backend,800000,Nei
+mann,15,24,Vestfold og Telemark,"in-house, privat sektor",backend,970000,Ja
+mann,3,22,Vestfold og Telemark,"in-house, privat sektor",backend,1000000,Ja
+mann,5,21,Vestfold og Telemark,"in-house, privat sektor",backend,1700000,Ja
+mann,4,20,Vestfold og Telemark,"in-house, privat sektor",backend,1200000,Nei
+mann,5,14,Vestfold og Telemark,"in-house, privat sektor",backend,894000,Nei
+mann,3,12,Vestfold og Telemark,"in-house, privat sektor",backend,1050000,Nei
+mann,3,10,Vestfold og Telemark,"in-house, privat sektor",backend,857000,Nei
+mann,4,7,Vestfold og Telemark,konsulent,backend,865000,Ja
+mann,3,6,Vestfold og Telemark,"in-house, privat sektor",backend,630000,Nei
+mann,3,6,Vestfold og Telemark,konsulent,backend,740000,Ja
+mann,3,6,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",backend,740000,Nei
+mann,3,6,Vestfold og Telemark,konsulent,backend,1150000,Ja
+mann,3,4,Vestfold og Telemark,"in-house, privat sektor",backend,750000,Nei
+mann,2,3,Vestfold og Telemark,"in-house, privat sektor",backend,600000,Nei
+mann,3,3,Vestfold og Telemark,"in-house, privat sektor",backend,650000,Nei
+mann,3,3,Vestfold og Telemark,konsulent,backend,695000,Nei
+mann,3,3,Vestfold og Telemark,"in-house, privat sektor",backend,704000,Nei
+mann,2,3,Vestfold og Telemark,"in-house, privat sektor",backend,797000,Nei
+mann,1,1,Vestfold og Telemark,"in-house, privat sektor",backend,560000,Nei
+mann,2,1,Vestfold og Telemark,"in-house, privat sektor",backend,575000,Nei
+mann,6,0,Vestfold og Telemark,konsulent,backend,640000,Ja
+mann,5,40,Vestland,"in-house, offentlig/kommunal sektor",backend,715000,Nei
+mann,5,40,Vestland,konsulent,backend,1100000,Nei
+mann,3,23,Vestland,"in-house, privat sektor",backend,818193,Nei
+mann,3,22,Vestland,"in-house, privat sektor",backend,975000,Nei
+mann,17,22,Vestland,konsulent,backend,1280000,Ja
+mann,4,21,Vestland,"in-house, privat sektor",backend,1080000,Nei
+mann,6,20,Vestland,konsulent,backend,1250000,Ja
+mann,7,20,Vestland,konsulent,backend,1400000,Nei
+mann,5,18,Vestland,konsulent,backend,1148000,Ja
+mann,4,18,Vestland,konsulent,backend,1150000,Ja
+kvinne,5,17,Vestland,"in-house, privat sektor",backend,1017500,Nei
+mann,13,17,Vestland,"in-house, privat sektor",backend,850000,Nei
+mann,3,16,Vestland,"in-house, privat sektor",backend,780000,Nei
+mann,3,16,Vestland,konsulent,backend,880000,Nei
+mann,4,16,Vestland,"in-house, privat sektor",backend,903000,Nei
+mann,3,16,Vestland,"in-house, privat sektor",backend,1078329,Nei
+mann,3,15,Vestland,"in-house, privat sektor",backend,958000,Nei
+mann,3,14,Vestland,"in-house, privat sektor",backend,830000,Nei
+mann,5,14,Vestland,"in-house, privat sektor",backend,1155000,Nei
+mann,3,14,Vestland,"in-house, privat sektor",backend,1200000,Nei
+mann,3,12,Vestland,"in-house, privat sektor",backend,970000,Nei
+mann,5,9,Vestland,"in-house, privat sektor",backend,930000,Nei
+mann,5,9,Vestland,"in-house, privat sektor",backend,1000000,Ja
+mann,3,9,Vestland,"in-house, privat sektor",backend,1100000,Nei
+mann,5,9,Vestland,konsulent,backend,1105000,Ja
+mann,3,8,Vestland,konsulent,backend,1200000,Nei
+mann,5,7,Vestland,"in-house, offentlig/kommunal sektor",backend,735200,Nei
+mann,5,7,Vestland,"in-house, privat sektor",backend,750000,Ja
+mann,5,7,Vestland,konsulent,backend,800000,Ja
+mann,4,7,Vestland,konsulent,backend,800000,Ja
+mann,3,7,Vestland,konsulent,backend,1030000,Nei
+kvinne,7,5,Vestland,konsulent,backend,670000,Ja
+kvinne,3,5,Vestland,"in-house, privat sektor",backend,785000,Nei
+mann,5,5,Vestland,konsulent,backend,750000,Ja
+mann,5,5,Vestland,konsulent,backend,1100000,Nei
+mann,3,4,Vestland,"in-house, privat sektor",backend,720000,Nei
+mann,3,4,Vestland,"in-house, privat sektor",backend,780000,Nei
+mann,5,4,Vestland,konsulent,backend,800000,Nei
+mann,5,4,Vestland,konsulent,backend,1140000,Nei
+kvinne,5,3,Vestland,"in-house, offentlig/kommunal sektor",backend,720000,Nei
+mann,3,3,Vestland,"in-house, privat sektor",backend,640000,Nei
+mann,5,3,Vestland,"in-house, privat sektor",backend,645000,Nei
+mann,3,3,Vestland,konsulent,backend,750000,Ja
+mann,5,3,Vestland,konsulent,backend,770000,Ja
+mann,3,3,Vestland,"in-house, privat sektor",backend,785000,Ja
+mann,5,3,Vestland,konsulent,backend,800000,Ja
+mann,6,3,Vestland,konsulent,backend,1200000,Nei
+kvinne,5,2,Vestland,"in-house, offentlig/kommunal sektor",backend,700000,Nei
+kvinne,5,2,Vestland,"in-house, offentlig/kommunal sektor",backend,820000,Nei
+mann,7,2,Vestland,"in-house, offentlig/kommunal sektor",backend,630000,Nei
+mann,3,2,Vestland,konsulent,backend,635000,Nei
+mann,3,2,Vestland,"in-house, privat sektor",backend,673000,Nei
+mann,5,2,Vestland,"in-house, privat sektor",backend,680000,Nei
+mann,3,2,Vestland,"in-house, privat sektor",backend,701000,Ja
+mann,5,2,Vestland,konsulent,backend,730000,Nei
+mann,2,1,Vestland,"in-house, privat sektor",backend,480000,Ja
+mann,3,1,Vestland,"in-house, privat sektor",backend,525000,Nei
+mann,3,1,Vestland,"in-house, privat sektor",backend,530000,Nei
+mann,3,1,Vestland,"in-house, privat sektor",backend,600000,Nei
+mann,3,1,Vestland,konsulent,backend,605000,Nei
+mann,3,1,Vestland,"in-house, privat sektor",backend,630000,Nei
+mann,5,1,Vestland,konsulent,backend,650000,Ja
+annet / ønsker ikke oppgi,3,0,Vestland,konsulent,backend,530000,Nei
+mann,3,0,Vestland,konsulent,backend,530000,Nei
+mann,3,0,Vestland,"in-house, privat sektor",backend,530000,Nei
+mann,6,0,Vestland,"in-house, privat sektor",backend,530000,Nei
+mann,3,0,Vestland,konsulent,backend,600000,Nei
+mann,3,0,Vestland,"in-house, offentlig/kommunal sektor",backend,615000,Nei
+mann,5,0,Vestland,"in-house, privat sektor",backend,786000,Nei
+mann,17,29,Viken,"in-house, privat sektor",backend,1170000,Nei
+mann,2,25,Viken,"in-house, privat sektor",backend,1000000,Nei
+mann,4,25,Viken,konsulent,backend,1050000,Nei
+mann,2,24,Viken,"in-house, privat sektor",backend,900000,Nei
+mann,2,23,Viken,konsulent,backend,960000,Nei
+mann,3,22,Viken,"in-house, privat sektor",backend,1100000,Nei
+kvinne,4,19,Viken,konsulent,backend,1100000,Ja
+mann,5,19,Viken,"in-house, privat sektor",backend,1450000,Ja
+kvinne,5,18,Viken,"in-house, privat sektor",backend,996000,Ja
+mann,5,18,Viken,"in-house, privat sektor",backend,1050000,Ja
+mann,5,18,Viken,konsulent,backend,1250000,Nei
+mann,3,16,Viken,konsulent,backend,1050000,Ja
+mann,17,15,Viken,konsulent,backend,1170000,Ja
+kvinne,3,14,Viken,konsulent,backend,1080000,Ja
+mann,5,14,Viken,konsulent,backend,1300000,Nei
+mann,3,14,Viken,frilans / selvstendig næringsdrivende,backend,2250000,Nei
+kvinne,3,13,Viken,"in-house, privat sektor",backend,900000,Ja
+mann,4,13,Viken,konsulent,backend,1000000,Ja
+mann,6,12,Viken,"in-house, privat sektor",backend,987000,Nei
+mann,5,11,Viken,konsulent,backend,1024000,Ja
+kvinne,5,10,Viken,"in-house, privat sektor",backend,1040000,Ja
+mann,3,10,Viken,"in-house, offentlig/kommunal sektor",backend,710000,Nei
+mann,5,10,Viken,konsulent,backend,800000,Nei
+mann,3,10,Viken,konsulent,backend,1000000,Ja
+mann,5,8,Viken,"in-house, offentlig/kommunal sektor",backend,710000,Nei
+mann,5,8,Viken,konsulent,backend,895000,Ja
+mann,5,7,Viken,konsulent,backend,727000,Nei
+mann,3,7,Viken,"in-house, privat sektor",backend,1087000,Ja
+mann,5,6,Viken,konsulent,backend,890000,Nei
+mann,3,6,Viken,konsulent,backend,900000,Ja
+mann,3,6,Viken,"in-house, privat sektor",backend,1116600,Nei
+mann,4,5,Viken,"in-house, privat sektor",backend,640000,Nei
+mann,3,5,Viken,konsulent,backend,760000,Nei
+mann,3,4,Viken,"in-house, privat sektor",backend,645000,Ja
+mann,4,3,Viken,"in-house, privat sektor",backend,600000,Nei
+mann,3,2,Viken,"in-house, privat sektor",backend,605000,Nei
+mann,3,1,Viken,"in-house, privat sektor",backend,600000,Nei
+mann,3,1,Viken,"in-house, privat sektor",backend,600000,Nei
+mann,0,1,Viken,"in-house, privat sektor",backend,600000,Nei
+mann,5,1,Viken,"in-house, privat sektor",backend,654400,Ja
+mann,3,0,Viken,konsulent,backend,530000,Nei
+mann,6,6,Agder,"in-house, privat sektor",data science,900000,Nei
+mann,5,3,Agder,"in-house, privat sektor",data science,830000,Ja
+mann,3,1,Agder,"in-house, offentlig/kommunal sektor",data science,600000,Nei
+mann,9,7,Nordland,"in-house, privat sektor",data science,860000,Nei
+mann,5,17,Oslo,konsulent,data science,1260000,Nei
+mann,1,11,Oslo,konsulent,data science,800000,Nei
+mann,5,11,Oslo,"in-house, privat sektor",data science,1350000,Ja
+mann,5,10,Oslo,konsulent,data science,1000000,Ja
+mann,20,10,Oslo,konsulent,data science,1090000,Nei
+mann,6,6,Oslo,"in-house, privat sektor",data science,1030000,Ja
+mann,6,6,Oslo,frilans / selvstendig næringsdrivende,data science,1300000,Nei
+mann,5,5,Oslo,"in-house, offentlig/kommunal sektor",data science,750000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",data science,930000,Ja
+mann,6,5,Oslo,"in-house, privat sektor",data science,950000,Nei
+mann,8,5,Oslo,konsulent,data science,950000,Ja
+mann,4,5,Oslo,konsulent,data science,1150000,Ja
+kvinne,3,4,Oslo,konsulent,data science,530000,Nei
+mann,5,4,Oslo,konsulent,data science,790000,Nei
+mann,5,4,Oslo,konsulent,data science,850000,Ja
+mann,5,4,Oslo,"in-house, privat sektor",data science,900000,Nei
+kvinne,5,3,Oslo,konsulent,data science,780000,Ja
+kvinne,18,3,Oslo,"in-house, offentlig/kommunal sektor",data science,780000,Nei
+mann,3,3,Oslo,"in-house, offentlig/kommunal sektor",data science,721000,Nei
+mann,5,3,Oslo,konsulent,data science,770000,Nei
+mann,5,3,Oslo,"in-house, privat sektor",data science,780000,Nei
+mann,5,3,Oslo,konsulent,data science,823000,Nei
+mann,5,3,Oslo,"in-house, offentlig/kommunal sektor",data science,825000,Nei
+mann,5,3,Oslo,konsulent,data science,1000000,Ja
+mann,5,2,Oslo,konsulent,data science,620000,Nei
+mann,5,2,Oslo,konsulent,data science,750000,Ja
+kvinne,5,1,Oslo,"in-house, privat sektor",data science,600000,Nei
+kvinne,5,1,Oslo,konsulent,data science,675000,Nei
+mann,5,1,Oslo,konsulent,data science,620000,Ja
+mann,5,1,Oslo,konsulent,data science,680000,Ja
+mann,5,1,Oslo,konsulent,data science,700000,Ja
+mann,3,1,Oslo,"in-house, privat sektor",data science,715000,Ja
+kvinne,5,0,Oslo,konsulent,data science,600000,Ja
+mann,3,0,Oslo,"in-house, privat sektor",data science,560000,Nei
+mann,5,0,Oslo,"in-house, privat sektor",data science,600000,Nei
+mann,5,0,Oslo,"in-house, privat sektor",data science,704400,Nei
+mann,5,0,Oslo,"in-house, privat sektor",data science,800000,Ja
+mann,5,7,Rogaland,konsulent,data science,1550000,Ja
+mann,18,5,Rogaland,konsulent,data science,935000,Ja
+mann,6,16,Trøndelag,"in-house, privat sektor",data science,1046000,Nei
+mann,17,5,Trøndelag,konsulent,data science,920000,Nei
+mann,5,2,Trøndelag,"in-house, privat sektor",data science,930000,Nei
+mann,5,0,Trøndelag,konsulent,data science,690000,Nei
+mann,2,24,Vestland,"in-house, privat sektor",data science,850000,Nei
+mann,5,5,Vestland,"in-house, offentlig/kommunal sektor",data science,660000,Nei
+mann,5,5,Vestland,"in-house, privat sektor",data science,775000,Nei
+mann,5,2,Vestland,"in-house, offentlig/kommunal sektor",data science,800000,Nei
+mann,5,0,Vestland,konsulent,data science,640000,Ja
+mann,2,18,Viken,"in-house, privat sektor",data science,800000,Nei
+mann,5,14,Viken,"in-house, privat sektor",data science,1280000,Nei
+mann,15,36,Agder,"in-house, offentlig/kommunal sektor",databaser,850000,Nei
+mann,0,5,Innlandet,"in-house, offentlig/kommunal sektor",databaser,875000,Nei
+mann,2,4,Innlandet,"in-house, privat sektor",databaser,720000,Nei
+kvinne,3,15,Oslo,konsulent,databaser,1200000,Ja
+mann,5,12,Oslo,konsulent,databaser,900000,Nei
+kvinne,3,10,Oslo,"in-house, offentlig/kommunal sektor",databaser,930000,Nei
+mann,3,10,Oslo,"in-house, privat sektor",databaser,915000,Nei
+mann,5,10,Oslo,konsulent,databaser,1100000,Ja
+kvinne,5,6,Oslo,"in-house, privat sektor",databaser,900000,Nei
+kvinne,4,6,Oslo,konsulent,databaser,1000000,Ja
+kvinne,6,5,Oslo,"in-house, privat sektor",databaser,800000,Ja
+kvinne,5,5,Oslo,konsulent,databaser,905000,Nei
+kvinne,3,5,Oslo,konsulent,databaser,1000000,Nei
+mann,5,4,Oslo,konsulent,databaser,850000,Ja
+mann,3,4,Oslo,konsulent,databaser,1300000,Ja
+mann,3,3,Oslo,"in-house, privat sektor",databaser,750000,Nei
+kvinne,3,2,Oslo,konsulent,databaser,595000,Nei
+mann,5,2,Oslo,konsulent,databaser,568000,Ja
+mann,5,2,Oslo,konsulent,databaser,700000,Nei
+kvinne,3,1,Oslo,konsulent,databaser,750000,Ja
+mann,5,1,Oslo,"in-house, offentlig/kommunal sektor",databaser,600000,Nei
+mann,5,1,Oslo,konsulent,databaser,610000,Nei
+mann,5,1,Oslo,"in-house, privat sektor",databaser,620000,Ja
+mann,5,5,Rogaland,"in-house, offentlig/kommunal sektor",databaser,980000,Nei
+kvinne,3,3,Rogaland,konsulent,databaser,710000,Ja
+mann,5,2,Rogaland,konsulent,databaser,630000,Nei
+mann,5,2,Rogaland,konsulent,databaser,800000,Ja
+mann,3,2,Trøndelag,konsulent,databaser,700000,Ja
+mann,3,1,Vestfold og Telemark,konsulent,databaser,630000,Nei
+mann,3,15,Vestland,"in-house, privat sektor",databaser,950000,Ja
+mann,3,6,Vestland,"in-house, privat sektor",databaser,600000,Nei
+kvinne,6,5,Vestland,"in-house, privat sektor",databaser,840000,Ja
+kvinne,9,2,Vestland,"in-house, privat sektor",databaser,650000,Nei
+mann,3,1,Vestland,"in-house, privat sektor",databaser,800000,Nei
+mann,5,10,Viken,"in-house, privat sektor",databaser,875000,Nei
+kvinne,4,2,Viken,"in-house, privat sektor",databaser,750000,Ja
+mann,5,16,Agder,"in-house, offentlig/kommunal sektor",devops / drift,820000,Nei
+mann,4,13,Agder,"in-house, offentlig/kommunal sektor",devops / drift,560000,Nei
+mann,2,7,Agder,"in-house, offentlig/kommunal sektor",devops / drift,620000,Nei
+mann,3,7,Agder,konsulent,devops / drift,760000,Ja
+mann,3,5,Agder,"in-house, offentlig/kommunal sektor",devops / drift,850000,Nei
+mann,0,3,Agder,"in-house, privat sektor",devops / drift,680000,Ja
+mann,1,20,Innlandet,"in-house, offentlig/kommunal sektor",devops / drift,934000,Nei
+kvinne,1,3,Innlandet,"in-house, offentlig/kommunal sektor",devops / drift,480000,Nei
+mann,2,2,Innlandet,konsulent,devops / drift,560000,Ja
+mann,2,8,Møre og Romsdal,"in-house, privat sektor",devops / drift,700000,Nei
+mann,2,17,Nordland,konsulent,devops / drift,925000,Ja
+mann,3,9,Nordland,"in-house, offentlig/kommunal sektor",devops / drift,830000,Ja
+mann,3,40,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,900000,Nei
+mann,4,30,Oslo,"in-house, privat sektor",devops / drift,1100000,Nei
+mann,0,30,Oslo,konsulent,devops / drift,1400000,Ja
+mann,4,27,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,930000,Nei
+mann,2,26,Oslo,"in-house, privat sektor",devops / drift,1600000,Ja
+mann,10,25,Oslo,konsulent,devops / drift,790000,Ja
+mann,3,23,Oslo,"in-house, privat sektor",devops / drift,1100000,Nei
+mann,4,23,Oslo,konsulent,devops / drift,1200000,Ja
+mann,5,20,Oslo,"in-house, privat sektor",devops / drift,1150000,Ja
+mann,5,20,Oslo,frilans / selvstendig næringsdrivende,devops / drift,2200000,Nei
+mann,3,19,Oslo,konsulent,devops / drift,1150000,Ja
+mann,5,18,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,966000,Nei
+mann,2,18,Oslo,konsulent,devops / drift,1000000,Ja
+mann,17,18,Oslo,"in-house, privat sektor",devops / drift,1200000,Nei
+mann,3,18,Oslo,konsulent,devops / drift,1254100,Ja
+mann,0,17,Oslo,konsulent,devops / drift,1100000,Ja
+mann,3,16,Oslo,"in-house, privat sektor",devops / drift,1128877,Ja
+mann,2,15,Oslo,konsulent,devops / drift,700000,Nei
+mann,3,15,Oslo,konsulent,devops / drift,800000,Nei
+mann,0,15,Oslo,konsulent,devops / drift,1190000,Ja
+mann,1,14,Oslo,konsulent,devops / drift,1000000,Nei
+mann,5,13,Oslo,"in-house, privat sektor",devops / drift,1350000,Nei
+mann,3,12,Oslo,konsulent,devops / drift,720000,Nei
+mann,5,12,Oslo,konsulent,devops / drift,1080000,Nei
+mann,3,11,Oslo,"in-house, privat sektor",devops / drift,950000,Nei
+mann,2,11,Oslo,"in-house, privat sektor",devops / drift,975000,Nei
+mann,2,10,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,760000,Nei
+mann,5,10,Oslo,"in-house, privat sektor",devops / drift,900000,Ja
+mann,0,10,Oslo,konsulent,devops / drift,1200000,Ja
+mann,0,10,Oslo,konsulent,devops / drift,1450000,Ja
+mann,4,9,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,691000,Nei
+mann,3,9,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,1050000,Nei
+mann,5,9,Oslo,"in-house, privat sektor",devops / drift,1078000,Nei
+mann,0,8,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,950000,Nei
+mann,7,8,Oslo,konsulent,devops / drift,1000000,Nei
+mann,2,8,Oslo,konsulent,devops / drift,1100000,Ja
+mann,3,8,Oslo,konsulent,devops / drift,1125000,Ja
+mann,4,7,Oslo,konsulent,devops / drift,985000,Nei
+mann,3,7,Oslo,konsulent,devops / drift,1020000,Ja
+mann,5,7,Oslo,frilans / selvstendig næringsdrivende,devops / drift,1200000,Ja
+mann,5,7,Oslo,konsulent,devops / drift,1250000,Ja
+kvinne,9,6,Oslo,"in-house, privat sektor",devops / drift,900000,Ja
+mann,1,6,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,650000,Nei
+mann,3,6,Oslo,"in-house, privat sektor",devops / drift,950000,Nei
+mann,5,5,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,740000,Nei
+mann,1,5,Oslo,konsulent,devops / drift,750000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",devops / drift,770000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",devops / drift,840000,Ja
+mann,5,5,Oslo,konsulent,devops / drift,850000,Ja
+mann,5,5,Oslo,konsulent,devops / drift,880000,Ja
+mann,3,5,Oslo,"in-house, privat sektor",devops / drift,930000,Nei
+mann,5,5,Oslo,konsulent,devops / drift,940000,Ja
+mann,3,5,Oslo,konsulent,devops / drift,950000,Ja
+mann,5,5,Oslo,konsulent,devops / drift,950000,Ja
+mann,5,5,Oslo,"in-house, privat sektor",devops / drift,960000,Nei
+mann,5,5,Oslo,konsulent,devops / drift,1000000,Ja
+mann,3,4,Oslo,"in-house, privat sektor",devops / drift,800000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",devops / drift,850000,Nei
+mann,5,4,Oslo,konsulent,devops / drift,1000000,Ja
+mann,7,4,Oslo,"in-house, privat sektor",devops / drift,1150000,Nei
+mann,3,3,Oslo,konsulent,devops / drift,800000,Ja
+mann,3,3,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,900000,Nei
+kvinne,3,2,Oslo,konsulent,devops / drift,595000,Nei
+kvinne,3,2,Oslo,konsulent,devops / drift,700000,Ja
+mann,5,2,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,624500,Nei
+mann,4,2,Oslo,"in-house, privat sektor",devops / drift,625000,Nei
+mann,2,2,Oslo,konsulent,devops / drift,670000,Ja
+mann,5,2,Oslo,konsulent,devops / drift,675000,Ja
+mann,5,2,Oslo,"in-house, privat sektor",devops / drift,730000,Nei
+mann,2,2,Oslo,"in-house, privat sektor",devops / drift,820000,Ja
+mann,5,2,Oslo,"in-house, privat sektor",devops / drift,1620000,Nei
+mann,0,1,Oslo,"in-house, privat sektor",devops / drift,500000,Nei
+mann,2,1,Oslo,"in-house, privat sektor",devops / drift,550000,Nei
+mann,5,1,Oslo,konsulent,devops / drift,640000,Nei
+mann,5,1,Oslo,"in-house, offentlig/kommunal sektor",devops / drift,680000,Nei
+mann,6,1,Oslo,konsulent,devops / drift,700000,Ja
+mann,4,1,Oslo,"in-house, privat sektor",devops / drift,730000,Nei
+mann,3,0,Oslo,konsulent,devops / drift,550000,Ja
+mann,3,0,Oslo,konsulent,devops / drift,570000,Ja
+mann,3,0,Oslo,konsulent,devops / drift,585000,Ja
+mann,5,0,Oslo,"in-house, privat sektor",devops / drift,660000,Ja
+mann,15,15,Rogaland,"in-house, privat sektor",devops / drift,1230000,Ja
+mann,5,13,Rogaland,konsulent,devops / drift,1300000,Ja
+mann,3,6,Rogaland,konsulent,devops / drift,1000000,Ja
+mann,0,4,Rogaland,"in-house, offentlig/kommunal sektor",devops / drift,1000000,Nei
+mann,3,17,Troms og Finnmark,"in-house, privat sektor",devops / drift,900000,Nei
+mann,3,9,Troms og Finnmark,"in-house, privat sektor",devops / drift,756000,Nei
+mann,5,5,Troms og Finnmark,"in-house, privat sektor",devops / drift,700000,Nei
+mann,3,2,Troms og Finnmark,"in-house, offentlig/kommunal sektor",devops / drift,660000,Nei
+mann,0,20,Trøndelag,konsulent,devops / drift,1450000,Nei
+mann,0,5,Trøndelag,"in-house, offentlig/kommunal sektor",devops / drift,1050000,Nei
+mann,3,4,Trøndelag,konsulent,devops / drift,680000,Ja
+mann,5,4,Trøndelag,frilans / selvstendig næringsdrivende,devops / drift,2100000,Ja
+mann,4,2,Trøndelag,"in-house, offentlig/kommunal sektor",devops / drift,570000,Nei
+mann,3,2,Trøndelag,konsulent,devops / drift,680000,Nei
+kvinne,3,1,Trøndelag,"in-house, offentlig/kommunal sektor",devops / drift,690000,Nei
+mann,2,8,utlandet,konsulent,devops / drift,1060000,Nei
+mann,3,24,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",devops / drift,670000,Nei
+mann,5,24,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",devops / drift,890000,Nei
+mann,1,20,Vestfold og Telemark,"in-house, privat sektor",devops / drift,850000,Nei
+mann,3,10,Vestfold og Telemark,"in-house, privat sektor",devops / drift,450000,Nei
+mann,0,10,Vestfold og Telemark,"in-house, privat sektor",devops / drift,950000,Nei
+mann,5,7,Vestfold og Telemark,"in-house, privat sektor",devops / drift,860000,Nei
+mann,5,7,Vestfold og Telemark,"in-house, privat sektor",devops / drift,1100000,Ja
+mann,3,5,Vestfold og Telemark,konsulent,devops / drift,730000,Nei
+mann,4,22,Vestland,"in-house, privat sektor",devops / drift,975000,Nei
+mann,4,20,Vestland,"in-house, privat sektor",devops / drift,1000000,Nei
+mann,4,14,Vestland,"in-house, privat sektor",devops / drift,750000,Nei
+mann,2,13,Vestland,konsulent,devops / drift,705000,Nei
+mann,2,12,Vestland,"in-house, privat sektor",devops / drift,1060000,Nei
+mann,5,10,Vestland,"in-house, privat sektor",devops / drift,1000000,Nei
+kvinne,2,8,Vestland,"in-house, privat sektor",devops / drift,710000,Ja
+mann,1,5,Vestland,"in-house, privat sektor",devops / drift,950000,Nei
+mann,3,3,Vestland,konsulent,devops / drift,655000,Nei
+mann,3,3,Vestland,konsulent,devops / drift,972000,Nei
+mann,3,0,Vestland,konsulent,devops / drift,660000,Nei
+mann,18,16,Viken,"in-house, privat sektor",devops / drift,1100000,Nei
+mann,10,11,Viken,"in-house, privat sektor",devops / drift,500000,Nei
+mann,3,10,Viken,konsulent,devops / drift,840000,Ja
+mann,5,6,Viken,konsulent,devops / drift,1300000,Ja
+mann,3,4,Viken,"in-house, privat sektor",devops / drift,690000,Nei
+mann,3,2,Viken,"in-house, privat sektor",devops / drift,850000,Nei
+mann,5,15,Møre og Romsdal,"in-house, privat sektor",embedded / IOT / maskinvare,987090,Nei
+mann,3,20,Oslo,"in-house, privat sektor",embedded / IOT / maskinvare,1075000,Nei
+mann,7,12,Oslo,"in-house, privat sektor",embedded / IOT / maskinvare,1005000,Nei
+mann,5,10,Oslo,"in-house, privat sektor",embedded / IOT / maskinvare,970000,Nei
+mann,5,7,Oslo,"in-house, privat sektor",embedded / IOT / maskinvare,1100000,Ja
+mann,5,5,Oslo,"in-house, privat sektor",embedded / IOT / maskinvare,820000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",embedded / IOT / maskinvare,950000,Ja
+mann,5,5,Oslo,konsulent,embedded / IOT / maskinvare,950000,Ja
+mann,4,4,Oslo,"in-house, privat sektor",embedded / IOT / maskinvare,700000,Nei
+mann,5,3,Oslo,"in-house, privat sektor",embedded / IOT / maskinvare,710000,Ja
+annet / ønsker ikke oppgi,5,2,Oslo,konsulent,embedded / IOT / maskinvare,690000,Nei
+mann,6,18,Rogaland,"in-house, privat sektor",embedded / IOT / maskinvare,800000,Nei
+mann,3,7,Rogaland,"in-house, privat sektor",embedded / IOT / maskinvare,800000,Nei
+mann,5,6,Rogaland,"in-house, privat sektor",embedded / IOT / maskinvare,1000000,Ja
+mann,5,7,Trøndelag,konsulent,embedded / IOT / maskinvare,1125375,Nei
+mann,18,1,Trøndelag,"in-house, privat sektor",embedded / IOT / maskinvare,630000,Nei
+kvinne,18,0,Trøndelag,"in-house, privat sektor",embedded / IOT / maskinvare,950000,Ja
+mann,3,2,Vestland,"in-house, privat sektor",embedded / IOT / maskinvare,675000,Nei
+mann,4,30,Viken,"in-house, privat sektor",embedded / IOT / maskinvare,2600000,Ja
+mann,5,26,Viken,"in-house, privat sektor",embedded / IOT / maskinvare,1295000,Ja
+mann,4,23,Viken,"in-house, privat sektor",embedded / IOT / maskinvare,870000,Nei
+mann,3,4,Viken,konsulent,embedded / IOT / maskinvare,703000,Ja
+kvinne,3,1,Viken,"in-house, privat sektor",embedded / IOT / maskinvare,585000,Ja
+mann,5,9,Agder,"in-house, privat sektor",frontend,700000,Nei
+mann,3,7,Agder,konsulent,frontend,1050000,Ja
+kvinne,3,6,Agder,konsulent,frontend,915000,Nei
+mann,3,5,Agder,konsulent,frontend,836000,Nei
+mann,3,4,Agder,konsulent,frontend,912000,Nei
+mann,0,3,Agder,"in-house, privat sektor",frontend,520000,Nei
+mann,4,2,Agder,"in-house, privat sektor",frontend,685000,Nei
+mann,5,2,Agder,konsulent,frontend,700000,Nei
+kvinne,2,1,Agder,konsulent,frontend,585000,Nei
+mann,2,1,Agder,"in-house, privat sektor",frontend,675000,Nei
+mann,3,25,Innlandet,"in-house, privat sektor",frontend,1030000,Nei
+mann,0,22,Innlandet,konsulent,frontend,1250000,Ja
+mann,0,17,Innlandet,konsulent,frontend,950000,Ja
+mann,4,10,Innlandet,"in-house, privat sektor",frontend,815000,Nei
+mann,5,7,Innlandet,konsulent,frontend,1000000,Ja
+mann,3,4,Innlandet,"in-house, offentlig/kommunal sektor",frontend,585000,Nei
+mann,0,4,Innlandet,"in-house, privat sektor",frontend,590000,Ja
+mann,5,4,Innlandet,konsulent,frontend,650000,Nei
+mann,3,4,Innlandet,konsulent,frontend,800000,Ja
+mann,3,1,Innlandet,"in-house, privat sektor",frontend,565900,Nei
+mann,3,1,Innlandet,konsulent,frontend,585000,Nei
+mann,3,23,Møre og Romsdal,"in-house, privat sektor",frontend,600000,Nei
+mann,0,19,Møre og Romsdal,"in-house, privat sektor",frontend,890000,Nei
+mann,3,10,Møre og Romsdal,"in-house, privat sektor",frontend,720000,Nei
+kvinne,4,9,Møre og Romsdal,konsulent,frontend,570000,Nei
+mann,0,7,Møre og Romsdal,"in-house, privat sektor",frontend,1000000,Ja
+kvinne,3,4,Møre og Romsdal,"in-house, privat sektor",frontend,660000,Nei
+mann,0,20,Nordland,"in-house, privat sektor",frontend,1075000,Nei
+mann,3,14,Nordland,"in-house, offentlig/kommunal sektor",frontend,775000,Nei
+mann,3,10,Nordland,"in-house, offentlig/kommunal sektor",frontend,900000,Nei
+kvinne,3,3,Nordland,"in-house, privat sektor",frontend,490000,Nei
+kvinne,2,2,Nordland,"in-house, privat sektor",frontend,530000,Nei
+mann,2,2,Nordland,"in-house, privat sektor",frontend,480000,Nei
+mann,2,2,Nordland,"in-house, offentlig/kommunal sektor",frontend,590000,Nei
+kvinne,2,1,Nordland,"in-house, offentlig/kommunal sektor",frontend,640000,Nei
+mann,2,0,Nordland,"in-house, offentlig/kommunal sektor",frontend,502400,Nei
+mann,3,0,Nordland,konsulent,frontend,580000,Nei
+mann,5,30,Oslo,"in-house, privat sektor",frontend,1025000,Nei
+mann,3,28,Oslo,"in-house, privat sektor",frontend,820000,Nei
+mann,4,25,Oslo,konsulent,frontend,1050000,Nei
+mann,5,25,Oslo,konsulent,frontend,1200000,Nei
+mann,0,25,Oslo,konsulent,frontend,1230000,Ja
+mann,5,25,Oslo,"in-house, privat sektor",frontend,1235000,Nei
+mann,4,25,Oslo,"in-house, privat sektor",frontend,1400000,Ja
+mann,3,24,Oslo,"in-house, offentlig/kommunal sektor",frontend,950000,Nei
+kvinne,5,20,Oslo,konsulent,frontend,1200000,Nei
+mann,0,20,Oslo,"in-house, privat sektor",frontend,1000000,Nei
+mann,3,20,Oslo,"in-house, privat sektor",frontend,1059000,Nei
+kvinne,5,19,Oslo,"in-house, privat sektor",frontend,900000,Nei
+mann,6,19,Oslo,"in-house, privat sektor",frontend,1100000,Nei
+mann,2,18,Oslo,"in-house, offentlig/kommunal sektor",frontend,960000,Nei
+mann,3,18,Oslo,konsulent,frontend,1010000,Nei
+mann,5,18,Oslo,konsulent,frontend,1070000,Ja
+mann,3,18,Oslo,"in-house, offentlig/kommunal sektor",frontend,1073700,Nei
+mann,3,18,Oslo,konsulent,frontend,1100000,Ja
+mann,3,17,Oslo,"in-house, offentlig/kommunal sektor",frontend,850000,Nei
+mann,3,17,Oslo,konsulent,frontend,1200000,Nei
+mann,5,16,Oslo,"in-house, privat sektor",frontend,850000,Nei
+mann,3,15,Oslo,konsulent,frontend,900000,Nei
+mann,6,15,Oslo,"in-house, privat sektor",frontend,950000,Nei
+mann,6,14,Oslo,"in-house, privat sektor",frontend,930000,Nei
+mann,5,14,Oslo,konsulent,frontend,1075000,Ja
+mann,5,14,Oslo,"in-house, privat sektor",frontend,1200000,Ja
+kvinne,5,13,Oslo,konsulent,frontend,950000,Nei
+mann,5,13,Oslo,"in-house, privat sektor",frontend,1300000,Nei
+kvinne,5,12,Oslo,"in-house, offentlig/kommunal sektor",frontend,850000,Nei
+mann,5,12,Oslo,"in-house, privat sektor",frontend,850000,Nei
+mann,5,12,Oslo,"in-house, offentlig/kommunal sektor",frontend,1000000,Nei
+mann,3,11,Oslo,"in-house, offentlig/kommunal sektor",frontend,840000,Nei
+mann,6,11,Oslo,konsulent,frontend,1100000,Nei
+mann,3,11,Oslo,konsulent,frontend,1200000,Nei
+mann,4,10,Oslo,"in-house, offentlig/kommunal sektor",frontend,710000,Nei
+mann,5,10,Oslo,"in-house, privat sektor",frontend,870000,Nei
+mann,3,10,Oslo,konsulent,frontend,950000,Nei
+mann,3,10,Oslo,"in-house, privat sektor",frontend,1000010,Nei
+mann,3,10,Oslo,"in-house, privat sektor",frontend,1307520,Nei
+mann,5,10,Oslo,konsulent,frontend,1700000,Nei
+kvinne,3,9,Oslo,konsulent,frontend,800000,Ja
+kvinne,6,9,Oslo,konsulent,frontend,1100000,Ja
+mann,5,9,Oslo,konsulent,frontend,820000,Nei
+mann,3,9,Oslo,"in-house, offentlig/kommunal sektor",frontend,844000,Nei
+mann,3,9,Oslo,"in-house, privat sektor",frontend,900000,Nei
+mann,3,9,Oslo,konsulent,frontend,1150000,Nei
+mann,3,8,Oslo,"in-house, privat sektor",frontend,900000,Nei
+mann,3,8,Oslo,konsulent,frontend,900000,Ja
+mann,5,8,Oslo,konsulent,frontend,1035000,Nei
+mann,3,8,Oslo,"in-house, privat sektor",frontend,1200000,Nei
+kvinne,3,7,Oslo,konsulent,frontend,785000,Nei
+kvinne,3,7,Oslo,"in-house, offentlig/kommunal sektor",frontend,812000,Nei
+mann,0,7,Oslo,"in-house, privat sektor",frontend,690000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",frontend,795000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",frontend,850000,Nei
+mann,2,7,Oslo,"in-house, privat sektor",frontend,900000,Nei
+mann,3,7,Oslo,konsulent,frontend,920000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",frontend,1050000,Nei
+mann,3,7,Oslo,konsulent,frontend,1100000,Nei
+mann,5,7,Oslo,konsulent,frontend,1125000,Ja
+kvinne,4,6,Oslo,"in-house, offentlig/kommunal sektor",frontend,700000,Nei
+kvinne,0,6,Oslo,"in-house, privat sektor",frontend,780000,Nei
+kvinne,0,6,Oslo,konsulent,frontend,930000,Nei
+kvinne,5,6,Oslo,konsulent,frontend,1000000,Ja
+mann,1,6,Oslo,"in-house, privat sektor",frontend,700000,Nei
+mann,6,6,Oslo,"in-house, privat sektor",frontend,710000,Nei
+mann,3,6,Oslo,"in-house, offentlig/kommunal sektor",frontend,800000,Nei
+mann,0,6,Oslo,"in-house, privat sektor",frontend,800000,Nei
+mann,5,6,Oslo,konsulent,frontend,820000,Ja
+mann,3,6,Oslo,"in-house, privat sektor",frontend,866000,Nei
+mann,3,6,Oslo,konsulent,frontend,950000,Nei
+mann,3,6,Oslo,"in-house, privat sektor",frontend,950000,Nei
+mann,0,6,Oslo,"in-house, privat sektor",frontend,955000,Nei
+mann,0,6,Oslo,"in-house, privat sektor",frontend,1030000,Nei
+mann,0,6,Oslo,"in-house, privat sektor",frontend,1100000,Nei
+kvinne,5,5,Oslo,konsulent,frontend,721000,Nei
+kvinne,3,5,Oslo,konsulent,frontend,750000,Ja
+kvinne,3,5,Oslo,"in-house, offentlig/kommunal sektor",frontend,779000,Ja
+kvinne,5,5,Oslo,konsulent,frontend,1100000,Nei
+mann,8,5,Oslo,"in-house, privat sektor",frontend,744000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",frontend,750000,Nei
+mann,0,5,Oslo,"in-house, privat sektor",frontend,780000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",frontend,780000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",frontend,875000,Nei
+mann,4,5,Oslo,konsulent,frontend,960000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",frontend,1000000,Nei
+mann,5,5,Oslo,konsulent,frontend,1050000,Nei
+kvinne,1,4,Oslo,konsulent,frontend,700000,Ja
+kvinne,5,4,Oslo,"in-house, offentlig/kommunal sektor",frontend,790000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",frontend,574000,Nei
+mann,3,4,Oslo,konsulent,frontend,660000,Nei
+mann,2,4,Oslo,"in-house, privat sektor",frontend,670200,Nei
+mann,2,4,Oslo,konsulent,frontend,680000,Nei
+mann,3,4,Oslo,"in-house, offentlig/kommunal sektor",frontend,725000,Nei
+mann,2,4,Oslo,"in-house, privat sektor",frontend,750000,Nei
+mann,3,4,Oslo,konsulent,frontend,773000,Nei
+mann,5,4,Oslo,konsulent,frontend,820000,Nei
+mann,0,4,Oslo,"in-house, privat sektor",frontend,830000,Nei
+mann,3,4,Oslo,konsulent,frontend,830000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",frontend,840000,Nei
+mann,0,4,Oslo,"in-house, privat sektor",frontend,849000,Nei
+mann,3,4,Oslo,"in-house, offentlig/kommunal sektor",frontend,850000,Nei
+mann,3,4,Oslo,konsulent,frontend,850000,Ja
+mann,6,4,Oslo,konsulent,frontend,875000,Ja
+mann,3,4,Oslo,"in-house, privat sektor",frontend,910000,Ja
+kvinne,5,3,Oslo,konsulent,frontend,774500,Nei
+kvinne,5,3,Oslo,konsulent,frontend,780000,Ja
+kvinne,5,3,Oslo,konsulent,frontend,830000,Nei
+kvinne,5,3,Oslo,konsulent,frontend,840000,Nei
+kvinne,3,3,Oslo,konsulent,frontend,890000,Ja
+kvinne,5,3,Oslo,"in-house, privat sektor",frontend,1015000,Ja
+mann,2,3,Oslo,konsulent,frontend,450000,Nei
+mann,2,3,Oslo,"in-house, privat sektor",frontend,560000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",frontend,610000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",frontend,625000,Nei
+mann,3,3,Oslo,konsulent,frontend,700000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",frontend,700000,Nei
+mann,1,3,Oslo,"in-house, privat sektor",frontend,730000,Nei
+mann,3,3,Oslo,konsulent,frontend,800000,Ja
+mann,5,3,Oslo,konsulent,frontend,800000,Nei
+mann,5,3,Oslo,konsulent,frontend,820000,Nei
+mann,4,3,Oslo,"in-house, privat sektor",frontend,900000,Nei
+mann,5,3,Oslo,konsulent,frontend,900000,Ja
+mann,3,3,Oslo,"in-house, privat sektor",frontend,975000,Nei
+kvinne,3,2,Oslo,konsulent,frontend,600000,Nei
+kvinne,1,2,Oslo,"in-house, privat sektor",frontend,600000,Nei
+kvinne,3,2,Oslo,"in-house, privat sektor",frontend,650000,Ja
+kvinne,3,2,Oslo,"in-house, privat sektor",frontend,670000,Nei
+kvinne,5,2,Oslo,konsulent,frontend,671000,Nei
+kvinne,0,2,Oslo,"in-house, privat sektor",frontend,700000,Ja
+kvinne,2,2,Oslo,"in-house, privat sektor",frontend,738000,Ja
+kvinne,0,2,Oslo,"in-house, privat sektor",frontend,825000,Ja
+mann,5,2,Oslo,konsulent,frontend,610000,Nei
+mann,2,2,Oslo,"in-house, privat sektor",frontend,624000,Nei
+mann,5,2,Oslo,"in-house, offentlig/kommunal sektor",frontend,635200,Nei
+mann,2,2,Oslo,"in-house, privat sektor",frontend,640000,Nei
+mann,3,2,Oslo,konsulent,frontend,650000,Nei
+mann,5,2,Oslo,konsulent,frontend,675000,Nei
+mann,5,2,Oslo,konsulent,frontend,675000,Nei
+mann,5,2,Oslo,konsulent,frontend,675000,Nei
+mann,5,2,Oslo,konsulent,frontend,695000,Nei
+mann,5,2,Oslo,konsulent,frontend,741200,Nei
+mann,3,2,Oslo,"in-house, privat sektor",frontend,765000,Nei
+mann,6,2,Oslo,"in-house, privat sektor",frontend,800000,Ja
+annet / ønsker ikke oppgi,3,1,Oslo,"in-house, privat sektor",frontend,620000,Nei
+kvinne,3,1,Oslo,konsulent,frontend,530000,Nei
+kvinne,3,1,Oslo,konsulent,frontend,530000,Nei
+kvinne,3,1,Oslo,"in-house, privat sektor",frontend,540000,Nei
+kvinne,3,1,Oslo,"in-house, privat sektor",frontend,600000,Nei
+kvinne,1,1,Oslo,"in-house, privat sektor",frontend,600000,Nei
+kvinne,5,1,Oslo,"in-house, privat sektor",frontend,600000,Ja
+kvinne,4,1,Oslo,"in-house, privat sektor",frontend,650000,Ja
+kvinne,5,1,Oslo,konsulent,frontend,715000,Nei
+mann,18,1,Oslo,"in-house, offentlig/kommunal sektor",frontend,590000,Nei
+mann,3,1,Oslo,konsulent,frontend,600000,Nei
+mann,5,1,Oslo,konsulent,frontend,610000,Nei
+mann,5,1,Oslo,konsulent,frontend,610000,Nei
+mann,5,1,Oslo,konsulent,frontend,630000,Nei
+mann,1,1,Oslo,"in-house, privat sektor",frontend,650000,Ja
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",frontend,650000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",frontend,650000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",frontend,655000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",frontend,664000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",frontend,670000,Nei
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",frontend,750000,Nei
+mann,2,1,Oslo,"in-house, privat sektor",frontend,800000,Ja
+kvinne,5,0,Oslo,konsulent,frontend,630000,Nei
+kvinne,5,0,Oslo,konsulent,frontend,640000,Nei
+mann,3,0,Oslo,"in-house, privat sektor",frontend,550000,Nei
+mann,3,0,Oslo,"in-house, privat sektor",frontend,550000,Nei
+mann,3,0,Oslo,konsulent,frontend,555000,Ja
+mann,3,0,Oslo,"in-house, privat sektor",frontend,580000,Nei
+mann,3,0,Oslo,"in-house, offentlig/kommunal sektor",frontend,600000,Nei
+mann,3,0,Oslo,"in-house, offentlig/kommunal sektor",frontend,605000,Nei
+mann,3,0,Oslo,"in-house, privat sektor",frontend,620000,Nei
+mann,5,0,Oslo,konsulent,frontend,630000,Nei
+mann,17,28,Rogaland,konsulent,frontend,1100000,Ja
+mann,0,24,Rogaland,konsulent,frontend,870000,Ja
+mann,5,15,Rogaland,konsulent,frontend,920000,Ja
+mann,4,12,Rogaland,"in-house, privat sektor",frontend,840000,Nei
+mann,1,9,Rogaland,konsulent,frontend,850000,Ja
+mann,3,8,Rogaland,"in-house, privat sektor",frontend,634000,Nei
+mann,3,5,Rogaland,konsulent,frontend,800000,Ja
+mann,2,4,Rogaland,"in-house, privat sektor",frontend,540000,Nei
+mann,2,4,Rogaland,konsulent,frontend,800000,Ja
+kvinne,2,3,Rogaland,"in-house, privat sektor",frontend,600000,Nei
+kvinne,3,3,Rogaland,konsulent,frontend,680000,Ja
+kvinne,3,3,Rogaland,konsulent,frontend,770000,Ja
+mann,0,3,Rogaland,konsulent,frontend,430000,Nei
+mann,5,3,Rogaland,konsulent,frontend,700000,Nei
+mann,0,3,Rogaland,konsulent,frontend,760000,Ja
+kvinne,5,2,Rogaland,konsulent,frontend,690000,Ja
+mann,2,2,Rogaland,"in-house, privat sektor",frontend,600000,Nei
+kvinne,3,1,Rogaland,konsulent,frontend,610000,Nei
+mann,2,1,Rogaland,"in-house, privat sektor",frontend,650000,Ja
+mann,3,0,Rogaland,konsulent,frontend,610000,Ja
+mann,4,5,Troms og Finnmark,"in-house, privat sektor",frontend,567000,Nei
+mann,2,5,Troms og Finnmark,"in-house, privat sektor",frontend,850000,Ja
+mann,3,2,Troms og Finnmark,"in-house, privat sektor",frontend,685000,Nei
+mann,0,30,Trøndelag,"in-house, offentlig/kommunal sektor",frontend,770000,Nei
+mann,2,25,Trøndelag,"in-house, privat sektor",frontend,570000,Ja
+mann,3,25,Trøndelag,"in-house, privat sektor",frontend,1050000,Ja
+mann,2,24,Trøndelag,"in-house, privat sektor",frontend,680000,Ja
+mann,0,12,Trøndelag,"in-house, privat sektor",frontend,700000,Nei
+mann,3,12,Trøndelag,konsulent,frontend,1030000,Nei
+mann,3,11,Trøndelag,"in-house, privat sektor",frontend,670000,Nei
+kvinne,3,10,Trøndelag,konsulent,frontend,773800,Nei
+mann,3,10,Trøndelag,"in-house, offentlig/kommunal sektor",frontend,780000,Nei
+mann,3,9,Trøndelag,konsulent,frontend,1200000,Nei
+mann,3,7,Trøndelag,"in-house, privat sektor",frontend,1000000,Ja
+mann,3,6,Trøndelag,konsulent,frontend,750000,Ja
+mann,1,4,Trøndelag,"in-house, privat sektor",frontend,600000,Nei
+mann,2,4,Trøndelag,konsulent,frontend,710000,Nei
+mann,3,4,Trøndelag,konsulent,frontend,1300000,Nei
+mann,3,2,Trøndelag,"in-house, offentlig/kommunal sektor",frontend,600000,Nei
+mann,5,2,Trøndelag,konsulent,frontend,790000,Nei
+kvinne,2,1,Trøndelag,"in-house, privat sektor",frontend,620000,Nei
+mann,5,1,Trøndelag,konsulent,frontend,730000,Ja
+mann,5,1,Trøndelag,konsulent,frontend,766500,Nei
+kvinne,5,0,Trøndelag,konsulent,frontend,635833,Nei
+mann,5,10,utlandet,"in-house, privat sektor",frontend,800000,Nei
+mann,3,10,utlandet,"in-house, privat sektor",frontend,1178000,Ja
+mann,0,5,utlandet,"in-house, privat sektor",frontend,941000,Nei
+mann,3,3,utlandet,"in-house, privat sektor",frontend,2200000,Ja
+kvinne,0,2,utlandet,"in-house, privat sektor",frontend,820000,Nei
+mann,0,20,Vestfold og Telemark,"in-house, privat sektor",frontend,810000,Nei
+mann,3,20,Vestfold og Telemark,"in-house, privat sektor",frontend,930000,Nei
+mann,2,19,Vestfold og Telemark,"in-house, privat sektor",frontend,819000,Nei
+mann,5,18,Vestfold og Telemark,"in-house, privat sektor",frontend,1050000,Ja
+kvinne,3,12,Vestfold og Telemark,"in-house, privat sektor",frontend,750000,Ja
+kvinne,3,11,Vestfold og Telemark,konsulent,frontend,1100000,Ja
+mann,5,10,Vestfold og Telemark,konsulent,frontend,900000,Ja
+kvinne,3,6,Vestfold og Telemark,konsulent,frontend,760000,Nei
+mann,3,6,Vestfold og Telemark,konsulent,frontend,730000,Ja
+mann,3,4,Vestfold og Telemark,"in-house, privat sektor",frontend,593000,Nei
+mann,0,4,Vestfold og Telemark,"in-house, privat sektor",frontend,600000,Ja
+mann,5,4,Vestfold og Telemark,"in-house, privat sektor",frontend,620000,Nei
+mann,3,4,Vestfold og Telemark,"in-house, privat sektor",frontend,700000,Nei
+kvinne,3,3,Vestfold og Telemark,konsulent,frontend,610000,Nei
+kvinne,3,3,Vestfold og Telemark,"in-house, privat sektor",frontend,655000,Nei
+mann,1,3,Vestfold og Telemark,"in-house, privat sektor",frontend,550000,Nei
+mann,3,3,Vestfold og Telemark,konsulent,frontend,600000,Nei
+mann,1,3,Vestfold og Telemark,konsulent,frontend,720000,Ja
+mann,3,2,Vestfold og Telemark,"in-house, privat sektor",frontend,650000,Nei
+mann,4,0,Vestfold og Telemark,"in-house, privat sektor",frontend,750000,Ja
+mann,3,23,Vestland,konsulent,frontend,1020000,Ja
+kvinne,5,17,Vestland,konsulent,frontend,1100000,Nei
+mann,3,17,Vestland,"in-house, privat sektor",frontend,1152500,Nei
+mann,5,12,Vestland,konsulent,frontend,1320000,Nei
+kvinne,3,10,Vestland,"in-house, privat sektor",frontend,975000,Ja
+mann,5,9,Vestland,"in-house, privat sektor",frontend,1000000,Nei
+mann,18,9,Vestland,"in-house, privat sektor",frontend,1200000,Nei
+mann,4,7,Vestland,"in-house, privat sektor",frontend,690000,Nei
+mann,3,7,Vestland,"in-house, privat sektor",frontend,840000,Nei
+mann,5,7,Vestland,konsulent,frontend,1029000,Nei
+kvinne,6,6,Vestland,"in-house, privat sektor",frontend,729000,Nei
+mann,3,6,Vestland,"in-house, privat sektor",frontend,750000,Ja
+kvinne,5,5,Vestland,"in-house, privat sektor",frontend,750000,Nei
+kvinne,3,5,Vestland,"in-house, privat sektor",frontend,760000,Ja
+mann,3,5,Vestland,"in-house, privat sektor",frontend,1034000,Ja
+kvinne,5,4,Vestland,konsulent,frontend,798000,Nei
+mann,3,4,Vestland,"in-house, privat sektor",frontend,890000,Ja
+mann,5,4,Vestland,"in-house, privat sektor",frontend,890000,Ja
+mann,4,4,Vestland,konsulent,frontend,950000,Ja
+kvinne,3,3,Vestland,"in-house, privat sektor",frontend,600000,Nei
+kvinne,3,3,Vestland,"in-house, privat sektor",frontend,680000,Nei
+kvinne,2,3,Vestland,"in-house, privat sektor",frontend,730000,Nei
+kvinne,3,3,Vestland,"in-house, privat sektor",frontend,790000,Nei
+mann,3,3,Vestland,konsulent,frontend,580000,Nei
+mann,2,3,Vestland,"in-house, privat sektor",frontend,620000,Nei
+mann,5,3,Vestland,konsulent,frontend,692000,Nei
+mann,3,3,Vestland,"in-house, privat sektor",frontend,720000,Nei
+kvinne,5,2,Vestland,konsulent,frontend,770000,Ja
+mann,0,2,Vestland,"in-house, privat sektor",frontend,450000,Nei
+mann,3,2,Vestland,"in-house, privat sektor",frontend,675000,Ja
+kvinne,3,1,Vestland,"in-house, privat sektor",frontend,650000,Nei
+mann,0,1,Vestland,"in-house, privat sektor",frontend,370000,Nei
+mann,3,1,Vestland,"in-house, offentlig/kommunal sektor",frontend,550000,Nei
+mann,5,1,Vestland,konsulent,frontend,650000,Nei
+mann,0,0,Vestland,"in-house, offentlig/kommunal sektor",frontend,520000,Nei
+mann,6,27,Viken,"in-house, privat sektor",frontend,1100000,Nei
+mann,3,19,Viken,frilans / selvstendig næringsdrivende,frontend,1800000,Ja
+mann,4,15,Viken,"in-house, privat sektor",frontend,1150000,Nei
+mann,5,14,Viken,"in-house, privat sektor",frontend,950000,Nei
+mann,3,5,Viken,"in-house, privat sektor",frontend,800000,Nei
+mann,3,5,Viken,konsulent,frontend,830000,Nei
+mann,3,4,Viken,"in-house, privat sektor",frontend,642000,Nei
+mann,3,4,Viken,konsulent,frontend,860000,Ja
+mann,0,3,Viken,"in-house, privat sektor",frontend,460000,Nei
+mann,2,3,Viken,"in-house, privat sektor",frontend,575000,Nei
+mann,3,3,Viken,"in-house, privat sektor",frontend,690000,Nei
+mann,4,2,Viken,"in-house, privat sektor",frontend,585000,Nei
+mann,2,2,Viken,"in-house, privat sektor",frontend,675000,Ja
+kvinne,2,1,Viken,"in-house, privat sektor",frontend,550000,Ja
+mann,5,1,Viken,"in-house, privat sektor",frontend,750000,Ja
+kvinne,3,0,Viken,konsulent,frontend,585000,Nei
+mann,3,0,Viken,"in-house, offentlig/kommunal sektor",frontend,548600,Nei
+mann,4,32,Agder,"in-house, privat sektor",fullstack,830000,Nei
+mann,2,25,Agder,"in-house, privat sektor",fullstack,820000,Nei
+mann,5,20,Agder,konsulent,fullstack,1000000,Nei
+mann,3,15,Agder,konsulent,fullstack,1200000,Nei
+mann,5,14,Agder,konsulent,fullstack,955000,Ja
+mann,6,13,Agder,konsulent,fullstack,1050000,Nei
+mann,0,12,Agder,"in-house, privat sektor",fullstack,850000,Nei
+mann,5,11,Agder,"in-house, privat sektor",fullstack,870000,Nei
+mann,3,10,Agder,konsulent,fullstack,750000,Ja
+mann,5,10,Agder,"in-house, privat sektor",fullstack,920000,Nei
+mann,3,8,Agder,konsulent,fullstack,930000,Ja
+mann,0,7,Agder,konsulent,fullstack,936000,Ja
+mann,0,6,Agder,"in-house, privat sektor",fullstack,550000,Nei
+mann,1,6,Agder,"in-house, privat sektor",fullstack,795500,Nei
+mann,0,5,Agder,"in-house, privat sektor",fullstack,557100,Nei
+mann,3,5,Agder,"in-house, privat sektor",fullstack,906000,Nei
+mann,4,5,Agder,konsulent,fullstack,958000,Nei
+mann,5,4,Agder,konsulent,fullstack,750000,Ja
+mann,5,4,Agder,konsulent,fullstack,800000,Ja
+mann,3,3,Agder,konsulent,fullstack,650000,Ja
+mann,3,3,Agder,"in-house, privat sektor",fullstack,700000,Nei
+mann,17,3,Agder,"in-house, privat sektor",fullstack,760000,Ja
+mann,3,3,Agder,"in-house, privat sektor",fullstack,780000,Ja
+mann,3,2,Agder,"in-house, privat sektor",fullstack,500000,Ja
+mann,3,2,Agder,konsulent,fullstack,600000,Nei
+mann,3,2,Agder,"in-house, privat sektor",fullstack,620000,Ja
+mann,3,2,Agder,konsulent,fullstack,630000,Nei
+mann,3,1,Agder,frilans / selvstendig næringsdrivende,fullstack,300000,Nei
+mann,4,1,Agder,konsulent,fullstack,550000,Nei
+mann,4,35,Innlandet,"in-house, privat sektor",fullstack,900000,Nei
+mann,4,28,Innlandet,frilans / selvstendig næringsdrivende,fullstack,1600000,Nei
+mann,5,21,Innlandet,"in-house, privat sektor",fullstack,1000000,Nei
+mann,0,21,Innlandet,"in-house, privat sektor",fullstack,1100000,Nei
+mann,11,20,Innlandet,"in-house, privat sektor",fullstack,1270000,Nei
+mann,5,19,Innlandet,"in-house, offentlig/kommunal sektor",fullstack,1000000,Nei
+mann,5,18,Innlandet,konsulent,fullstack,1000000,Ja
+mann,0,15,Innlandet,konsulent,fullstack,1250000,Nei
+mann,2,11,Innlandet,"in-house, privat sektor",fullstack,900000,Nei
+kvinne,5,10,Innlandet,"in-house, privat sektor",fullstack,879000,Ja
+mann,3,10,Innlandet,frilans / selvstendig næringsdrivende,fullstack,936000,Nei
+mann,0,6,Innlandet,frilans / selvstendig næringsdrivende,fullstack,450000,Nei
+mann,3,5,Innlandet,"in-house, privat sektor",fullstack,630000,Nei
+mann,5,5,Innlandet,"in-house, privat sektor",fullstack,680000,Nei
+mann,4,5,Innlandet,konsulent,fullstack,720000,Nei
+mann,3,4,Innlandet,konsulent,fullstack,930000,Ja
+mann,0,4,Innlandet,frilans / selvstendig næringsdrivende,fullstack,1060000,Nei
+mann,3,3,Innlandet,konsulent,fullstack,647500,Ja
+kvinne,6,1,Innlandet,"in-house, privat sektor",fullstack,581000,Nei
+mann,3,1,Innlandet,"in-house, offentlig/kommunal sektor",fullstack,600000,Nei
+mann,0,0,Innlandet,konsulent,fullstack,520000,Ja
+mann,5,20,Møre og Romsdal,konsulent,fullstack,750000,Nei
+mann,5,20,Møre og Romsdal,konsulent,fullstack,760000,Ja
+mann,2,20,Møre og Romsdal,"in-house, privat sektor",fullstack,1200000,Nei
+mann,8,16,Møre og Romsdal,"in-house, privat sektor",fullstack,900000,Ja
+mann,1,15,Møre og Romsdal,"in-house, privat sektor",fullstack,800000,Nei
+mann,3,11,Møre og Romsdal,"in-house, privat sektor",fullstack,830000,Ja
+mann,3,11,Møre og Romsdal,"in-house, privat sektor",fullstack,1000000,Nei
+mann,7,10,Møre og Romsdal,"in-house, privat sektor",fullstack,500000,Ja
+mann,5,9,Møre og Romsdal,konsulent,fullstack,845000,Ja
+mann,5,9,Møre og Romsdal,"in-house, privat sektor",fullstack,1100000,Nei
+mann,3,8,Møre og Romsdal,"in-house, privat sektor",fullstack,680000,Nei
+mann,3,8,Møre og Romsdal,konsulent,fullstack,770000,Ja
+mann,4,7,Møre og Romsdal,konsulent,fullstack,890000,Ja
+mann,2,6,Møre og Romsdal,"in-house, privat sektor",fullstack,750000,Nei
+kvinne,5,5,Møre og Romsdal,"in-house, privat sektor",fullstack,715000,Nei
+mann,4,5,Møre og Romsdal,"in-house, privat sektor",fullstack,750000,Nei
+kvinne,3,4,Møre og Romsdal,"in-house, privat sektor",fullstack,650000,Nei
+mann,0,4,Møre og Romsdal,"in-house, privat sektor",fullstack,600000,Ja
+mann,6,4,Møre og Romsdal,"in-house, privat sektor",fullstack,680000,Nei
+mann,3,4,Møre og Romsdal,konsulent,fullstack,1000000,Nei
+mann,3,3,Møre og Romsdal,"in-house, privat sektor",fullstack,574000,Nei
+mann,3,3,Møre og Romsdal,"in-house, privat sektor",fullstack,579000,Ja
+mann,2,3,Møre og Romsdal,"in-house, privat sektor",fullstack,600000,Nei
+mann,0,3,Møre og Romsdal,"in-house, privat sektor",fullstack,900000,Nei
+mann,3,2,Møre og Romsdal,"in-house, privat sektor",fullstack,528000,Nei
+mann,5,1,Møre og Romsdal,konsulent,fullstack,640000,Nei
+mann,6,38,Nordland,"in-house, privat sektor",fullstack,950000,Nei
+mann,5,15,Nordland,"in-house, privat sektor",fullstack,870000,Nei
+mann,3,12,Nordland,"in-house, privat sektor",fullstack,900000,Nei
+mann,5,12,Nordland,"in-house, privat sektor",fullstack,1100000,Nei
+mann,6,11,Nordland,"in-house, privat sektor",fullstack,1450000,Ja
+mann,5,10,Nordland,frilans / selvstendig næringsdrivende,fullstack,2400000,Nei
+mann,3,9,Nordland,"in-house, privat sektor",fullstack,705000,Nei
+mann,3,9,Nordland,"in-house, privat sektor",fullstack,780000,Ja
+mann,0,9,Nordland,"in-house, privat sektor",fullstack,800000,Ja
+mann,20,9,Nordland,"in-house, privat sektor",fullstack,1350000,Ja
+kvinne,3,7,Nordland,"in-house, privat sektor",fullstack,485000,Nei
+mann,3,5,Nordland,"in-house, offentlig/kommunal sektor",fullstack,700000,Nei
+mann,3,5,Nordland,konsulent,fullstack,700000,Nei
+mann,1,4,Nordland,"in-house, privat sektor",fullstack,600000,Ja
+mann,3,4,Nordland,"in-house, offentlig/kommunal sektor",fullstack,760000,Nei
+mann,3,3,Nordland,"in-house, offentlig/kommunal sektor",fullstack,650000,Ja
+mann,4,3,Nordland,"in-house, privat sektor",fullstack,650000,Nei
+mann,5,3,Nordland,"in-house, privat sektor",fullstack,710000,Ja
+mann,3,2,Nordland,"in-house, offentlig/kommunal sektor",fullstack,590000,Nei
+mann,3,0,Nordland,"in-house, offentlig/kommunal sektor",fullstack,550000,Nei
+mann,2,40,Oslo,"in-house, privat sektor",fullstack,1040000,Nei
+mann,5,31,Oslo,"in-house, privat sektor",fullstack,1000000,Nei
+mann,3,30,Oslo,konsulent,fullstack,2200000,Ja
+mann,2,26,Oslo,"in-house, privat sektor",fullstack,990000,Nei
+mann,3,26,Oslo,konsulent,fullstack,1250000,Nei
+kvinne,5,25,Oslo,konsulent,fullstack,780000,Ja
+mann,3,25,Oslo,"in-house, privat sektor",fullstack,650000,Nei
+mann,3,25,Oslo,"in-house, privat sektor",fullstack,680000,Nei
+mann,3,25,Oslo,"in-house, privat sektor",fullstack,850000,Nei
+mann,2,25,Oslo,"in-house, privat sektor",fullstack,1020000,Nei
+mann,5,25,Oslo,"in-house, privat sektor",fullstack,1100000,Nei
+mann,3,25,Oslo,konsulent,fullstack,1700000,Ja
+kvinne,5,24,Oslo,"in-house, privat sektor",fullstack,766000,Nei
+mann,3,24,Oslo,konsulent,fullstack,1000000,Nei
+mann,4,24,Oslo,"in-house, offentlig/kommunal sektor",fullstack,1000000,Nei
+mann,6,24,Oslo,konsulent,fullstack,1300000,Nei
+mann,3,24,Oslo,frilans / selvstendig næringsdrivende,fullstack,1800000,Ja
+mann,5,24,Oslo,frilans / selvstendig næringsdrivende,fullstack,1900000,Nei
+mann,6,24,Oslo,konsulent,fullstack,2300000,Ja
+kvinne,3,22,Oslo,"in-house, offentlig/kommunal sektor",fullstack,1021000,Nei
+mann,5,21,Oslo,konsulent,fullstack,1350000,Ja
+mann,5,20,Oslo,"in-house, privat sektor",fullstack,910000,Nei
+mann,3,20,Oslo,"in-house, privat sektor",fullstack,950000,Nei
+mann,6,20,Oslo,"in-house, offentlig/kommunal sektor",fullstack,975000,Nei
+mann,6,20,Oslo,"in-house, privat sektor",fullstack,1050000,Nei
+mann,5,20,Oslo,konsulent,fullstack,1150000,Nei
+mann,0,20,Oslo,frilans / selvstendig næringsdrivende,fullstack,1200000,Nei
+mann,4,20,Oslo,konsulent,fullstack,1400000,Nei
+mann,5,20,Oslo,konsulent,fullstack,1450000,Ja
+mann,8,19,Oslo,konsulent,fullstack,1030000,Ja
+mann,5,19,Oslo,"in-house, privat sektor",fullstack,1400000,Nei
+mann,5,19,Oslo,konsulent,fullstack,2500000,Ja
+annet / ønsker ikke oppgi,3,18,Oslo,"in-house, offentlig/kommunal sektor",fullstack,975000,Nei
+kvinne,5,18,Oslo,konsulent,fullstack,1100000,Ja
+kvinne,5,18,Oslo,konsulent,fullstack,1400000,Nei
+mann,15,18,Oslo,"in-house, privat sektor",fullstack,928000,Nei
+mann,3,18,Oslo,"in-house, privat sektor",fullstack,1100000,Nei
+mann,4,18,Oslo,"in-house, privat sektor",fullstack,1100000,Nei
+mann,5,18,Oslo,"in-house, privat sektor",fullstack,1380000,Ja
+mann,9,18,Oslo,"in-house, privat sektor",fullstack,1450000,Ja
+mann,3,18,Oslo,"in-house, privat sektor",fullstack,1700000,Ja
+mann,5,18,Oslo,konsulent,fullstack,2000000,Nei
+kvinne,5,17,Oslo,konsulent,fullstack,1000000,Ja
+mann,3,17,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,5,17,Oslo,"in-house, privat sektor",fullstack,850000,Nei
+mann,3,17,Oslo,"in-house, offentlig/kommunal sektor",fullstack,890700,Ja
+mann,3,17,Oslo,"in-house, privat sektor",fullstack,955000,Nei
+mann,6,17,Oslo,"in-house, offentlig/kommunal sektor",fullstack,1000000,Nei
+mann,3,17,Oslo,"in-house, privat sektor",fullstack,1005000,Ja
+mann,0,17,Oslo,konsulent,fullstack,1200000,Nei
+mann,5,17,Oslo,konsulent,fullstack,1400000,Nei
+mann,3,16,Oslo,konsulent,fullstack,849000,Nei
+mann,0,16,Oslo,"in-house, privat sektor",fullstack,1100000,Ja
+mann,15,16,Oslo,konsulent,fullstack,1100000,Nei
+mann,3,16,Oslo,konsulent,fullstack,1190000,Nei
+mann,5,15,Oslo,konsulent,fullstack,600000,Ja
+mann,5,15,Oslo,konsulent,fullstack,660000,Ja
+mann,0,15,Oslo,"in-house, privat sektor",fullstack,680000,Ja
+mann,3,15,Oslo,"in-house, privat sektor",fullstack,700000,Nei
+mann,2,15,Oslo,"in-house, offentlig/kommunal sektor",fullstack,800000,Nei
+mann,5,15,Oslo,"in-house, privat sektor",fullstack,1000000,Nei
+mann,7,15,Oslo,"in-house, offentlig/kommunal sektor",fullstack,1000000,Nei
+mann,5,15,Oslo,konsulent,fullstack,1150000,Nei
+mann,5,15,Oslo,konsulent,fullstack,1200000,Nei
+mann,3,15,Oslo,"in-house, privat sektor",fullstack,1450000,Nei
+mann,0,15,Oslo,frilans / selvstendig næringsdrivende,fullstack,2300000,Nei
+annet / ønsker ikke oppgi,4,14,Oslo,"in-house, privat sektor",fullstack,1050000,Ja
+kvinne,5,14,Oslo,konsulent,fullstack,1145000,Nei
+mann,5,14,Oslo,"in-house, offentlig/kommunal sektor",fullstack,972000,Nei
+mann,3,14,Oslo,"in-house, offentlig/kommunal sektor",fullstack,1010000,Nei
+mann,3,14,Oslo,konsulent,fullstack,1075000,Ja
+mann,7,14,Oslo,konsulent,fullstack,1200000,Nei
+mann,3,14,Oslo,"in-house, privat sektor",fullstack,1350000,Nei
+mann,5,14,Oslo,konsulent,fullstack,1400000,Nei
+kvinne,5,13,Oslo,konsulent,fullstack,1165000,Nei
+mann,3,13,Oslo,"in-house, privat sektor",fullstack,840000,Nei
+mann,3,13,Oslo,"in-house, privat sektor",fullstack,1000000,Nei
+mann,4,13,Oslo,"in-house, privat sektor",fullstack,1180000,Nei
+mann,5,13,Oslo,konsulent,fullstack,1180000,Nei
+mann,3,13,Oslo,konsulent,fullstack,1400000,Ja
+mann,0,13,Oslo,konsulent,fullstack,2700000,Ja
+kvinne,5,12,Oslo,konsulent,fullstack,1080000,Nei
+mann,0,12,Oslo,"in-house, privat sektor",fullstack,850000,Nei
+mann,5,12,Oslo,"in-house, offentlig/kommunal sektor",fullstack,850000,Nei
+mann,5,12,Oslo,"in-house, offentlig/kommunal sektor",fullstack,875000,Nei
+mann,0,12,Oslo,konsulent,fullstack,950000,Ja
+mann,12,12,Oslo,frilans / selvstendig næringsdrivende,fullstack,1000000,Nei
+mann,3,12,Oslo,konsulent,fullstack,1100000,Nei
+mann,5,12,Oslo,konsulent,fullstack,1120000,Nei
+mann,0,12,Oslo,konsulent,fullstack,1150000,Nei
+mann,0,12,Oslo,"in-house, privat sektor",fullstack,1220000,Ja
+mann,4,12,Oslo,"in-house, privat sektor",fullstack,1264650,Nei
+mann,18,12,Oslo,konsulent,fullstack,1300000,Ja
+mann,5,12,Oslo,konsulent,fullstack,1400000,Nei
+mann,3,12,Oslo,frilans / selvstendig næringsdrivende,fullstack,2200000,Nei
+mann,5,11,Oslo,"in-house, offentlig/kommunal sektor",fullstack,1010000,Nei
+mann,3,11,Oslo,"in-house, privat sektor",fullstack,1050000,Nei
+mann,5,11,Oslo,konsulent,fullstack,1050000,Nei
+mann,3,11,Oslo,konsulent,fullstack,1100000,Ja
+mann,7,11,Oslo,konsulent,fullstack,1100000,Ja
+mann,5,11,Oslo,konsulent,fullstack,1100000,Nei
+mann,5,11,Oslo,konsulent,fullstack,1300000,Ja
+mann,4,11,Oslo,konsulent,fullstack,1500000,Ja
+mann,5,11,Oslo,frilans / selvstendig næringsdrivende,fullstack,2400000,Nei
+annet / ønsker ikke oppgi,18,10,Oslo,konsulent,fullstack,1100000,Ja
+kvinne,3,10,Oslo,konsulent,fullstack,780000,Nei
+kvinne,5,10,Oslo,konsulent,fullstack,1010000,Ja
+mann,0,10,Oslo,"in-house, privat sektor",fullstack,700000,Nei
+mann,2,10,Oslo,"in-house, privat sektor",fullstack,950000,Nei
+mann,5,10,Oslo,konsulent,fullstack,1000000,Nei
+mann,5,10,Oslo,"in-house, privat sektor",fullstack,1030000,Nei
+mann,5,10,Oslo,konsulent,fullstack,1050000,Ja
+mann,5,10,Oslo,konsulent,fullstack,1080000,Nei
+mann,5,10,Oslo,konsulent,fullstack,1100000,Nei
+mann,3,10,Oslo,"in-house, privat sektor",fullstack,1130000,Nei
+mann,0,10,Oslo,"in-house, privat sektor",fullstack,1200000,Ja
+mann,3,10,Oslo,konsulent,fullstack,1300000,Ja
+mann,5,10,Oslo,frilans / selvstendig næringsdrivende,fullstack,1500000,Ja
+kvinne,3,9,Oslo,konsulent,fullstack,1000000,Nei
+kvinne,5,9,Oslo,konsulent,fullstack,1050000,Nei
+mann,3,9,Oslo,"in-house, offentlig/kommunal sektor",fullstack,670000,Nei
+mann,0,9,Oslo,"in-house, privat sektor",fullstack,850000,Nei
+mann,3,9,Oslo,"in-house, privat sektor",fullstack,850000,Ja
+mann,3,9,Oslo,konsulent,fullstack,900000,Ja
+mann,0,9,Oslo,konsulent,fullstack,920000,Nei
+mann,3,9,Oslo,"in-house, privat sektor",fullstack,920000,Ja
+mann,5,9,Oslo,"in-house, privat sektor",fullstack,1030000,Nei
+mann,5,9,Oslo,konsulent,fullstack,1050000,Nei
+mann,6,9,Oslo,konsulent,fullstack,1050000,Nei
+mann,9,8,Oslo,konsulent,fullstack,720000,Nei
+mann,18,8,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,5,8,Oslo,"in-house, privat sektor",fullstack,860000,Nei
+mann,3,8,Oslo,konsulent,fullstack,950000,Nei
+mann,3,8,Oslo,"in-house, offentlig/kommunal sektor",fullstack,1000000,Nei
+mann,3,8,Oslo,konsulent,fullstack,1000000,Ja
+mann,5,8,Oslo,konsulent,fullstack,1035000,Nei
+mann,3,8,Oslo,konsulent,fullstack,1040000,Ja
+mann,3,8,Oslo,konsulent,fullstack,1050000,Nei
+mann,0,8,Oslo,"in-house, privat sektor",fullstack,1050000,Ja
+mann,6,8,Oslo,konsulent,fullstack,1100000,Ja
+mann,5,8,Oslo,konsulent,fullstack,1150000,Ja
+mann,3,8,Oslo,"in-house, privat sektor",fullstack,1200000,Ja
+mann,3,8,Oslo,konsulent,fullstack,1300000,Ja
+mann,5,8,Oslo,konsulent,fullstack,1350000,Nei
+mann,3,8,Oslo,"in-house, privat sektor",fullstack,1600000,Nei
+kvinne,18,7,Oslo,"in-house, privat sektor",fullstack,720000,Nei
+kvinne,5,7,Oslo,konsulent,fullstack,1000000,Nei
+mann,4,7,Oslo,frilans / selvstendig næringsdrivende,fullstack,600000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",fullstack,710000,Nei
+mann,5,7,Oslo,"in-house, privat sektor",fullstack,725000,Nei
+mann,4,7,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,7,7,Oslo,"in-house, offentlig/kommunal sektor",fullstack,796000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",fullstack,820000,Nei
+mann,5,7,Oslo,"in-house, privat sektor",fullstack,937000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",fullstack,950000,Ja
+mann,0,7,Oslo,"in-house, privat sektor",fullstack,950000,Ja
+mann,3,7,Oslo,"in-house, privat sektor",fullstack,950000,Nei
+mann,3,7,Oslo,konsulent,fullstack,975000,Nei
+mann,5,7,Oslo,konsulent,fullstack,1050000,Ja
+mann,3,7,Oslo,"in-house, privat sektor",fullstack,1050000,Nei
+mann,5,7,Oslo,konsulent,fullstack,1200000,Nei
+mann,4,7,Oslo,konsulent,fullstack,1500000,Ja
+kvinne,3,6,Oslo,konsulent,fullstack,678000,Nei
+kvinne,0,6,Oslo,konsulent,fullstack,980000,Nei
+kvinne,5,6,Oslo,konsulent,fullstack,1000000,Nei
+mann,1,6,Oslo,"in-house, privat sektor",fullstack,750000,Ja
+mann,3,6,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,1,6,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,3,6,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,3,6,Oslo,"in-house, offentlig/kommunal sektor",fullstack,820000,Nei
+mann,5,6,Oslo,konsulent,fullstack,845000,Nei
+mann,3,6,Oslo,konsulent,fullstack,858000,Nei
+mann,5,6,Oslo,"in-house, privat sektor",fullstack,890000,Nei
+mann,0,6,Oslo,"in-house, privat sektor",fullstack,900000,Ja
+mann,5,6,Oslo,konsulent,fullstack,930000,Nei
+mann,5,6,Oslo,konsulent,fullstack,930000,Ja
+mann,5,6,Oslo,konsulent,fullstack,935000,Nei
+mann,5,6,Oslo,"in-house, privat sektor",fullstack,945000,Nei
+mann,5,6,Oslo,konsulent,fullstack,950000,Nei
+mann,5,6,Oslo,konsulent,fullstack,950000,Nei
+mann,5,6,Oslo,konsulent,fullstack,960000,Ja
+mann,5,6,Oslo,konsulent,fullstack,1000000,Ja
+mann,3,6,Oslo,konsulent,fullstack,1000000,Ja
+mann,1,6,Oslo,"in-house, privat sektor",fullstack,1030000,Ja
+mann,4,6,Oslo,konsulent,fullstack,1050000,Nei
+mann,5,6,Oslo,"in-house, privat sektor",fullstack,1050000,Nei
+mann,5,6,Oslo,konsulent,fullstack,1100000,Nei
+mann,5,6,Oslo,konsulent,fullstack,1100000,Nei
+mann,4,6,Oslo,konsulent,fullstack,1200000,Nei
+mann,3,6,Oslo,konsulent,fullstack,1300000,Ja
+mann,3,6,Oslo,konsulent,fullstack,1350000,Nei
+mann,0,6,Oslo,frilans / selvstendig næringsdrivende,fullstack,1800000,Nei
+kvinne,5,5,Oslo,"in-house, offentlig/kommunal sektor",fullstack,810000,Nei
+kvinne,3,5,Oslo,"in-house, offentlig/kommunal sektor",fullstack,840000,Nei
+kvinne,5,5,Oslo,konsulent,fullstack,875000,Nei
+kvinne,5,5,Oslo,konsulent,fullstack,875000,Nei
+kvinne,5,5,Oslo,konsulent,fullstack,885000,Nei
+kvinne,5,5,Oslo,konsulent,fullstack,900000,Ja
+kvinne,5,5,Oslo,konsulent,fullstack,1250000,Ja
+mann,3,5,Oslo,"in-house, privat sektor",fullstack,625000,Nei
+mann,3,5,Oslo,konsulent,fullstack,650000,Nei
+mann,0,5,Oslo,"in-house, privat sektor",fullstack,674000,Ja
+mann,0,5,Oslo,konsulent,fullstack,700000,Nei
+mann,5,5,Oslo,"in-house, offentlig/kommunal sektor",fullstack,730000,Ja
+mann,6,5,Oslo,"in-house, privat sektor",fullstack,730000,Nei
+mann,3,5,Oslo,konsulent,fullstack,750000,Ja
+mann,4,5,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,5,5,Oslo,konsulent,fullstack,770000,Nei
+mann,7,5,Oslo,konsulent,fullstack,790000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",fullstack,800000,Ja
+mann,4,5,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",fullstack,802000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",fullstack,817000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",fullstack,830000,Nei
+mann,0,5,Oslo,"in-house, privat sektor",fullstack,830000,Ja
+mann,3,5,Oslo,konsulent,fullstack,860000,Nei
+mann,5,5,Oslo,konsulent,fullstack,870000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",fullstack,870000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",fullstack,870000,Nei
+mann,3,5,Oslo,konsulent,fullstack,870000,Ja
+mann,5,5,Oslo,konsulent,fullstack,875000,Nei
+mann,16,5,Oslo,"in-house, privat sektor",fullstack,890000,Nei
+mann,5,5,Oslo,"in-house, offentlig/kommunal sektor",fullstack,900000,Nei
+mann,6,5,Oslo,"in-house, privat sektor",fullstack,900000,Nei
+mann,3,5,Oslo,"in-house, offentlig/kommunal sektor",fullstack,900000,Nei
+mann,4,5,Oslo,konsulent,fullstack,900000,Ja
+mann,5,5,Oslo,"in-house, privat sektor",fullstack,920000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",fullstack,930000,Nei
+mann,5,5,Oslo,konsulent,fullstack,935000,Nei
+mann,5,5,Oslo,konsulent,fullstack,935000,Ja
+mann,5,5,Oslo,konsulent,fullstack,945000,Ja
+mann,3,5,Oslo,"in-house, privat sektor",fullstack,1000000,Nei
+mann,5,5,Oslo,konsulent,fullstack,1000000,Nei
+mann,6,5,Oslo,konsulent,fullstack,1000000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",fullstack,1070000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",fullstack,1100000,Nei
+mann,5,5,Oslo,konsulent,fullstack,1100000,Ja
+mann,3,5,Oslo,konsulent,fullstack,1200000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",fullstack,1200000,Ja
+mann,5,5,Oslo,konsulent,fullstack,1350000,Ja
+mann,5,5,Oslo,frilans / selvstendig næringsdrivende,fullstack,1500000,Nei
+kvinne,3,4,Oslo,"in-house, offentlig/kommunal sektor",fullstack,680000,Nei
+kvinne,5,4,Oslo,konsulent,fullstack,830000,Nei
+kvinne,5,4,Oslo,konsulent,fullstack,950000,Nei
+kvinne,5,4,Oslo,konsulent,fullstack,1100000,Ja
+mann,3,4,Oslo,konsulent,fullstack,660000,Nei
+mann,4,4,Oslo,konsulent,fullstack,660000,Ja
+mann,3,4,Oslo,"in-house, offentlig/kommunal sektor",fullstack,670000,Ja
+mann,3,4,Oslo,konsulent,fullstack,700000,Nei
+mann,3,4,Oslo,"in-house, offentlig/kommunal sektor",fullstack,708000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",fullstack,720000,Ja
+mann,2,4,Oslo,"in-house, privat sektor",fullstack,720000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,5,4,Oslo,"in-house, offentlig/kommunal sektor",fullstack,750000,Nei
+mann,5,4,Oslo,konsulent,fullstack,750000,Ja
+mann,6,4,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,3,4,Oslo,konsulent,fullstack,751000,Nei
+mann,3,4,Oslo,"in-house, offentlig/kommunal sektor",fullstack,759000,Nei
+mann,5,4,Oslo,konsulent,fullstack,760000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",fullstack,760000,Ja
+mann,3,4,Oslo,konsulent,fullstack,760000,Ja
+mann,3,4,Oslo,"in-house, privat sektor",fullstack,780000,Ja
+mann,5,4,Oslo,konsulent,fullstack,790000,Nei
+mann,1,4,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,1,4,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,9,4,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,5,4,Oslo,konsulent,fullstack,800000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,5,4,Oslo,konsulent,fullstack,825000,Nei
+mann,5,4,Oslo,konsulent,fullstack,830000,Nei
+mann,5,4,Oslo,konsulent,fullstack,830000,Nei
+mann,5,4,Oslo,konsulent,fullstack,850000,Nei
+mann,3,4,Oslo,konsulent,fullstack,860000,Nei
+mann,18,4,Oslo,"in-house, privat sektor",fullstack,865000,Nei
+mann,5,4,Oslo,konsulent,fullstack,885000,Ja
+mann,5,4,Oslo,"in-house, privat sektor",fullstack,893000,Nei
+mann,3,4,Oslo,konsulent,fullstack,900000,Ja
+mann,5,4,Oslo,konsulent,fullstack,900000,Ja
+mann,0,4,Oslo,"in-house, offentlig/kommunal sektor",fullstack,949000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",fullstack,1000000,Nei
+mann,3,4,Oslo,konsulent,fullstack,1000000,Ja
+mann,5,4,Oslo,konsulent,fullstack,1000000,Nei
+mann,7,4,Oslo,konsulent,fullstack,1000000,Ja
+mann,5,4,Oslo,"in-house, privat sektor",fullstack,1004000,Ja
+mann,5,4,Oslo,"in-house, offentlig/kommunal sektor",fullstack,1100000,Ja
+mann,5,4,Oslo,konsulent,fullstack,1150000,Ja
+mann,3,4,Oslo,konsulent,fullstack,1170000,Nei
+mann,4,4,Oslo,konsulent,fullstack,1300000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",fullstack,1400000,Ja
+kvinne,5,3,Oslo,konsulent,fullstack,670000,Nei
+kvinne,3,3,Oslo,"in-house, privat sektor",fullstack,700000,Nei
+kvinne,3,3,Oslo,"in-house, privat sektor",fullstack,730000,Nei
+kvinne,5,3,Oslo,"in-house, offentlig/kommunal sektor",fullstack,745000,Nei
+kvinne,2,3,Oslo,"in-house, privat sektor",fullstack,747000,Nei
+kvinne,3,3,Oslo,"in-house, privat sektor",fullstack,780000,Nei
+kvinne,5,3,Oslo,konsulent,fullstack,800000,Ja
+kvinne,5,3,Oslo,konsulent,fullstack,800000,Nei
+kvinne,3,3,Oslo,konsulent,fullstack,850000,Ja
+mann,3,3,Oslo,"in-house, privat sektor",fullstack,480000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",fullstack,570000,Ja
+mann,3,3,Oslo,konsulent,fullstack,590000,Nei
+mann,3,3,Oslo,konsulent,fullstack,600000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",fullstack,600000,Nei
+mann,0,3,Oslo,konsulent,fullstack,660000,Ja
+mann,3,3,Oslo,konsulent,fullstack,690000,Nei
+mann,5,3,Oslo,konsulent,fullstack,695000,Nei
+mann,3,3,Oslo,"in-house, privat sektor",fullstack,700000,Nei
+mann,4,3,Oslo,"in-house, offentlig/kommunal sektor",fullstack,700000,Ja
+mann,5,3,Oslo,"in-house, privat sektor",fullstack,700000,Nei
+mann,5,3,Oslo,konsulent,fullstack,709000,Nei
+mann,5,3,Oslo,"in-house, privat sektor",fullstack,720000,Nei
+mann,3,3,Oslo,konsulent,fullstack,741155,Nei
+mann,5,3,Oslo,konsulent,fullstack,750000,Ja
+mann,3,3,Oslo,"in-house, privat sektor",fullstack,750000,Ja
+mann,5,3,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,3,3,Oslo,konsulent,fullstack,759000,Nei
+mann,5,3,Oslo,konsulent,fullstack,765000,Nei
+mann,5,3,Oslo,konsulent,fullstack,770000,Nei
+mann,3,3,Oslo,konsulent,fullstack,780000,Ja
+mann,5,3,Oslo,"in-house, offentlig/kommunal sektor",fullstack,785000,Nei
+mann,5,3,Oslo,konsulent,fullstack,800000,Nei
+mann,5,3,Oslo,konsulent,fullstack,800000,Ja
+mann,2,3,Oslo,"in-house, privat sektor",fullstack,800000,Nei
+mann,5,3,Oslo,konsulent,fullstack,820000,Nei
+mann,5,3,Oslo,konsulent,fullstack,820000,Nei
+mann,4,3,Oslo,konsulent,fullstack,830000,Ja
+mann,3,3,Oslo,konsulent,fullstack,840000,Ja
+mann,5,3,Oslo,konsulent,fullstack,885000,Ja
+mann,5,3,Oslo,konsulent,fullstack,885000,Ja
+mann,0,3,Oslo,"in-house, privat sektor",fullstack,900000,Nei
+mann,3,3,Oslo,konsulent,fullstack,900000,Ja
+mann,5,3,Oslo,"in-house, privat sektor",fullstack,920000,Ja
+mann,3,3,Oslo,"in-house, privat sektor",fullstack,950000,Nei
+mann,5,3,Oslo,"in-house, privat sektor",fullstack,950000,Nei
+mann,0,3,Oslo,"in-house, privat sektor",fullstack,1020000,Nei
+mann,5,3,Oslo,konsulent,fullstack,1200000,Ja
+mann,3,3,Oslo,konsulent,fullstack,1300000,Ja
+mann,3,3,Oslo,konsulent,fullstack,1500000,Ja
+kvinne,0,2,Oslo,"in-house, offentlig/kommunal sektor",fullstack,500000,Nei
+kvinne,3,2,Oslo,konsulent,fullstack,626000,Nei
+kvinne,3,2,Oslo,konsulent,fullstack,670000,Nei
+kvinne,5,2,Oslo,konsulent,fullstack,675000,Nei
+kvinne,5,2,Oslo,konsulent,fullstack,675000,Nei
+kvinne,5,2,Oslo,konsulent,fullstack,675000,Nei
+kvinne,16,2,Oslo,"in-house, privat sektor",fullstack,680000,Nei
+kvinne,5,2,Oslo,konsulent,fullstack,683000,Nei
+kvinne,3,2,Oslo,"in-house, privat sektor",fullstack,700000,Ja
+kvinne,5,2,Oslo,konsulent,fullstack,712000,Nei
+kvinne,5,2,Oslo,konsulent,fullstack,730000,Ja
+kvinne,3,2,Oslo,konsulent,fullstack,735000,Nei
+kvinne,3,2,Oslo,"in-house, privat sektor",fullstack,820000,Ja
+kvinne,5,2,Oslo,konsulent,fullstack,850000,Ja
+mann,1,2,Oslo,"in-house, privat sektor",fullstack,540000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,550000,Ja
+mann,3,2,Oslo,konsulent,fullstack,570000,Nei
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",fullstack,593500,Nei
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,600000,Ja
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,604000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,615000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,620000,Ja
+mann,0,2,Oslo,"in-house, privat sektor",fullstack,625000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,630000,Nei
+mann,3,2,Oslo,konsulent,fullstack,640000,Ja
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",fullstack,640000,Nei
+mann,3,2,Oslo,konsulent,fullstack,645000,Nei
+mann,2,2,Oslo,"in-house, privat sektor",fullstack,650000,Nei
+mann,3,2,Oslo,konsulent,fullstack,650000,Nei
+mann,5,2,Oslo,konsulent,fullstack,652000,Ja
+mann,5,2,Oslo,konsulent,fullstack,670000,Nei
+mann,5,2,Oslo,"in-house, privat sektor",fullstack,670000,Nei
+mann,5,2,Oslo,konsulent,fullstack,670000,Nei
+mann,3,2,Oslo,konsulent,fullstack,673000,Nei
+mann,3,2,Oslo,konsulent,fullstack,675000,Ja
+mann,5,2,Oslo,konsulent,fullstack,675000,Nei
+mann,5,2,Oslo,konsulent,fullstack,675000,Nei
+mann,5,2,Oslo,konsulent,fullstack,680000,Nei
+mann,6,2,Oslo,"in-house, privat sektor",fullstack,690000,Ja
+mann,0,2,Oslo,konsulent,fullstack,690000,Nei
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",fullstack,694000,Nei
+mann,3,2,Oslo,konsulent,fullstack,695000,Nei
+mann,0,2,Oslo,"in-house, privat sektor",fullstack,700000,Ja
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,700000,Ja
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,700000,Nei
+mann,7,2,Oslo,"in-house, privat sektor",fullstack,700000,Nei
+mann,5,2,Oslo,konsulent,fullstack,710000,Nei
+mann,5,2,Oslo,konsulent,fullstack,720000,Nei
+mann,5,2,Oslo,"in-house, privat sektor",fullstack,730000,Nei
+mann,2,2,Oslo,"in-house, privat sektor",fullstack,735000,Ja
+mann,5,2,Oslo,"in-house, privat sektor",fullstack,740000,Nei
+mann,5,2,Oslo,konsulent,fullstack,740000,Nei
+mann,5,2,Oslo,konsulent,fullstack,750000,Nei
+mann,5,2,Oslo,konsulent,fullstack,750000,Nei
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",fullstack,750000,Nei
+mann,3,2,Oslo,konsulent,fullstack,760000,Ja
+mann,5,2,Oslo,konsulent,fullstack,765000,Nei
+mann,5,2,Oslo,konsulent,fullstack,800000,Ja
+mann,5,2,Oslo,konsulent,fullstack,805000,Nei
+mann,5,2,Oslo,"in-house, privat sektor",fullstack,820000,Nei
+mann,3,2,Oslo,"in-house, privat sektor",fullstack,830000,Nei
+mann,0,2,Oslo,"in-house, privat sektor",fullstack,840000,Nei
+mann,5,2,Oslo,"in-house, privat sektor",fullstack,860000,Nei
+mann,2,2,Oslo,konsulent,fullstack,1000000,Nei
+kvinne,0,1,Oslo,"in-house, privat sektor",fullstack,450000,Nei
+kvinne,5,1,Oslo,"in-house, offentlig/kommunal sektor",fullstack,624500,Nei
+kvinne,5,1,Oslo,konsulent,fullstack,630000,Nei
+kvinne,5,1,Oslo,konsulent,fullstack,640000,Nei
+kvinne,3,1,Oslo,"in-house, offentlig/kommunal sektor",fullstack,650000,Nei
+kvinne,5,1,Oslo,konsulent,fullstack,660000,Ja
+kvinne,3,1,Oslo,konsulent,fullstack,667000,Nei
+kvinne,5,1,Oslo,"in-house, offentlig/kommunal sektor",fullstack,680000,Nei
+kvinne,3,1,Oslo,konsulent,fullstack,690000,Nei
+kvinne,5,1,Oslo,konsulent,fullstack,700000,Nei
+kvinne,5,1,Oslo,"in-house, privat sektor",fullstack,751000,Nei
+mann,1,1,Oslo,konsulent,fullstack,456000,Nei
+mann,1,1,Oslo,konsulent,fullstack,542000,Nei
+mann,1,1,Oslo,frilans / selvstendig næringsdrivende,fullstack,550000,Nei
+mann,0,1,Oslo,konsulent,fullstack,560000,Nei
+mann,3,1,Oslo,konsulent,fullstack,570000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",fullstack,575000,Nei
+mann,2,1,Oslo,"in-house, privat sektor",fullstack,576000,Nei
+mann,4,1,Oslo,konsulent,fullstack,595000,Nei
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",fullstack,600000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",fullstack,600000,Nei
+mann,3,1,Oslo,konsulent,fullstack,604000,Nei
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",fullstack,610000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",fullstack,620000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",fullstack,628000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",fullstack,628000,Nei
+mann,5,1,Oslo,konsulent,fullstack,630000,Nei
+mann,5,1,Oslo,konsulent,fullstack,630000,Nei
+mann,5,1,Oslo,konsulent,fullstack,630000,Ja
+mann,5,1,Oslo,konsulent,fullstack,630000,Nei
+mann,5,1,Oslo,konsulent,fullstack,630000,Nei
+mann,5,1,Oslo,konsulent,fullstack,630000,Nei
+mann,5,1,Oslo,konsulent,fullstack,630000,Nei
+mann,3,1,Oslo,konsulent,fullstack,635000,Ja
+mann,5,1,Oslo,konsulent,fullstack,640000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",fullstack,640000,Ja
+mann,1,1,Oslo,"in-house, privat sektor",fullstack,650000,Ja
+mann,5,1,Oslo,"in-house, privat sektor",fullstack,650000,Nei
+mann,1,1,Oslo,"in-house, privat sektor",fullstack,650000,Nei
+mann,5,1,Oslo,"in-house, privat sektor",fullstack,650000,Nei
+mann,5,1,Oslo,"in-house, privat sektor",fullstack,650000,Nei
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",fullstack,657000,Nei
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",fullstack,667000,Nei
+mann,4,1,Oslo,"in-house, offentlig/kommunal sektor",fullstack,680000,Nei
+mann,5,1,Oslo,"in-house, privat sektor",fullstack,680000,Ja
+mann,6,1,Oslo,konsulent,fullstack,690000,Ja
+mann,5,1,Oslo,konsulent,fullstack,700000,Ja
+mann,5,1,Oslo,konsulent,fullstack,700000,Nei
+mann,5,1,Oslo,konsulent,fullstack,705000,Nei
+mann,3,1,Oslo,"in-house, privat sektor",fullstack,720000,Nei
+mann,6,1,Oslo,"in-house, privat sektor",fullstack,775000,Nei
+mann,5,1,Oslo,"in-house, privat sektor",fullstack,800000,Ja
+mann,5,1,Oslo,"in-house, privat sektor",fullstack,840000,Nei
+kvinne,3,0,Oslo,"in-house, offentlig/kommunal sektor",fullstack,550000,Ja
+kvinne,5,0,Oslo,konsulent,fullstack,630000,Nei
+kvinne,5,0,Oslo,konsulent,fullstack,705000,Ja
+mann,4,0,Oslo,konsulent,fullstack,520000,Ja
+mann,2,0,Oslo,konsulent,fullstack,530000,Nei
+mann,3,0,Oslo,konsulent,fullstack,570000,Nei
+mann,3,0,Oslo,"in-house, offentlig/kommunal sektor",fullstack,580000,Nei
+mann,5,0,Oslo,konsulent,fullstack,595000,Nei
+mann,5,0,Oslo,konsulent,fullstack,595000,Nei
+mann,3,0,Oslo,konsulent,fullstack,600000,Nei
+mann,3,0,Oslo,"in-house, offentlig/kommunal sektor",fullstack,604900,Nei
+mann,3,0,Oslo,konsulent,fullstack,610000,Nei
+mann,5,0,Oslo,konsulent,fullstack,620000,Nei
+mann,5,0,Oslo,konsulent,fullstack,620000,Nei
+mann,5,0,Oslo,"in-house, privat sektor",fullstack,625000,Ja
+mann,5,0,Oslo,konsulent,fullstack,630000,Nei
+mann,5,0,Oslo,konsulent,fullstack,630000,Nei
+mann,5,0,Oslo,konsulent,fullstack,630000,Nei
+mann,5,0,Oslo,"in-house, privat sektor",fullstack,630000,Nei
+mann,5,0,Oslo,konsulent,fullstack,630000,Nei
+mann,5,0,Oslo,"in-house, privat sektor",fullstack,635000,Nei
+mann,3,0,Oslo,"in-house, privat sektor",fullstack,650000,Ja
+mann,5,0,Oslo,"in-house, privat sektor",fullstack,650000,Nei
+mann,3,0,Oslo,"in-house, privat sektor",fullstack,667000,Nei
+mann,5,0,Oslo,konsulent,fullstack,670000,Ja
+mann,5,0,Oslo,"in-house, privat sektor",fullstack,680000,Nei
+mann,0,0,Oslo,"in-house, privat sektor",fullstack,690000,Nei
+mann,5,0,Oslo,konsulent,fullstack,700000,Nei
+mann,5,0,Oslo,konsulent,fullstack,715000,Ja
+mann,5,0,Oslo,konsulent,fullstack,720000,Ja
+mann,5,0,Oslo,"in-house, privat sektor",fullstack,750000,Nei
+mann,6,30,Rogaland,"in-house, privat sektor",fullstack,1100000,Ja
+mann,8,25,Rogaland,"in-house, privat sektor",fullstack,1050000,Nei
+mann,3,25,Rogaland,"in-house, privat sektor",fullstack,1050000,Ja
+mann,4,25,Rogaland,"in-house, privat sektor",fullstack,1300000,Nei
+mann,2,24,Rogaland,"in-house, offentlig/kommunal sektor",fullstack,950000,Nei
+mann,4,21,Rogaland,"in-house, offentlig/kommunal sektor",fullstack,940000,Nei
+mann,1,18,Rogaland,"in-house, privat sektor",fullstack,860000,Nei
+mann,5,18,Rogaland,"in-house, privat sektor",fullstack,955000,Nei
+mann,4,16,Rogaland,"in-house, privat sektor",fullstack,780000,Nei
+mann,3,16,Rogaland,konsulent,fullstack,850000,Ja
+mann,0,16,Rogaland,"in-house, privat sektor",fullstack,1010000,Nei
+mann,4,15,Rogaland,"in-house, privat sektor",fullstack,1000000,Ja
+mann,5,14,Rogaland,konsulent,fullstack,1300000,Nei
+mann,0,13,Rogaland,konsulent,fullstack,785000,Nei
+mann,3,13,Rogaland,"in-house, privat sektor",fullstack,800000,Nei
+mann,3,13,Rogaland,"in-house, privat sektor",fullstack,1000000,Nei
+mann,3,13,Rogaland,"in-house, privat sektor",fullstack,1300000,Ja
+mann,11,12,Rogaland,konsulent,fullstack,1070000,Ja
+mann,0,12,Rogaland,konsulent,fullstack,1175000,Nei
+kvinne,3,9,Rogaland,"in-house, privat sektor",fullstack,950000,Nei
+mann,5,8,Rogaland,"in-house, privat sektor",fullstack,1100000,Nei
+mann,5,6,Rogaland,konsulent,fullstack,850000,Ja
+mann,3,6,Rogaland,konsulent,fullstack,900000,Nei
+mann,3,6,Rogaland,konsulent,fullstack,990000,Ja
+mann,0,6,Rogaland,konsulent,fullstack,1000000,Ja
+mann,5,6,Rogaland,konsulent,fullstack,1000000,Ja
+mann,5,6,Rogaland,konsulent,fullstack,1000000,Nei
+mann,5,6,Rogaland,konsulent,fullstack,1155000,Nei
+annet / ønsker ikke oppgi,5,5,Rogaland,"in-house, privat sektor",fullstack,860000,Nei
+mann,3,5,Rogaland,konsulent,fullstack,790000,Ja
+mann,4,5,Rogaland,"in-house, privat sektor",fullstack,800000,Nei
+mann,5,5,Rogaland,"in-house, privat sektor",fullstack,800000,Nei
+mann,3,5,Rogaland,konsulent,fullstack,900000,Ja
+mann,0,4,Rogaland,"in-house, privat sektor",fullstack,600000,Nei
+mann,3,4,Rogaland,"in-house, privat sektor",fullstack,685000,Nei
+mann,2,4,Rogaland,konsulent,fullstack,750000,Ja
+mann,8,4,Rogaland,"in-house, privat sektor",fullstack,800000,Nei
+mann,0,4,Rogaland,frilans / selvstendig næringsdrivende,fullstack,870000,Nei
+mann,3,4,Rogaland,konsulent,fullstack,900000,Nei
+mann,6,4,Rogaland,konsulent,fullstack,920000,Ja
+mann,5,4,Rogaland,konsulent,fullstack,930000,Ja
+kvinne,3,3,Rogaland,"in-house, privat sektor",fullstack,705000,Nei
+mann,3,3,Rogaland,"in-house, privat sektor",fullstack,684000,Nei
+mann,2,3,Rogaland,"in-house, privat sektor",fullstack,770000,Nei
+mann,3,3,Rogaland,konsulent,fullstack,770000,Ja
+mann,3,3,Rogaland,"in-house, privat sektor",fullstack,780000,Ja
+mann,3,2,Rogaland,"in-house, privat sektor",fullstack,660000,Nei
+mann,3,2,Rogaland,"in-house, privat sektor",fullstack,678000,Nei
+mann,3,2,Rogaland,"in-house, privat sektor",fullstack,720000,Nei
+mann,3,2,Rogaland,konsulent,fullstack,750000,Nei
+mann,5,2,Rogaland,"in-house, privat sektor",fullstack,775000,Nei
+mann,5,2,Rogaland,konsulent,fullstack,790000,Ja
+mann,5,2,Rogaland,konsulent,fullstack,800000,Ja
+mann,6,2,Rogaland,konsulent,fullstack,835000,Nei
+mann,5,1,Rogaland,konsulent,fullstack,635000,Nei
+mann,3,1,Rogaland,"in-house, offentlig/kommunal sektor",fullstack,657000,Nei
+mann,3,0,Rogaland,konsulent,fullstack,540000,Nei
+mann,5,0,Rogaland,konsulent,fullstack,600000,Nei
+mann,3,26,Troms og Finnmark,konsulent,fullstack,950000,Ja
+mann,2,26,Troms og Finnmark,"in-house, privat sektor",fullstack,1000000,Ja
+mann,5,17,Troms og Finnmark,konsulent,fullstack,1000000,Ja
+mann,3,9,Troms og Finnmark,"in-house, privat sektor",fullstack,850000,Ja
+mann,5,8,Troms og Finnmark,"in-house, privat sektor",fullstack,958000,Nei
+mann,8,6,Troms og Finnmark,"in-house, offentlig/kommunal sektor",fullstack,810000,Nei
+mann,0,5,Troms og Finnmark,"in-house, privat sektor",fullstack,730000,Nei
+mann,5,5,Troms og Finnmark,"in-house, privat sektor",fullstack,780000,Nei
+mann,19,4,Troms og Finnmark,"in-house, offentlig/kommunal sektor",fullstack,670000,Nei
+mann,3,2,Troms og Finnmark,"in-house, offentlig/kommunal sektor",fullstack,540000,Nei
+mann,9,1,Troms og Finnmark,"in-house, offentlig/kommunal sektor",fullstack,705000,Nei
+mann,3,0,Troms og Finnmark,"in-house, privat sektor",fullstack,650000,Ja
+mann,5,27,Trøndelag,"in-house, privat sektor",fullstack,1100000,Ja
+mann,4,26,Trøndelag,konsulent,fullstack,1200000,Ja
+mann,15,24,Trøndelag,konsulent,fullstack,910000,Nei
+mann,15,20,Trøndelag,konsulent,fullstack,800000,Nei
+mann,3,20,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,811000,Nei
+mann,1,20,Trøndelag,"in-house, privat sektor",fullstack,1000000,Ja
+mann,7,16,Trøndelag,"in-house, privat sektor",fullstack,895000,Nei
+mann,4,16,Trøndelag,konsulent,fullstack,1300000,Nei
+mann,3,16,Trøndelag,"in-house, privat sektor",fullstack,1400000,Nei
+mann,3,15,Trøndelag,konsulent,fullstack,1150000,Ja
+mann,0,14,Trøndelag,konsulent,fullstack,950000,Nei
+mann,5,14,Trøndelag,konsulent,fullstack,1200000,Ja
+mann,3,13,Trøndelag,konsulent,fullstack,900000,Nei
+mann,19,12,Trøndelag,"in-house, privat sektor",fullstack,705000,Nei
+mann,8,12,Trøndelag,konsulent,fullstack,892000,Nei
+mann,4,12,Trøndelag,konsulent,fullstack,1075000,Ja
+mann,5,12,Trøndelag,konsulent,fullstack,1090000,Nei
+mann,0,11,Trøndelag,"in-house, privat sektor",fullstack,700000,Nei
+mann,5,11,Trøndelag,konsulent,fullstack,960000,Ja
+mann,3,10,Trøndelag,"in-house, privat sektor",fullstack,810942,Nei
+mann,5,10,Trøndelag,konsulent,fullstack,903000,Ja
+mann,0,8,Trøndelag,"in-house, privat sektor",fullstack,1070000,Nei
+mann,0,7,Trøndelag,"in-house, privat sektor",fullstack,620000,Nei
+mann,3,7,Trøndelag,konsulent,fullstack,890000,Ja
+mann,3,7,Trøndelag,konsulent,fullstack,900000,Nei
+mann,5,7,Trøndelag,"in-house, privat sektor",fullstack,900000,Ja
+mann,5,7,Trøndelag,konsulent,fullstack,1160000,Ja
+kvinne,3,6,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,716000,Nei
+mann,0,6,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,640000,Nei
+mann,4,6,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,720000,Nei
+mann,4,6,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,780000,Nei
+mann,6,6,Trøndelag,"in-house, privat sektor",fullstack,830000,Ja
+mann,3,6,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,850000,Nei
+mann,5,6,Trøndelag,konsulent,fullstack,850000,Ja
+mann,6,6,Trøndelag,konsulent,fullstack,950000,Nei
+mann,5,6,Trøndelag,konsulent,fullstack,1000000,Ja
+mann,3,6,Trøndelag,konsulent,fullstack,1050119,Nei
+mann,3,5,Trøndelag,"in-house, privat sektor",fullstack,710000,Nei
+mann,5,5,Trøndelag,"in-house, privat sektor",fullstack,720000,Nei
+mann,5,5,Trøndelag,"in-house, privat sektor",fullstack,750000,Nei
+mann,0,5,Trøndelag,konsulent,fullstack,800000,Nei
+mann,3,5,Trøndelag,konsulent,fullstack,950000,Nei
+kvinne,5,4,Trøndelag,konsulent,fullstack,792000,Ja
+mann,4,4,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,657000,Nei
+mann,5,4,Trøndelag,"in-house, privat sektor",fullstack,710000,Nei
+mann,5,4,Trøndelag,"in-house, privat sektor",fullstack,745000,Nei
+mann,3,4,Trøndelag,konsulent,fullstack,750000,Nei
+mann,3,4,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,800000,Nei
+mann,2,4,Trøndelag,konsulent,fullstack,860000,Ja
+kvinne,3,3,Trøndelag,"in-house, privat sektor",fullstack,700000,Nei
+kvinne,5,3,Trøndelag,konsulent,fullstack,820000,Nei
+kvinne,5,3,Trøndelag,"in-house, privat sektor",fullstack,910000,Ja
+mann,3,3,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,580000,Nei
+mann,3,3,Trøndelag,"in-house, privat sektor",fullstack,609500,Nei
+mann,15,3,Trøndelag,"in-house, offentlig/kommunal sektor",fullstack,650000,Nei
+mann,2,3,Trøndelag,"in-house, privat sektor",fullstack,710000,Ja
+mann,3,3,Trøndelag,konsulent,fullstack,730000,Ja
+mann,5,3,Trøndelag,konsulent,fullstack,840000,Ja
+mann,5,3,Trøndelag,konsulent,fullstack,1100000,Ja
+kvinne,4,2,Trøndelag,"in-house, privat sektor",fullstack,650000,Nei
+mann,5,2,Trøndelag,"in-house, privat sektor",fullstack,560000,Nei
+mann,3,2,Trøndelag,"in-house, privat sektor",fullstack,588000,Nei
+mann,3,2,Trøndelag,konsulent,fullstack,625000,Nei
+mann,3,2,Trøndelag,konsulent,fullstack,635000,Nei
+mann,5,2,Trøndelag,konsulent,fullstack,705000,Nei
+mann,2,1,Trøndelag,"in-house, privat sektor",fullstack,500000,Nei
+mann,0,1,Trøndelag,"in-house, privat sektor",fullstack,500000,Nei
+mann,3,1,Trøndelag,"in-house, privat sektor",fullstack,588000,Nei
+mann,3,1,Trøndelag,"in-house, privat sektor",fullstack,605500,Nei
+mann,5,1,Trøndelag,konsulent,fullstack,700000,Ja
+mann,5,1,Trøndelag,konsulent,fullstack,730000,Ja
+kvinne,5,0,Trøndelag,konsulent,fullstack,630000,Nei
+mann,3,0,Trøndelag,konsulent,fullstack,550000,Nei
+mann,3,0,Trøndelag,konsulent,fullstack,550000,Nei
+mann,5,0,Trøndelag,konsulent,fullstack,580000,Nei
+mann,4,0,Trøndelag,"in-house, privat sektor",fullstack,600000,Nei
+mann,5,0,Trøndelag,konsulent,fullstack,670000,Nei
+mann,3,17,utlandet,frilans / selvstendig næringsdrivende,fullstack,1300000,Nei
+mann,0,17,utlandet,frilans / selvstendig næringsdrivende,fullstack,1450000,Nei
+mann,3,14,utlandet,frilans / selvstendig næringsdrivende,fullstack,868000,Nei
+mann,5,14,utlandet,frilans / selvstendig næringsdrivende,fullstack,900000,Nei
+mann,3,10,utlandet,konsulent,fullstack,800000,Nei
+mann,3,10,utlandet,"in-house, privat sektor",fullstack,1600000,Nei
+mann,3,8,utlandet,konsulent,fullstack,936886,Ja
+mann,2,5,utlandet,"in-house, offentlig/kommunal sektor",fullstack,1100000,Nei
+mann,5,3,utlandet,konsulent,fullstack,955149,Ja
+mann,3,2,utlandet,"in-house, privat sektor",fullstack,546000,Ja
+mann,5,2,utlandet,"in-house, privat sektor",fullstack,750000,Nei
+kvinne,5,0,utlandet,"in-house, privat sektor",fullstack,1250000,Ja
+mann,1,0,utlandet,konsulent,fullstack,650000,Nei
+mann,5,30,Vestfold og Telemark,konsulent,fullstack,1080000,Nei
+mann,5,23,Vestfold og Telemark,"in-house, privat sektor",fullstack,820000,Nei
+mann,0,23,Vestfold og Telemark,"in-house, privat sektor",fullstack,915000,Nei
+mann,8,23,Vestfold og Telemark,"in-house, privat sektor",fullstack,1020000,Ja
+mann,4,20,Vestfold og Telemark,"in-house, privat sektor",fullstack,800000,Nei
+mann,3,20,Vestfold og Telemark,"in-house, privat sektor",fullstack,865000,Nei
+mann,0,18,Vestfold og Telemark,"in-house, privat sektor",fullstack,916000,Nei
+mann,3,15,Vestfold og Telemark,"in-house, privat sektor",fullstack,720000,Nei
+mann,3,15,Vestfold og Telemark,"in-house, privat sektor",fullstack,850000,Nei
+mann,2,12,Vestfold og Telemark,konsulent,fullstack,705000,Nei
+mann,5,12,Vestfold og Telemark,konsulent,fullstack,1000000,Nei
+mann,1,10,Vestfold og Telemark,"in-house, privat sektor",fullstack,680000,Nei
+mann,3,10,Vestfold og Telemark,konsulent,fullstack,752000,Ja
+mann,3,9,Vestfold og Telemark,"in-house, privat sektor",fullstack,950000,Nei
+mann,0,8,Vestfold og Telemark,konsulent,fullstack,1100000,Ja
+mann,3,7,Vestfold og Telemark,"in-house, privat sektor",fullstack,770000,Ja
+mann,3,6,Vestfold og Telemark,"in-house, privat sektor",fullstack,930000,Nei
+mann,5,5,Vestfold og Telemark,"in-house, privat sektor",fullstack,650000,Nei
+mann,3,5,Vestfold og Telemark,"in-house, privat sektor",fullstack,650000,Nei
+mann,3,5,Vestfold og Telemark,"in-house, privat sektor",fullstack,750000,Nei
+mann,3,5,Vestfold og Telemark,"in-house, privat sektor",fullstack,849000,Nei
+mann,3,5,Vestfold og Telemark,konsulent,fullstack,1300000,Ja
+mann,2,4,Vestfold og Telemark,"in-house, privat sektor",fullstack,565451,Nei
+mann,2,4,Vestfold og Telemark,"in-house, privat sektor",fullstack,750000,Nei
+mann,3,4,Vestfold og Telemark,konsulent,fullstack,830000,Ja
+mann,3,3,Vestfold og Telemark,"in-house, privat sektor",fullstack,520000,Nei
+mann,0,3,Vestfold og Telemark,"in-house, privat sektor",fullstack,640000,Ja
+mann,3,3,Vestfold og Telemark,"in-house, privat sektor",fullstack,708000,Nei
+mann,3,3,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",fullstack,720000,Nei
+mann,3,2,Vestfold og Telemark,konsulent,fullstack,610000,Ja
+mann,3,1,Vestfold og Telemark,"in-house, privat sektor",fullstack,585000,Nei
+mann,2,0,Vestfold og Telemark,"in-house, privat sektor",fullstack,595000,Nei
+mann,5,25,Vestland,"in-house, privat sektor",fullstack,1050000,Nei
+mann,5,24,Vestland,"in-house, privat sektor",fullstack,1050000,Ja
+mann,5,22,Vestland,konsulent,fullstack,970000,Ja
+mann,15,20,Vestland,"in-house, privat sektor",fullstack,1000000,Nei
+mann,5,19,Vestland,"in-house, privat sektor",fullstack,1000000,Ja
+mann,13,19,Vestland,konsulent,fullstack,1090000,Ja
+mann,3,18,Vestland,"in-house, privat sektor",fullstack,850000,Nei
+mann,5,17,Vestland,"in-house, privat sektor",fullstack,1150000,Ja
+mann,0,16,Vestland,konsulent,fullstack,831000,Nei
+mann,5,16,Vestland,frilans / selvstendig næringsdrivende,fullstack,1600000,Nei
+mann,5,15,Vestland,konsulent,fullstack,1050000,Nei
+mann,2,15,Vestland,konsulent,fullstack,1250000,Nei
+mann,2,14,Vestland,frilans / selvstendig næringsdrivende,fullstack,600000,Ja
+mann,5,14,Vestland,konsulent,fullstack,1200000,Nei
+mann,5,14,Vestland,konsulent,fullstack,2500000,Ja
+mann,3,13,Vestland,"in-house, privat sektor",fullstack,1030000,Nei
+mann,3,12,Vestland,konsulent,fullstack,937000,Nei
+mann,3,12,Vestland,konsulent,fullstack,1200000,Ja
+mann,5,12,Vestland,konsulent,fullstack,1200000,Nei
+mann,5,11,Vestland,"in-house, privat sektor",fullstack,866000,Nei
+mann,0,10,Vestland,konsulent,fullstack,790000,Nei
+mann,4,10,Vestland,"in-house, offentlig/kommunal sektor",fullstack,800000,Ja
+mann,2,10,Vestland,konsulent,fullstack,976000,Ja
+mann,1,10,Vestland,"in-house, privat sektor",fullstack,985000,Nei
+mann,0,8,Vestland,"in-house, privat sektor",fullstack,960000,Nei
+mann,3,7,Vestland,konsulent,fullstack,782000,Nei
+mann,3,7,Vestland,konsulent,fullstack,1070000,Ja
+mann,3,7,Vestland,konsulent,fullstack,1200000,Nei
+mann,3,7,Vestland,konsulent,fullstack,1350000,Nei
+mann,5,7,Vestland,frilans / selvstendig næringsdrivende,fullstack,1700000,Nei
+mann,3,6,Vestland,konsulent,fullstack,770000,Ja
+mann,3,6,Vestland,"in-house, privat sektor",fullstack,825000,Ja
+mann,0,6,Vestland,konsulent,fullstack,850000,Nei
+mann,3,6,Vestland,konsulent,fullstack,900000,Nei
+mann,5,6,Vestland,"in-house, privat sektor",fullstack,920000,Ja
+mann,5,6,Vestland,konsulent,fullstack,1250000,Nei
+kvinne,3,5,Vestland,"in-house, privat sektor",fullstack,900000,Nei
+mann,0,5,Vestland,konsulent,fullstack,585000,Ja
+mann,5,5,Vestland,"in-house, privat sektor",fullstack,782408,Nei
+mann,3,5,Vestland,"in-house, privat sektor",fullstack,800000,Ja
+mann,3,5,Vestland,"in-house, privat sektor",fullstack,840000,Nei
+mann,5,5,Vestland,konsulent,fullstack,890000,Ja
+mann,3,5,Vestland,"in-house, privat sektor",fullstack,900000,Nei
+mann,3,5,Vestland,konsulent,fullstack,925000,Nei
+mann,5,5,Vestland,"in-house, privat sektor",fullstack,1100000,Nei
+mann,5,5,Vestland,konsulent,fullstack,1200000,Ja
+mann,3,4,Vestland,"in-house, privat sektor",fullstack,565000,Nei
+mann,3,4,Vestland,"in-house, privat sektor",fullstack,650000,Nei
+mann,3,4,Vestland,"in-house, privat sektor",fullstack,680000,Nei
+mann,3,4,Vestland,konsulent,fullstack,800000,Nei
+mann,2,4,Vestland,konsulent,fullstack,850000,Nei
+mann,5,4,Vestland,"in-house, privat sektor",fullstack,905625,Nei
+mann,3,4,Vestland,"in-house, privat sektor",fullstack,1050000,Nei
+mann,5,4,Vestland,konsulent,fullstack,1050000,Nei
+mann,3,4,Vestland,konsulent,fullstack,1100000,Nei
+mann,3,3,Vestland,"in-house, privat sektor",fullstack,630000,Nei
+mann,3,3,Vestland,"in-house, privat sektor",fullstack,700000,Ja
+mann,3,3,Vestland,"in-house, privat sektor",fullstack,730000,Ja
+mann,3,3,Vestland,"in-house, privat sektor",fullstack,750000,Nei
+mann,3,3,Vestland,"in-house, privat sektor",fullstack,816000,Nei
+mann,3,2,Vestland,"in-house, privat sektor",fullstack,580000,Ja
+mann,1,2,Vestland,konsulent,fullstack,600000,Nei
+mann,3,2,Vestland,"in-house, privat sektor",fullstack,650000,Ja
+mann,3,2,Vestland,"in-house, privat sektor",fullstack,660000,Nei
+mann,3,2,Vestland,"in-house, offentlig/kommunal sektor",fullstack,670000,Nei
+mann,5,2,Vestland,"in-house, privat sektor",fullstack,675000,Nei
+mann,3,1,Vestland,"in-house, privat sektor",fullstack,600000,Nei
+mann,2,1,Vestland,konsulent,fullstack,600000,Nei
+mann,3,1,Vestland,"in-house, privat sektor",fullstack,635000,Ja
+mann,5,1,Vestland,konsulent,fullstack,650000,Nei
+mann,3,1,Vestland,"in-house, privat sektor",fullstack,693000,Nei
+mann,5,1,Vestland,"in-house, privat sektor",fullstack,720000,Ja
+kvinne,3,0,Vestland,"in-house, offentlig/kommunal sektor",fullstack,630000,Nei
+mann,3,0,Vestland,"in-house, privat sektor",fullstack,550000,Nei
+mann,3,0,Vestland,"in-house, privat sektor",fullstack,625000,Nei
+mann,5,0,Vestland,"in-house, privat sektor",fullstack,650000,Nei
+mann,3,0,Vestland,"in-house, privat sektor",fullstack,650000,Ja
+mann,15,33,Viken,"in-house, privat sektor",fullstack,780000,Ja
+mann,3,30,Viken,"in-house, privat sektor",fullstack,1000000,Ja
+mann,4,27,Viken,"in-house, privat sektor",fullstack,900000,Nei
+mann,3,27,Viken,"in-house, offentlig/kommunal sektor",fullstack,1100000,Nei
+mann,3,26,Viken,"in-house, offentlig/kommunal sektor",fullstack,742100,Nei
+mann,3,25,Viken,konsulent,fullstack,960000,Nei
+mann,3,23,Viken,"in-house, privat sektor",fullstack,1400000,Nei
+mann,3,20,Viken,"in-house, privat sektor",fullstack,950000,Nei
+mann,3,20,Viken,konsulent,fullstack,1100000,Nei
+mann,3,18,Viken,"in-house, privat sektor",fullstack,960000,Nei
+mann,5,18,Viken,konsulent,fullstack,1200000,Ja
+mann,3,17,Viken,"in-house, privat sektor",fullstack,780000,Ja
+mann,6,17,Viken,"in-house, privat sektor",fullstack,915000,Nei
+mann,17,15,Viken,"in-house, privat sektor",fullstack,720000,Nei
+mann,5,14,Viken,"in-house, privat sektor",fullstack,1063000,Nei
+mann,3,13,Viken,"in-house, privat sektor",fullstack,1050000,Nei
+mann,0,13,Viken,"in-house, privat sektor",fullstack,1500000,Nei
+mann,3,8,Viken,"in-house, privat sektor",fullstack,900000,Nei
+mann,1,7,Viken,"in-house, privat sektor",fullstack,678000,Nei
+mann,0,7,Viken,konsulent,fullstack,1100000,Nei
+mann,5,7,Viken,"in-house, privat sektor",fullstack,1280000,Nei
+mann,1,6,Viken,"in-house, privat sektor",fullstack,800000,Nei
+mann,3,5,Viken,"in-house, privat sektor",fullstack,780000,Nei
+mann,3,4,Viken,"in-house, privat sektor",fullstack,630000,Ja
+mann,5,4,Viken,"in-house, offentlig/kommunal sektor",fullstack,720000,Nei
+mann,3,4,Viken,konsulent,fullstack,720000,Nei
+mann,5,4,Viken,"in-house, privat sektor",fullstack,820000,Nei
+mann,3,4,Viken,konsulent,fullstack,1015000,Ja
+kvinne,4,3,Viken,"in-house, privat sektor",fullstack,760000,Ja
+mann,4,3,Viken,"in-house, privat sektor",fullstack,745000,Ja
+mann,3,3,Viken,konsulent,fullstack,800000,Nei
+mann,3,3,Viken,"in-house, privat sektor",fullstack,815000,Nei
+kvinne,1,2,Viken,"in-house, privat sektor",fullstack,740000,Nei
+mann,4,2,Viken,"in-house, privat sektor",fullstack,420000,Nei
+mann,3,2,Viken,"in-house, privat sektor",fullstack,560000,Nei
+mann,3,2,Viken,konsulent,fullstack,564000,Nei
+kvinne,3,1,Viken,konsulent,fullstack,550000,Nei
+mann,3,0,Viken,"in-house, privat sektor",fullstack,512000,Nei
+mann,3,0,Viken,"in-house, privat sektor",fullstack,600000,Ja
+mann,5,0,Viken,"in-house, privat sektor",fullstack,660000,Ja
+mann,6,17,Agder,"in-house, offentlig/kommunal sektor",ledelse/administrativt,886200,Nei
+mann,17,15,Agder,"in-house, privat sektor",ledelse/administrativt,1050000,Ja
+kvinne,3,14,Agder,"in-house, privat sektor",ledelse/administrativt,1300000,Ja
+mann,3,12,Agder,"in-house, privat sektor",ledelse/administrativt,1300000,Ja
+mann,7,25,Innlandet,"in-house, offentlig/kommunal sektor",ledelse/administrativt,1465000,Nei
+mann,2,17,Møre og Romsdal,"in-house, privat sektor",ledelse/administrativt,900000,Nei
+annet / ønsker ikke oppgi,3,11,Nordland,"in-house, privat sektor",ledelse/administrativt,800000,Nei
+mann,5,35,Oslo,"in-house, privat sektor",ledelse/administrativt,990000,Ja
+mann,5,32,Oslo,konsulent,ledelse/administrativt,1250000,Ja
+mann,3,30,Oslo,"in-house, privat sektor",ledelse/administrativt,1400000,Nei
+mann,3,30,Oslo,frilans / selvstendig næringsdrivende,ledelse/administrativt,1500000,Nei
+mann,3,30,Oslo,konsulent,ledelse/administrativt,1600000,Ja
+mann,3,29,Oslo,konsulent,ledelse/administrativt,1205000,Ja
+mann,18,27,Oslo,konsulent,ledelse/administrativt,1700000,Nei
+mann,3,26,Oslo,konsulent,ledelse/administrativt,1700000,Ja
+kvinne,5,25,Oslo,konsulent,ledelse/administrativt,1090000,Ja
+mann,6,25,Oslo,"in-house, privat sektor",ledelse/administrativt,1250000,Ja
+kvinne,4,24,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,1095000,Nei
+kvinne,5,24,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,1150000,Nei
+kvinne,6,23,Oslo,konsulent,ledelse/administrativt,1200000,Ja
+mann,0,23,Oslo,"in-house, privat sektor",ledelse/administrativt,1005000,Nei
+mann,4,23,Oslo,"in-house, privat sektor",ledelse/administrativt,1460000,Ja
+mann,6,21,Oslo,"in-house, privat sektor",ledelse/administrativt,1390000,Nei
+kvinne,10,20,Oslo,konsulent,ledelse/administrativt,970000,Ja
+kvinne,3,20,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,980000,Nei
+kvinne,6,20,Oslo,konsulent,ledelse/administrativt,1025000,Nei
+mann,17,20,Oslo,"in-house, privat sektor",ledelse/administrativt,1210000,Nei
+mann,5,20,Oslo,"in-house, privat sektor",ledelse/administrativt,1310000,Nei
+mann,4,20,Oslo,frilans / selvstendig næringsdrivende,ledelse/administrativt,1350000,Nei
+mann,3,20,Oslo,"in-house, privat sektor",ledelse/administrativt,1500000,Ja
+mann,3,20,Oslo,"in-house, privat sektor",ledelse/administrativt,2400000,Ja
+mann,3,19,Oslo,"in-house, privat sektor",ledelse/administrativt,1060000,Nei
+mann,4,19,Oslo,"in-house, privat sektor",ledelse/administrativt,1100000,Nei
+mann,3,19,Oslo,konsulent,ledelse/administrativt,1220000,Ja
+mann,3,19,Oslo,"in-house, privat sektor",ledelse/administrativt,1700000,Ja
+kvinne,5,18,Oslo,"in-house, privat sektor",ledelse/administrativt,1364000,Nei
+mann,5,18,Oslo,"in-house, privat sektor",ledelse/administrativt,1100000,Nei
+mann,5,18,Oslo,konsulent,ledelse/administrativt,1750000,Nei
+kvinne,5,17,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,978000,Nei
+mann,0,17,Oslo,"in-house, privat sektor",ledelse/administrativt,950009,Nei
+mann,6,17,Oslo,"in-house, privat sektor",ledelse/administrativt,1010000,Ja
+mann,4,16,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,1050000,Nei
+mann,5,16,Oslo,"in-house, privat sektor",ledelse/administrativt,1600000,Nei
+kvinne,5,15,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,742000,Nei
+kvinne,3,15,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,820000,Nei
+mann,17,15,Oslo,"in-house, privat sektor",ledelse/administrativt,650000,Ja
+mann,13,15,Oslo,"in-house, privat sektor",ledelse/administrativt,935000,Nei
+mann,3,15,Oslo,"in-house, privat sektor",ledelse/administrativt,1166000,Nei
+mann,5,15,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,1200000,Nei
+mann,0,14,Oslo,"in-house, privat sektor",ledelse/administrativt,1100000,Nei
+mann,5,14,Oslo,konsulent,ledelse/administrativt,1100000,Ja
+mann,18,13,Oslo,"in-house, privat sektor",ledelse/administrativt,955000,Nei
+mann,5,13,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,1100000,Nei
+mann,2,12,Oslo,"in-house, privat sektor",ledelse/administrativt,750000,Nei
+mann,5,12,Oslo,"in-house, privat sektor",ledelse/administrativt,950000,Nei
+mann,3,12,Oslo,"in-house, privat sektor",ledelse/administrativt,1070742,Nei
+mann,4,12,Oslo,konsulent,ledelse/administrativt,1250000,Ja
+mann,5,12,Oslo,konsulent,ledelse/administrativt,1550000,Ja
+mann,5,12,Oslo,"in-house, privat sektor",ledelse/administrativt,2300000,Ja
+mann,3,11,Oslo,konsulent,ledelse/administrativt,940000,Ja
+mann,5,11,Oslo,konsulent,ledelse/administrativt,1250000,Nei
+kvinne,7,10,Oslo,konsulent,ledelse/administrativt,870000,Ja
+kvinne,6,10,Oslo,"in-house, privat sektor",ledelse/administrativt,950000,Nei
+mann,7,10,Oslo,konsulent,ledelse/administrativt,1000000,Nei
+mann,5,10,Oslo,konsulent,ledelse/administrativt,1100000,Ja
+mann,14,9,Oslo,"in-house, privat sektor",ledelse/administrativt,1000000,Nei
+mann,3,9,Oslo,konsulent,ledelse/administrativt,2500000,Ja
+kvinne,8,8,Oslo,konsulent,ledelse/administrativt,1100000,Ja
+mann,0,8,Oslo,"in-house, privat sektor",ledelse/administrativt,826000,Nei
+mann,5,8,Oslo,"in-house, privat sektor",ledelse/administrativt,865000,Nei
+mann,3,8,Oslo,"in-house, privat sektor",ledelse/administrativt,870000,Nei
+kvinne,5,7,Oslo,"in-house, privat sektor",ledelse/administrativt,950000,Nei
+mann,5,7,Oslo,konsulent,ledelse/administrativt,1100000,Ja
+mann,3,7,Oslo,"in-house, privat sektor",ledelse/administrativt,1100000,Ja
+kvinne,9,6,Oslo,"in-house, privat sektor",ledelse/administrativt,1000000,Ja
+mann,0,6,Oslo,"in-house, privat sektor",ledelse/administrativt,650000,Nei
+mann,5,6,Oslo,konsulent,ledelse/administrativt,1066200,Nei
+kvinne,3,5,Oslo,"in-house, privat sektor",ledelse/administrativt,770000,Nei
+kvinne,5,5,Oslo,konsulent,ledelse/administrativt,850000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",ledelse/administrativt,725000,Ja
+mann,5,5,Oslo,"in-house, privat sektor",ledelse/administrativt,820000,Nei
+kvinne,3,4,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,627000,Nei
+kvinne,5,4,Oslo,konsulent,ledelse/administrativt,900000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",ledelse/administrativt,735000,Nei
+mann,5,4,Oslo,"in-house, privat sektor",ledelse/administrativt,760000,Nei
+mann,3,4,Oslo,konsulent,ledelse/administrativt,800000,Ja
+mann,3,4,Oslo,konsulent,ledelse/administrativt,860000,Nei
+mann,7,3,Oslo,"in-house, privat sektor",ledelse/administrativt,610000,Nei
+mann,5,3,Oslo,"in-house, privat sektor",ledelse/administrativt,800000,Nei
+mann,7,3,Oslo,"in-house, offentlig/kommunal sektor",ledelse/administrativt,800000,Nei
+mann,5,3,Oslo,konsulent,ledelse/administrativt,960000,Ja
+mann,0,2,Oslo,"in-house, privat sektor",ledelse/administrativt,530000,Nei
+mann,5,2,Oslo,konsulent,ledelse/administrativt,590000,Nei
+mann,5,2,Oslo,konsulent,ledelse/administrativt,950000,Ja
+mann,4,0,Oslo,konsulent,ledelse/administrativt,750000,Nei
+mann,3,38,Rogaland,frilans / selvstendig næringsdrivende,ledelse/administrativt,850000,Nei
+mann,5,25,Rogaland,konsulent,ledelse/administrativt,1475000,Nei
+mann,5,23,Rogaland,konsulent,ledelse/administrativt,1200000,Ja
+mann,5,20,Rogaland,"in-house, privat sektor",ledelse/administrativt,1000000,Nei
+kvinne,6,15,Rogaland,konsulent,ledelse/administrativt,750000,Ja
+mann,3,15,Rogaland,"in-house, privat sektor",ledelse/administrativt,1100000,Nei
+mann,0,15,Rogaland,"in-house, privat sektor",ledelse/administrativt,1350000,Nei
+mann,3,13,Rogaland,konsulent,ledelse/administrativt,1250000,Ja
+kvinne,5,7,Rogaland,"in-house, privat sektor",ledelse/administrativt,1000000,Ja
+kvinne,5,4,Rogaland,konsulent,ledelse/administrativt,1010000,Ja
+mann,12,25,Troms og Finnmark,konsulent,ledelse/administrativt,1650000,Ja
+mann,4,15,Troms og Finnmark,"in-house, privat sektor",ledelse/administrativt,1000000,Nei
+mann,5,7,Troms og Finnmark,"in-house, privat sektor",ledelse/administrativt,960000,Nei
+mann,0,28,Trøndelag,"in-house, privat sektor",ledelse/administrativt,1000000,Nei
+kvinne,7,25,Trøndelag,"in-house, privat sektor",ledelse/administrativt,880000,Ja
+mann,5,17,Trøndelag,konsulent,ledelse/administrativt,1200000,Ja
+mann,5,16,Trøndelag,konsulent,ledelse/administrativt,1320000,Ja
+mann,2,15,Trøndelag,"in-house, privat sektor",ledelse/administrativt,800000,Nei
+kvinne,5,13,Trøndelag,konsulent,ledelse/administrativt,1065000,Nei
+mann,3,12,Trøndelag,konsulent,ledelse/administrativt,1500000,Ja
+mann,5,5,Trøndelag,konsulent,ledelse/administrativt,875000,Ja
+mann,3,3,Trøndelag,konsulent,ledelse/administrativt,610000,Ja
+mann,5,3,Trøndelag,"in-house, privat sektor",ledelse/administrativt,680000,Nei
+mann,3,20,utlandet,frilans / selvstendig næringsdrivende,ledelse/administrativt,500000,Nei
+kvinne,0,5,utlandet,"in-house, privat sektor",ledelse/administrativt,1000000,Nei
+mann,3,25,Vestfold og Telemark,"in-house, privat sektor",ledelse/administrativt,900000,Nei
+kvinne,2,24,Vestfold og Telemark,konsulent,ledelse/administrativt,1300000,Ja
+mann,1,15,Vestfold og Telemark,"in-house, privat sektor",ledelse/administrativt,1200000,Nei
+mann,3,5,Vestfold og Telemark,"in-house, privat sektor",ledelse/administrativt,611000,Nei
+mann,0,5,Vestfold og Telemark,"in-house, privat sektor",ledelse/administrativt,950000,Nei
+kvinne,3,1,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",ledelse/administrativt,640000,Nei
+mann,4,26,Vestland,"in-house, privat sektor",ledelse/administrativt,1250000,Ja
+mann,5,21,Vestland,"in-house, privat sektor",ledelse/administrativt,916000,Nei
+mann,15,20,Vestland,"in-house, privat sektor",ledelse/administrativt,1050000,Nei
+mann,3,17,Vestland,"in-house, privat sektor",ledelse/administrativt,1160000,Ja
+mann,0,15,Vestland,"in-house, privat sektor",ledelse/administrativt,1000000,Nei
+mann,5,12,Vestland,"in-house, offentlig/kommunal sektor",ledelse/administrativt,820000,Nei
+mann,17,12,Vestland,"in-house, privat sektor",ledelse/administrativt,1380000,Ja
+mann,3,8,Vestland,"in-house, privat sektor",ledelse/administrativt,650000,Nei
+mann,6,7,Vestland,konsulent,ledelse/administrativt,850000,Ja
+mann,5,5,Vestland,konsulent,ledelse/administrativt,890000,Ja
+mann,0,3,Vestland,"in-house, privat sektor",ledelse/administrativt,500000,Nei
+mann,5,2,Vestland,"in-house, privat sektor",ledelse/administrativt,870000,Nei
+mann,16,38,Viken,"in-house, offentlig/kommunal sektor",ledelse/administrativt,700000,Nei
+mann,0,28,Viken,"in-house, privat sektor",ledelse/administrativt,1450000,Ja
+mann,5,26,Viken,"in-house, privat sektor",ledelse/administrativt,1250000,Ja
+mann,5,14,Viken,konsulent,ledelse/administrativt,1350000,Ja
+mann,0,10,Viken,"in-house, offentlig/kommunal sektor",ledelse/administrativt,825000,Nei
+mann,2,10,Viken,konsulent,ledelse/administrativt,1000000,Ja
+mann,3,8,Viken,"in-house, privat sektor",ledelse/administrativt,1010000,Nei
+mann,3,6,Viken,"in-house, privat sektor",ledelse/administrativt,1150000,Ja
+kvinne,3,5,Viken,konsulent,ledelse/administrativt,806000,Ja
+mann,0,5,Viken,"in-house, privat sektor",ledelse/administrativt,1350000,Ja
+mann,5,18,Agder,konsulent,programvare,1500000,Nei
+mann,0,14,Agder,konsulent,programvare,950000,Ja
+mann,3,1,Agder,"in-house, privat sektor",programvare,610000,Nei
+mann,5,0,Agder,"in-house, privat sektor",programvare,555000,Nei
+mann,3,0,Agder,konsulent,programvare,600000,Nei
+mann,16,20,Møre og Romsdal,"in-house, privat sektor",programvare,690000,Nei
+mann,18,18,Møre og Romsdal,"in-house, privat sektor",programvare,1000000,Nei
+mann,3,14,Møre og Romsdal,"in-house, privat sektor",programvare,800000,Nei
+mann,5,3,Nordland,"in-house, privat sektor",programvare,875000,Ja
+mann,0,27,Oslo,"in-house, privat sektor",programvare,1350000,Nei
+annet / ønsker ikke oppgi,5,20,Oslo,"in-house, offentlig/kommunal sektor",programvare,950000,Nei
+mann,5,20,Oslo,frilans / selvstendig næringsdrivende,programvare,2500000,Nei
+mann,5,13,Oslo,"in-house, privat sektor",programvare,900000,Nei
+mann,5,13,Oslo,konsulent,programvare,1060000,Nei
+mann,3,12,Oslo,"in-house, privat sektor",programvare,900000,Nei
+mann,5,11,Oslo,"in-house, privat sektor",programvare,1122000,Nei
+kvinne,5,7,Oslo,"in-house, privat sektor",programvare,876000,Nei
+mann,5,7,Oslo,konsulent,programvare,700000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",programvare,860000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",programvare,965000,Ja
+mann,5,6,Oslo,"in-house, privat sektor",programvare,950000,Nei
+kvinne,5,5,Oslo,konsulent,programvare,890000,Ja
+mann,3,5,Oslo,"in-house, privat sektor",programvare,890000,Nei
+mann,3,5,Oslo,konsulent,programvare,900000,Nei
+mann,5,5,Oslo,"in-house, privat sektor",programvare,900000,Nei
+mann,0,5,Oslo,konsulent,programvare,1050000,Ja
+mann,5,5,Oslo,konsulent,programvare,1100000,Ja
+mann,3,5,Oslo,konsulent,programvare,1200000,Nei
+mann,3,4,Oslo,"in-house, privat sektor",programvare,800000,Nei
+kvinne,5,3,Oslo,"in-house, offentlig/kommunal sektor",programvare,750000,Ja
+kvinne,3,2,Oslo,"in-house, privat sektor",programvare,660000,Nei
+kvinne,3,2,Oslo,"in-house, offentlig/kommunal sektor",programvare,700000,Nei
+mann,5,2,Oslo,konsulent,programvare,620000,Ja
+mann,5,2,Oslo,"in-house, privat sektor",programvare,690000,Ja
+mann,5,2,Oslo,"in-house, privat sektor",programvare,720000,Ja
+mann,6,2,Oslo,"in-house, privat sektor",programvare,750000,Nei
+kvinne,5,1,Oslo,konsulent,programvare,600000,Ja
+mann,4,15,Rogaland,"in-house, privat sektor",programvare,1057762,Nei
+mann,5,6,Rogaland,konsulent,programvare,998000,Nei
+kvinne,3,5,Rogaland,konsulent,programvare,825000,Nei
+mann,1,2,Rogaland,konsulent,programvare,700000,Ja
+mann,3,2,Rogaland,"in-house, privat sektor",programvare,770000,Nei
+mann,5,0,Rogaland,"in-house, privat sektor",programvare,660000,Ja
+mann,4,43,Trøndelag,"in-house, privat sektor",programvare,1100000,Ja
+mann,5,15,Trøndelag,"in-house, privat sektor",programvare,1000000,Ja
+mann,3,2,Trøndelag,"in-house, privat sektor",programvare,660000,Nei
+mann,5,1,Trøndelag,konsulent,programvare,680000,Ja
+mann,5,7,utlandet,"in-house, privat sektor",programvare,2206000,Nei
+kvinne,6,20,Vestfold og Telemark,"in-house, privat sektor",programvare,930000,Nei
+mann,6,16,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",programvare,1000000,Nei
+mann,5,15,Vestfold og Telemark,"in-house, privat sektor",programvare,1000000,Ja
+kvinne,6,10,Vestfold og Telemark,"in-house, privat sektor",programvare,930000,Nei
+mann,3,5,Vestfold og Telemark,konsulent,programvare,1300000,Ja
+mann,3,2,Vestfold og Telemark,"in-house, privat sektor",programvare,550000,Nei
+kvinne,3,25,Vestland,"in-house, privat sektor",programvare,1023000,Nei
+mann,3,22,Vestland,"in-house, privat sektor",programvare,998000,Nei
+mann,4,17,Vestland,"in-house, privat sektor",programvare,900000,Nei
+mann,0,12,Vestland,konsulent,programvare,825000,Nei
+mann,6,10,Vestland,"in-house, privat sektor",programvare,636000,Nei
+mann,3,5,Vestland,konsulent,programvare,950000,Nei
+annet / ønsker ikke oppgi,3,3,Vestland,konsulent,programvare,520000,Nei
+mann,3,2,Vestland,"in-house, privat sektor",programvare,665000,Nei
+mann,5,19,Viken,"in-house, privat sektor",programvare,1900000,Ja
+mann,3,15,Viken,frilans / selvstendig næringsdrivende,programvare,1600000,Ja
+mann,5,8,Viken,"in-house, privat sektor",programvare,620000,Nei
+mann,3,6,Viken,"in-house, privat sektor",programvare,790000,Nei
+mann,8,6,Viken,konsulent,programvare,1100000,Ja
+mann,3,3,Viken,"in-house, privat sektor",programvare,700000,Ja
+mann,3,1,Viken,"in-house, privat sektor",programvare,620000,Nei
+mann,3,1,Viken,"in-house, privat sektor",programvare,650000,Ja
+kvinne,1,0,Viken,"in-house, privat sektor",programvare,600000,Nei
+mann,5,0,Viken,"in-house, privat sektor",programvare,630000,Nei
+mann,5,5,Agder,"in-house, offentlig/kommunal sektor",sikkerhet,700000,Nei
+mann,0,3,Agder,"in-house, offentlig/kommunal sektor",sikkerhet,750000,Nei
+mann,4,1,Agder,"in-house, privat sektor",sikkerhet,580000,Nei
+mann,5,0,Agder,"in-house, privat sektor",sikkerhet,630000,Nei
+mann,3,25,Innlandet,konsulent,sikkerhet,1200000,Ja
+mann,4,16,Innlandet,frilans / selvstendig næringsdrivende,sikkerhet,1200000,Nei
+mann,3,16,Innlandet,konsulent,sikkerhet,1500000,Nei
+annet / ønsker ikke oppgi,4,1,Innlandet,"in-house, offentlig/kommunal sektor",sikkerhet,415000,Nei
+mann,3,7,Møre og Romsdal,konsulent,sikkerhet,1000000,Ja
+mann,3,12,Nordland,"in-house, privat sektor",sikkerhet,1300000,Ja
+mann,5,31,Oslo,konsulent,sikkerhet,2200000,Ja
+mann,17,24,Oslo,konsulent,sikkerhet,1500000,Ja
+mann,3,20,Oslo,"in-house, privat sektor",sikkerhet,1200000,Ja
+mann,6,17,Oslo,"in-house, privat sektor",sikkerhet,1144000,Nei
+mann,0,15,Oslo,konsulent,sikkerhet,1400000,Ja
+mann,3,14,Oslo,"in-house, privat sektor",sikkerhet,1050000,Nei
+mann,6,13,Oslo,konsulent,sikkerhet,1350000,Ja
+mann,5,12,Oslo,"in-house, privat sektor",sikkerhet,1360000,Ja
+mann,16,10,Oslo,"in-house, privat sektor",sikkerhet,1005000,Ja
+mann,2,10,Oslo,"in-house, privat sektor",sikkerhet,1350000,Nei
+kvinne,8,8,Oslo,"in-house, offentlig/kommunal sektor",sikkerhet,790000,Nei
+mann,3,8,Oslo,konsulent,sikkerhet,900000,Ja
+mann,5,8,Oslo,"in-house, privat sektor",sikkerhet,1100000,Ja
+mann,5,7,Oslo,"in-house, privat sektor",sikkerhet,899000,Nei
+mann,5,7,Oslo,konsulent,sikkerhet,1010000,Nei
+mann,3,7,Oslo,"in-house, privat sektor",sikkerhet,1500000,Ja
+mann,3,6,Oslo,konsulent,sikkerhet,700000,Nei
+mann,3,5,Oslo,"in-house, privat sektor",sikkerhet,807000,Nei
+mann,5,5,Oslo,konsulent,sikkerhet,985000,Ja
+annet / ønsker ikke oppgi,3,4,Oslo,"in-house, privat sektor",sikkerhet,750000,Nei
+mann,14,4,Oslo,"in-house, offentlig/kommunal sektor",sikkerhet,780000,Nei
+mann,6,4,Oslo,konsulent,sikkerhet,800000,Ja
+mann,6,4,Oslo,"in-house, offentlig/kommunal sektor",sikkerhet,838000,Nei
+mann,0,3,Oslo,"in-house, offentlig/kommunal sektor",sikkerhet,680000,Nei
+mann,5,3,Oslo,konsulent,sikkerhet,950000,Ja
+mann,3,2,Oslo,konsulent,sikkerhet,634000,Ja
+mann,3,2,Oslo,"in-house, offentlig/kommunal sektor",sikkerhet,827000,Ja
+mann,3,1,Oslo,"in-house, privat sektor",sikkerhet,468000,Nei
+mann,3,1,Oslo,konsulent,sikkerhet,530000,Ja
+mann,3,1,Oslo,"in-house, offentlig/kommunal sektor",sikkerhet,615000,Nei
+kvinne,5,0,Oslo,konsulent,sikkerhet,610000,Nei
+kvinne,5,0,Oslo,konsulent,sikkerhet,670000,Nei
+mann,5,0,Oslo,konsulent,sikkerhet,622000,Ja
+mann,4,24,Rogaland,konsulent,sikkerhet,875000,Ja
+mann,5,4,Rogaland,konsulent,sikkerhet,690000,Nei
+mann,3,4,Rogaland,"in-house, offentlig/kommunal sektor",sikkerhet,700000,Nei
+mann,8,4,Rogaland,konsulent,sikkerhet,950000,Ja
+kvinne,5,5,Troms og Finnmark,konsulent,sikkerhet,635000,Nei
+mann,5,24,Trøndelag,"in-house, privat sektor",sikkerhet,1100000,Nei
+mann,5,20,Trøndelag,"in-house, offentlig/kommunal sektor",sikkerhet,1015000,Nei
+mann,5,17,Trøndelag,"in-house, offentlig/kommunal sektor",sikkerhet,860000,Nei
+mann,0,10,Trøndelag,"in-house, offentlig/kommunal sektor",sikkerhet,750000,Nei
+mann,5,4,Trøndelag,"in-house, offentlig/kommunal sektor",sikkerhet,680000,Nei
+mann,6,1,Trøndelag,"in-house, offentlig/kommunal sektor",sikkerhet,526300,Nei
+mann,3,1,Trøndelag,konsulent,sikkerhet,600000,Ja
+mann,5,5,utlandet,"in-house, privat sektor",sikkerhet,2000000,Nei
+kvinne,3,15,Vestfold og Telemark,konsulent,sikkerhet,1200000,Ja
+mann,5,1,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",sikkerhet,680000,Nei
+mann,3,10,Vestland,konsulent,sikkerhet,1000000,Ja
+mann,6,9,Vestland,konsulent,sikkerhet,1200000,Nei
+mann,4,6,Vestland,konsulent,sikkerhet,520000,Nei
+mann,3,5,Vestland,konsulent,sikkerhet,825000,Nei
+mann,3,4,Vestland,"in-house, privat sektor",sikkerhet,850000,Nei
+mann,6,2,Vestland,konsulent,sikkerhet,600000,Ja
+mann,3,1,Vestland,"in-house, offentlig/kommunal sektor",sikkerhet,626000,Nei
+mann,5,1,Vestland,"in-house, offentlig/kommunal sektor",sikkerhet,630000,Nei
+mann,18,28,Viken,"in-house, privat sektor",sikkerhet,1300000,Nei
+mann,3,23,Agder,"in-house, privat sektor",testing,830000,Nei
+kvinne,3,23,Oslo,"in-house, privat sektor",testing,892000,Nei
+mann,6,21,Oslo,konsulent,testing,1500000,Nei
+kvinne,5,18,Oslo,konsulent,testing,1260000,Nei
+mann,7,17,Oslo,konsulent,testing,2000000,Ja
+kvinne,3,15,Oslo,"in-house, offentlig/kommunal sektor",testing,700000,Nei
+kvinne,9,15,Oslo,"in-house, offentlig/kommunal sektor",testing,950000,Ja
+mann,20,13,Oslo,konsulent,testing,1100000,Ja
+mann,3,12,Oslo,konsulent,testing,1200000,Ja
+mann,3,11,Oslo,konsulent,testing,1001000,Ja
+kvinne,20,10,Oslo,"in-house, offentlig/kommunal sektor",testing,600000,Ja
+mann,0,10,Oslo,konsulent,testing,1100000,Ja
+kvinne,5,8,Oslo,konsulent,testing,1000000,Ja
+kvinne,3,7,Oslo,konsulent,testing,800000,Nei
+mann,4,5,Oslo,konsulent,testing,800000,Ja
+mann,3,5,Oslo,konsulent,testing,930000,Ja
+kvinne,5,4,Oslo,"in-house, privat sektor",testing,870000,Nei
+mann,6,3,Oslo,"in-house, offentlig/kommunal sektor",testing,620000,Ja
+kvinne,5,2,Oslo,konsulent,testing,664000,Nei
+kvinne,4,2,Oslo,konsulent,testing,990000,Ja
+mann,3,2,Oslo,konsulent,testing,430000,Nei
+kvinne,3,13,Rogaland,konsulent,testing,850000,Ja
+mann,2,17,Troms og Finnmark,"in-house, privat sektor",testing,650000,Ja
+kvinne,3,10,Troms og Finnmark,"in-house, privat sektor",testing,820000,Ja
+mann,6,9,Trøndelag,konsulent,testing,1000000,Ja
+kvinne,5,10,Vestland,"in-house, privat sektor",testing,742000,Nei
+mann,3,5,Vestland,konsulent,testing,795000,Nei
+mann,3,2,Vestland,"in-house, offentlig/kommunal sektor",testing,560000,Nei
+mann,0,3,Viken,"in-house, privat sektor",testing,685000,Ja
+kvinne,5,2,Agder,"in-house, privat sektor",UX / design,620000,Nei
+kvinne,5,2,Agder,"in-house, privat sektor",UX / design,692500,Nei
+kvinne,5,12,Innlandet,konsulent,UX / design,620000,Nei
+kvinne,5,35,Oslo,konsulent,UX / design,820000,Nei
+kvinne,5,24,Oslo,konsulent,UX / design,920000,Ja
+mann,3,22,Oslo,frilans / selvstendig næringsdrivende,UX / design,600000,Nei
+mann,3,21,Oslo,konsulent,UX / design,1089000,Nei
+mann,0,18,Oslo,"in-house, offentlig/kommunal sektor",UX / design,805000,Nei
+mann,5,16,Oslo,"in-house, privat sektor",UX / design,1000000,Nei
+mann,4,15,Oslo,konsulent,UX / design,1000000,Ja
+mann,5,14,Oslo,"in-house, offentlig/kommunal sektor",UX / design,970000,Nei
+kvinne,4,12,Oslo,"in-house, privat sektor",UX / design,800000,Nei
+kvinne,6,11,Oslo,"in-house, privat sektor",UX / design,915000,Nei
+kvinne,1,10,Oslo,"in-house, privat sektor",UX / design,780000,Nei
+mann,3,10,Oslo,"in-house, privat sektor",UX / design,850000,Nei
+mann,3,10,Oslo,"in-house, privat sektor",UX / design,910000,Nei
+kvinne,4,9,Oslo,"in-house, privat sektor",UX / design,880000,Nei
+kvinne,3,8,Oslo,konsulent,UX / design,720000,Nei
+kvinne,6,8,Oslo,konsulent,UX / design,800000,Nei
+mann,3,8,Oslo,"in-house, privat sektor",UX / design,900000,Nei
+kvinne,6,7,Oslo,"in-house, offentlig/kommunal sektor",UX / design,720000,Nei
+mann,7,7,Oslo,konsulent,UX / design,1400000,Nei
+mann,3,6,Oslo,"in-house, privat sektor",UX / design,805000,Nei
+kvinne,3,5,Oslo,konsulent,UX / design,845000,Ja
+kvinne,5,4,Oslo,konsulent,UX / design,840000,Ja
+kvinne,3,3,Oslo,konsulent,UX / design,700000,Nei
+kvinne,3,3,Oslo,"in-house, offentlig/kommunal sektor",UX / design,700000,Nei
+annet / ønsker ikke oppgi,4,2,Oslo,"in-house, privat sektor",UX / design,580000,Nei
+annet / ønsker ikke oppgi,6,2,Oslo,"in-house, privat sektor",UX / design,650000,Nei
+kvinne,3,2,Oslo,"in-house, privat sektor",UX / design,604000,Nei
+kvinne,3,2,Oslo,"in-house, offentlig/kommunal sektor",UX / design,636000,Nei
+kvinne,5,2,Oslo,konsulent,UX / design,650000,Ja
+mann,5,2,Oslo,konsulent,UX / design,675000,Nei
+kvinne,5,1,Oslo,konsulent,UX / design,600000,Nei
+kvinne,5,1,Oslo,konsulent,UX / design,610000,Nei
+kvinne,5,1,Oslo,konsulent,UX / design,620000,Nei
+kvinne,5,1,Oslo,konsulent,UX / design,630000,Nei
+kvinne,3,0,Oslo,konsulent,UX / design,570000,Nei
+kvinne,5,0,Oslo,"in-house, offentlig/kommunal sektor",UX / design,600000,Nei
+kvinne,5,0,Oslo,konsulent,UX / design,640000,Nei
+mann,5,10,Rogaland,konsulent,UX / design,930000,Ja
+mann,0,5,Troms og Finnmark,"in-house, privat sektor",UX / design,730000,Nei
+kvinne,5,0,Troms og Finnmark,"in-house, offentlig/kommunal sektor",UX / design,597000,Nei
+kvinne,5,20,Trøndelag,konsulent,UX / design,900000,Ja
+mann,3,10,Trøndelag,konsulent,UX / design,950000,Ja
+mann,3,7,Trøndelag,konsulent,UX / design,800000,Nei
+kvinne,2,5,Trøndelag,"in-house, privat sektor",UX / design,650000,Nei
+kvinne,5,5,Trøndelag,"in-house, privat sektor",UX / design,780000,Nei
+kvinne,5,0,Trøndelag,konsulent,UX / design,630000,Nei
+mann,0,18,utlandet,"in-house, privat sektor",UX / design,1550000,Ja
+mann,3,14,Vestfold og Telemark,"in-house, offentlig/kommunal sektor",UX / design,720000,Nei
+mann,5,8,Vestland,konsulent,UX / design,875000,Nei
+mann,0,23,Viken,"in-house, privat sektor",UX / design,1300000,Nei
+mann,3,15,Viken,konsulent,UX / design,1000000,Ja
+kvinne,3,1,Viken,"in-house, privat sektor",UX / design,665000,Nei
